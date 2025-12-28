@@ -1,0 +1,58 @@
+# --- Minecraft Specific ---
+# Ignore backup files created by editors
+*.json.bak
+*.mcmeta.bak
+
+# Ignore world-specific data if you develop inside a world folder
+# (Optional: uncomment if your pack is inside a /saves/ folder)
+# level.dat
+# session.lock
+# region/
+# poi/
+# entities/
+
+# --- IDE / Editors ---
+
+# Visual Studio Code
+*.code-workspace
+.vscode/
+# Exceptions for VS Code (allow shared extensions/settings if you prefer)
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+.node_history
+.project
+.metadata
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Python / Scripting ---
+# (Since you are using Python scripts to manage your JSON files)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# --- Tools ---
+# If you use compilers like Beet or Weld
+.beet/
+build/
+dist/
