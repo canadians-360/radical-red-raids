@@ -1,6 +1,6 @@
 {
     "include": [
-        "cobblemonraiddens:avalugg hisuian"
+        "cobblemonraiddens:avalugg"
     ],
     "exclude": [],
     "additions": {
@@ -16,7 +16,13 @@
         "den": [
             "cobblemonraiddens:raid_den/radical"
         ],
-        "weight": 0.2
+        "weight": 0.2,
+        "base_form": [
+            {
+                "name": "hisuian",
+                "value": true
+            }
+        ]
     },
     "replace": false,
     "suffix": "radical"

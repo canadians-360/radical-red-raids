@@ -1,6 +1,6 @@
 {
     "include": [
-        "cobblemonraiddens:lycanroc midnight"
+        "cobblemonraiddens:lycanroc"
     ],
     "exclude": [],
     "additions": {
@@ -15,7 +15,13 @@
         "den": [
             "cobblemonraiddens:raid_den/radical"
         ],
-        "weight": 0.2
+        "weight": 0.2,
+        "base_form": [
+            {
+                "name": "midnight",
+                "value": true
+            }
+        ]
     },
     "replace": false,
     "suffix": "radical"
