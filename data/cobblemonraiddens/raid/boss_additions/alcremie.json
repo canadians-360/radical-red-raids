@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:alcremie"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "moonblast",
+                "decorate",
+                "mystical fire",
+                "calm mind"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

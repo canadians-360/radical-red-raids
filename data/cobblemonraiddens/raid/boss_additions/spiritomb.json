@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:spiritomb"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "dark pulse",
+                "extrasensory",
+                "burning jealousy",
+                "calm mind"
+            ],
+            "ability": "intimidate"
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

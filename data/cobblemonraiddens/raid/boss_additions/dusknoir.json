@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:dusknoir"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "hammer arm",
+                "dynamic punch",
+                "shadow claw",
+                "shadow sneak"
+            ],
+            "ability": "hustle"
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

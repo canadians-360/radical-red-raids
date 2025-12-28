@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:ninjask"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["first impression", "cut", "drill run", "swords dance"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

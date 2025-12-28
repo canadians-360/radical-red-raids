@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:claydol"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["shore up", "earth power", "psychic", "cosmic power"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

@@ -1,0 +1,18 @@
+{
+    "include": [
+        "cobblemonraiddens:granbull"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "ability": "strong jaw",
+            "moves": ["jaw lock", "hammer arm", "flare blitz", "bulk up"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

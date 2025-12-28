@@ -1,0 +1,18 @@
+{
+    "include": [
+        "cobblemonraiddens:delibird"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "ability": "snow warning",
+            "moves": ["extreme speed", "blizzard", "drill run", "nasty plot"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

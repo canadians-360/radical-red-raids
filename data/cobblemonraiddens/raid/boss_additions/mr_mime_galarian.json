@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:mrmime"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves":  ["frost breath", "freeze-dry", "psychic", "nasty plot"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2,
+        "base_form": [
+            {
+                "name": "galarian",
+                "value": true
+            }
+        ]
+    },
+    "replace": false,
+    "suffix": "radical"
+}

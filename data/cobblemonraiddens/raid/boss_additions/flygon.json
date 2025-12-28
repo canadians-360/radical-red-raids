@@ -1,0 +1,18 @@
+{
+    "include": [
+        "cobblemonraiddens:flygon"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "ability": "tinted lens",
+            "moves": ["dragon darts", "headlong rush", "u-turn", "dragon dance"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

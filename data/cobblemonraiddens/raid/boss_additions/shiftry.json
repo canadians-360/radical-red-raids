@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:shiftry"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["parting shot", "leaf blade", "knock off", "swords dance"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

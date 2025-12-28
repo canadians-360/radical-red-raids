@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:pinsir"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["megahorn", "extreme speed", "earthquake", "swords dance"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

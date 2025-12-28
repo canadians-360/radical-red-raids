@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:dunsparce"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["no retreat", "body slam", "drill run", "rock slide"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

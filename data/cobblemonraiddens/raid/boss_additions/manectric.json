@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:manectric"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["thunderbolt", "flamethrower", "volt switch", "howl"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

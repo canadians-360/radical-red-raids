@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:clawitzer"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "snipe shot",
+                "origin pulse",
+                "aura sphere",
+                "dragon pulse"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

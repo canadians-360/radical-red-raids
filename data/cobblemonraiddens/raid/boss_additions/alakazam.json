@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:alakazam"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["hidden power", "psychic", "focus blast", "nasty plot"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

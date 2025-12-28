@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:kricketune"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "bullet seed",
+                "pin missile",
+                "mega drain",
+                "double hit"
+            ],
+            "ability": "technician"
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

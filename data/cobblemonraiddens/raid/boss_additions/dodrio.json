@@ -1,0 +1,18 @@
+{
+    "include": [
+        "cobblemonraiddens:dodrio"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "ability": "rock head",
+            "moves": ["u-turn", "brave bird", "jump kick", "swords dance"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

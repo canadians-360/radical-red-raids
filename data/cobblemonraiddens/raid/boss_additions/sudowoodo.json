@@ -1,0 +1,18 @@
+{
+    "include": [
+        "cobblemonraiddens:sudowoodo"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "ability": "imposter",
+            "moves": ["wood hammer", "stone edge", "sucker punch", "hammer arm"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:lucario"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "mach punch",
+                "meteor mash",
+                "extreme speed",
+                "swords dance"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

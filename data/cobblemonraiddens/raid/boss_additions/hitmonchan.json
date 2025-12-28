@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:hitmonchan"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["sucker punch", "drain punch", "ice punch", "bulk up"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

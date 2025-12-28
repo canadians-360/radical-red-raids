@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:espeon"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["teleport", "fiery dance", "psychic", "calm mind"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

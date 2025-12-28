@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:leafeon"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "jump kick",
+                "stomping tantrum",
+                "leaf blade",
+                "swords dance"
+            ],
+            "ability": "sap sipper"
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

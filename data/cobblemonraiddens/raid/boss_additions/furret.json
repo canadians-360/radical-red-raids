@@ -1,0 +1,18 @@
+{
+    "include": [
+        "cobblemonraiddens:furret"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "ability": "adaptability",
+            "moves": ["sucker punch", "extreme speed", "double-edge", "coil"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

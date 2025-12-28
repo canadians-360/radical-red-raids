@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:bastiodon"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "body press",
+                "iron head",
+                "stone edge",
+                "earthquake"
+            ],
+            "ability": "dauntless shield"
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:magmortar"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "magma storm",
+                "steam eruption",
+                "scald",
+                "meteor beam"
+            ],
+            "ability": "quick draw"
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

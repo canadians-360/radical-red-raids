@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:decidueye"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "thousand arrows",
+                "leaf blade",
+                "spirit shackle",
+                "swords dance"
+            ],
+            "ability": "tinted lens"
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

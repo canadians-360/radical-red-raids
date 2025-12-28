@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:infernape"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "pyro ball",
+                "aura sphere",
+                "drain punch",
+                "swords dance"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

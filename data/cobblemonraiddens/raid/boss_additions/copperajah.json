@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:copperajah"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "double iron bash",
+                "earthquake",
+                "power whip",
+                "heat crash"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

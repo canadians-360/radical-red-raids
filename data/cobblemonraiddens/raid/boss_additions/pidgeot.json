@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:pidgeot"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["focus blast", "hyper voice", "hurricane", "work up"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

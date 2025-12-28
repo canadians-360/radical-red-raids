@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:togekiss"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["moonblast", "brave bird", "calm mind", "aeroblast"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

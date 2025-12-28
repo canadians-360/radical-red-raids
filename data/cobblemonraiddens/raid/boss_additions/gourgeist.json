@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:gourgeist"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "poltergeist",
+                "power whip",
+                "flare blitz",
+                "shadow sneak"
+            ],
+            "ability": "guts"
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

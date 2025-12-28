@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:aromatisse"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "sparkly swirl",
+                "moonblast",
+                "thunderbolt",
+                "calm mind"
+            ],
+            "ability": "fairy aura"
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

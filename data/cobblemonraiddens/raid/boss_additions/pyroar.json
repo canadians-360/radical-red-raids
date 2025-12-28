@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:pyroar"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "fire blast",
+                "hyper voice",
+                "scorching sands",
+                "dark pulse"
+            ],
+            "ability": "adaptability"
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:goodra hisuian"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "dragon hammer",
+                "giga drain",
+                "drain punch",
+                "flash cannon"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

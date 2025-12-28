@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:cherrim"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "stun spore",
+                "grav apple",
+                "solar blade",
+                "x-scissor"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

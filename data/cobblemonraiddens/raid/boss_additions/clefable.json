@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:clefable"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["fleur cannon", "moonblast", "flamethrower", "calm mind"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

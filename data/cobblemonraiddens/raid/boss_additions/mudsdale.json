@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:mudsdale"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "slack off",
+                "earthquake",
+                "body press",
+                "heavy slam"
+            ],
+            "ability": "tangling hair"
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

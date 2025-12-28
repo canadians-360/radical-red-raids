@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:lanturn"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["parabolic charge", "scald", "ice beam", "calm mind"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

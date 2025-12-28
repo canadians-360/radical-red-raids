@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:drifblim"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "extrasensory",
+                "strength sap",
+                "hurricane",
+                "nasty plot"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

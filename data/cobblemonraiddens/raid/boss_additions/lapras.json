@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:lapras"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["dragon pulse", "wish", "boomburst", "dragon hammer"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

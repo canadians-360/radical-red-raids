@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:breloom"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["spore", "bullet seed", "mach punch", "swords dance"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

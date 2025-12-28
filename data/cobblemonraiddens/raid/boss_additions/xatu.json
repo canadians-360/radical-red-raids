@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:xatu"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["esper wing", "heat wave", "roost", "calm mind"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

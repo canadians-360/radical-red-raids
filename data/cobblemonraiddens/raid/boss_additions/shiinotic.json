@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:shiinotic"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "sparkling swirl",
+                "giga drain",
+                "sludge bomb",
+                "strength sap"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

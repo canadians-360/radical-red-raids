@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:toxicroak"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "earth power",
+                "aura sphere",
+                "sludge bomb",
+                "nasty plot"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

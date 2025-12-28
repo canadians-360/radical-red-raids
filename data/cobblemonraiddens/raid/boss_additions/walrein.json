@@ -1,0 +1,18 @@
+{
+    "include": [
+        "cobblemonraiddens:walrein"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "ability": "fur coat",
+            "moves": ["baby-doll eyes", "scald", "ice beam", "stockpile"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

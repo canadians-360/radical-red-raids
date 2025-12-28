@@ -1,0 +1,24 @@
+{
+    "include": [
+        "cobblemonraiddens:sandslash"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "ability": "ice scales",
+            "moves": ["ice shard", "spikes", "spiky shield", "swords dance"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2,
+        "base_form": [
+            {
+                "name": "alolan",
+                "value": true
+            }
+        ]
+    },
+    "replace": false,
+    "suffix": "radical"
+}

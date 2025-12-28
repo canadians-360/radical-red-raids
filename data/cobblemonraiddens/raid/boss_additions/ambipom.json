@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:ambipom"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "mud bomb",
+                "quick attack",
+                "arm thrust",
+                "knock off"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

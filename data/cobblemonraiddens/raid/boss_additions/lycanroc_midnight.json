@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:lycanroc midnight"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "head smash",
+                "sing",
+                "play rough",
+                "swords dance"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

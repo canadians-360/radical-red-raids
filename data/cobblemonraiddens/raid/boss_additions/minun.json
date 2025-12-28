@@ -1,0 +1,18 @@
+{
+    "include": [
+        "cobblemonraiddens:minun"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "ability": "galvanize",
+            "moves": ["double-edge", "extreme speed", "surf", "knock off"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

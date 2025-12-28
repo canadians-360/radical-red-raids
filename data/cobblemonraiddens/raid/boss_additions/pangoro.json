@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:pangoro"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "sucker punch",
+                "wicked blow",
+                "drain punch",
+                "gunk shot"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

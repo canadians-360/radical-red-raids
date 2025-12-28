@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:ampharos"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["tail glow", "clanging scales", "thunderbolt", "focus blast"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

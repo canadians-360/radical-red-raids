@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:glaceon"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "earth power",
+                "freeze-dry",
+                "shadow ball",
+                "aura sphere"
+            ],
+            "ability": "slush rush"
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

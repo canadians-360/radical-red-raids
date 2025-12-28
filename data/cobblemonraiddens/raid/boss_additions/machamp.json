@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:machamp"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["mach punch", "drain punch", "knock off", "bulk up"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

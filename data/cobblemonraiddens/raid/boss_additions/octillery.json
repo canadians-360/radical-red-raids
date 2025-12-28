@@ -1,0 +1,18 @@
+{
+    "include": [
+        "cobblemonraiddens:octillery"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "ability": "mega launcher",
+            "moves": ["snipe shot", "icicle spear", "pin missile", "aura sphere"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

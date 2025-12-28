@@ -1,0 +1,38 @@
+{
+  "pokemon": [
+    "arbok",
+    "venomoth",
+    "golduck",
+    "rapidash",
+    "farfetchd",
+    "meganium",
+    "ledian",
+    "bellossom",
+    "sunflora",
+    "granbull",
+    "masquerain",
+    "sceptile",
+    "tropius",
+    "huntail",
+    "gorebyss",
+    "luvdisc",
+    "luxray",
+    "lopunny",
+    "samurott",
+    "beartic",
+    "lurantis",
+    "falinks",
+    "grapploct",
+    "pincurchin",
+    "electivire",
+    "mismagius",
+    "lapras",
+    "volbeat",
+    "electivire",
+    "mismagius",
+    "rapidash"
+  ],
+  "features": [
+    "radical"
+  ]
+}

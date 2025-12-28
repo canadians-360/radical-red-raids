@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:dedenne"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "rising voltage",
+                "play rough",
+                "grass knot",
+                "thunderbolt"
+            ],
+            "ability": "electric surge"
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

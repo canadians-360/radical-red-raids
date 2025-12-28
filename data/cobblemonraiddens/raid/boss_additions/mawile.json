@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:mawile"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["double iron bash", "play rough", "fire punch", "swords dance"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

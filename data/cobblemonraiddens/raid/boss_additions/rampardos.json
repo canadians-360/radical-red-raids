@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:rampardos"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "accelerock",
+                "head smash",
+                "earthquake",
+                "zen headbutt"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

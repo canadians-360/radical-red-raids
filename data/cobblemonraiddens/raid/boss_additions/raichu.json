@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:raichu"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["fake out", "calm mind", "thunderbolt", "surf"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

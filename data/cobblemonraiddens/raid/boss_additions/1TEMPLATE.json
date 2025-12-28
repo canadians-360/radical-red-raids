@@ -1,0 +1,14 @@
+{
+    "include": ["cobblemonraiddens:REPLACE"],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "ability": "REPLACE",
+            "moves": []
+        },
+        "den": ["cobblemonraiddens:raid_den/radical"],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

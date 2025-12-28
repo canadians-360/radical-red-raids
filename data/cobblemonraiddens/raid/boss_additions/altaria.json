@@ -1,0 +1,26 @@
+{
+    "include": [
+        "cobblemonraiddens:altaria"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "species": "altaria",
+            "ability": "pixilate",
+            "moves": [
+                "hypervoice",
+                "calmmind",
+                "dracometeor",
+                "hurricane"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "raid_tier": "TIER_FOUR",
+        "raid_type": "DRAGON",
+        "weight": 0.9
+    },
+    "replace": false,
+    "suffix": "radical"
+}

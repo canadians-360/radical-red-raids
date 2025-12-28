@@ -1,0 +1,17 @@
+{
+    "include": [
+        "cobblemonraiddens:gloom"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": ["strength sap", "apple acid", "sludge bomb", "growth"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

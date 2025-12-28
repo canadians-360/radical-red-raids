@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:delphox"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "future sight",
+                "mind blown",
+                "nasty plot",
+                "dazzling gleam"
+            ],
+            "ability": "magic guard"
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

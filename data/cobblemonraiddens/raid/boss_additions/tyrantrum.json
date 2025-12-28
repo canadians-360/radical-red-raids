@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:tyrantrum"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "accelerock",
+                "scale shot",
+                "head smash",
+                "dragon dance"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

@@ -1,0 +1,18 @@
+{
+    "include": [
+        "cobblemonraiddens:glalie"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "ability": "refrigerate",
+            "moves": ["quick attack", "fake out", "hyper voice", "spikes"]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

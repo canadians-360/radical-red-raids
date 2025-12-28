@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:roserade"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "draining kiss",
+                "apple acid",
+                "silver wind",
+                "clear smog"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

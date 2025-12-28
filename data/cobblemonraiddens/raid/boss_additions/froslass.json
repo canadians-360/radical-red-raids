@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:froslass"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "bitter malice",
+                "freeze-dry",
+                "shadow ball",
+                "triple axel"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

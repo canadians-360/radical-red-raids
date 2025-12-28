@@ -1,0 +1,23 @@
+{
+    "include": [
+        "cobblemonraiddens:avalugg"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "ice shard",
+                "mountain gale",
+                "body press",
+                "recover"
+            ],
+            "ability": "filter"
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}

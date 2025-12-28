@@ -1,0 +1,22 @@
+{
+    "include": [
+        "cobblemonraiddens:toucannon"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "flare blitz",
+                "brave bird",
+                "bullet seed",
+                "rock blast"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2
+    },
+    "replace": false,
+    "suffix": "radical"
+}
