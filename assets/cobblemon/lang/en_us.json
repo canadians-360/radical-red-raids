@@ -1,6 +1,6 @@
 {
   "cobblemon.move.aquafang": "Aqua Fang",
   "cobblemon.move.aquafang.desc": "The user bites the target with water-infused fangs. This may make the target flinch.",
-  "cobblemon.move.sonic_slash": "Sonic Slash",
-  "cobblemon.move.sonic_slash.desc": "The user slashes the target at high speed. The faster the user is compared to the target, the greater the move's power."
+  "cobblemon.move.sonicslash": "Sonic Slash",
+  "cobblemon.move.sonicslash.desc": "The user slashes the target at high speed. The faster the user is compared to the target, the greater the move's power."
 }
