@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "psyshield bash",
-                "gyro ball",
+                "psyshieldbash",
+                "gyroball",
                 "earthquake",
-                "body press"
+                "bodypress"
             ]
         },
         "den": [

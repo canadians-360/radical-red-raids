@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "huge power",
-            "moves": ["scald", "focus blast", "earthquake", "noble roar"]
+            "ability": "hugepower",
+            "moves": [
+                "scald",
+                "focusblast",
+                "earthquake",
+                "nobleroar"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

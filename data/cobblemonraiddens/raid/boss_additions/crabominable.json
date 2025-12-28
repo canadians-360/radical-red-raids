@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "ice shard",
-                "mach punch",
-                "drain punch",
-                "ice hammer"
+                "iceshard",
+                "machpunch",
+                "drainpunch",
+                "icehammer"
             ]
         },
         "den": [

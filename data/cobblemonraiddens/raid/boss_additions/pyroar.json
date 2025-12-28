@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "fire blast",
-                "hyper voice",
-                "scorching sands",
-                "dark pulse"
+                "fireblast",
+                "hypervoice",
+                "scorchingsands",
+                "darkpulse"
             ],
             "ability": "adaptability"
         },

@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["fiery wrath", "sludge bomb", "fire blast", "nasty plot"]
+            "moves": [
+                "fierywrath",
+                "sludgebomb",
+                "fireblast",
+                "nastyplot"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

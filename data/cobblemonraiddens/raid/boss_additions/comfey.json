@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "sparkly swirl",
-                "draining kiss",
-                "giga drain",
-                "calm mind"
+                "sparklyswirl",
+                "drainingkiss",
+                "gigadrain",
+                "calmmind"
             ]
         },
         "den": [

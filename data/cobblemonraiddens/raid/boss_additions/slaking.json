@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["knock off", "double-edge", "earthquake", "bulk up"]
+            "moves": [
+                "knockoff",
+                "double-edge",
+                "earthquake",
+                "bulkup"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

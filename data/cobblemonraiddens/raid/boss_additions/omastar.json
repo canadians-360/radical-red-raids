@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["power gem", "hydro pump", "ice beam", "shell smash"]
+            "moves": [
+                "powergem",
+                "hydropump",
+                "icebeam",
+                "shellsmash"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

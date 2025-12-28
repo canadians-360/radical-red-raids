@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "parental bond",
-            "moves": ["boomburst", "psychic", "thunderbolt", "nasty plot"]
+            "ability": "parentalbond",
+            "moves": [
+                "boomburst",
+                "psychic",
+                "thunderbolt",
+                "nastyplot"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

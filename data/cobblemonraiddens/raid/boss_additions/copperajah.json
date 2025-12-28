@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "double iron bash",
+                "doubleironbash",
                 "earthquake",
-                "power whip",
-                "heat crash"
+                "powerwhip",
+                "heatcrash"
             ]
         },
         "den": [

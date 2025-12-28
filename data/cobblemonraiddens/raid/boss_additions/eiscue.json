@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "ice shard",
-                "frost breath",
+                "iceshard",
+                "frostbreath",
                 "liquidation",
-                "belly drum"
+                "bellydrum"
             ]
         },
         "den": [

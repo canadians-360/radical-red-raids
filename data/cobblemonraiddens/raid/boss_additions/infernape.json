@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "pyro ball",
-                "aura sphere",
-                "drain punch",
-                "swords dance"
+                "pyroball",
+                "aurasphere",
+                "drainpunch",
+                "swordsdance"
             ]
         },
         "den": [

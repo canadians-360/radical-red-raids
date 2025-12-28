@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "sand rush",
-            "moves":  ["knock off", "seed bomb", "drain punch", "swords dance"]
+            "ability": "sandrush",
+            "moves": [
+                "knockoff",
+                "seedbomb",
+                "drainpunch",
+                "swordsdance"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

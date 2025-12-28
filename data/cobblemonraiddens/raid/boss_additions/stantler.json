@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "reckless",
-            "moves": ["horn leech", "hyper voice", "play rough", "calm mind"]
+            "moves": [
+                "hornleech",
+                "hypervoice",
+                "playrough",
+                "calmmind"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

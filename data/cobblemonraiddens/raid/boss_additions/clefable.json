@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["fleur cannon", "moonblast", "flamethrower", "calm mind"]
+            "moves": [
+                "fleurcannon",
+                "moonblast",
+                "flamethrower",
+                "calmmind"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

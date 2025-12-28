@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["sacred sword", "drill peck", "brick break", "roost"]
+            "moves": [
+                "sacredsword",
+                "drillpeck",
+                "brickbreak",
+                "roost"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

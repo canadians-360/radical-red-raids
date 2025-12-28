@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "sheer force",
-            "moves": ["moonblast", "lovely kiss", "flamethrower", "ice beam"]
+            "ability": "sheerforce",
+            "moves": [
+                "moonblast",
+                "lovelykiss",
+                "flamethrower",
+                "icebeam"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["leech life", "night shade", "will-o-wisp", "calm mind"]
+            "moves": [
+                "leechlife",
+                "nightshade",
+                "will-o-wisp",
+                "calmmind"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

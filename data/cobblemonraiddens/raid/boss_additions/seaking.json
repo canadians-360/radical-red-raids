@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "rain dish",
-            "moves": ["aqua jet", "fishious rend", "megahorn", "swords dance"]
+            "ability": "raindish",
+            "moves": [
+                "aquajet",
+                "fishiousrend",
+                "megahorn",
+                "swordsdance"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

@@ -7,9 +7,9 @@
         "pokemon": {
             "moves": [
                 "poltergeist",
-                "power whip",
-                "flare blitz",
-                "shadow sneak"
+                "powerwhip",
+                "flareblitz",
+                "shadowsneak"
             ],
             "ability": "guts"
         },

@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["frost breath", "weather ball", "scald", "growth"]
+            "moves": [
+                "frostbreath",
+                "weatherball",
+                "scald",
+                "growth"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

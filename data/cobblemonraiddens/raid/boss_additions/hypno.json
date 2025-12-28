@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "psychic surge",
-            "moves": ["zen headbutt", "drain punch", "fire punch", "bulk up"]
+            "ability": "psychicsurge",
+            "moves": [
+                "zenheadbutt",
+                "drainpunch",
+                "firepunch",
+                "bulkup"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

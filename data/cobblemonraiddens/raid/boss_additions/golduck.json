@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "neuroforce",
-            "moves": ["nasty plot", "hydro pump", "ice beam", "psychic"]
+            "moves": [
+                "nastyplot",
+                "hydropump",
+                "icebeam",
+                "psychic"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

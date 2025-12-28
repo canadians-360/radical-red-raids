@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "imposter",
-            "moves": ["wood hammer", "stone edge", "sucker punch", "hammer arm"]
+            "moves": [
+                "woodhammer",
+                "stoneedge",
+                "suckerpunch",
+                "hammerarm"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

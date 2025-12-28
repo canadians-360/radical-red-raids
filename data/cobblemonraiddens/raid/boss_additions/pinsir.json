@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["megahorn", "extreme speed", "earthquake", "swords dance"]
+            "moves": [
+                "megahorn",
+                "extremespeed",
+                "earthquake",
+                "swordsdance"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

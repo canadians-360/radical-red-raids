@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["surging strikes", "flip turn", "drain punch", "bulk up"]
+            "moves": [
+                "surgingstrikes",
+                "flipturn",
+                "drainpunch",
+                "bulkup"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

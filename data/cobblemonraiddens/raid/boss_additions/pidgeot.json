@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["focus blast", "hyper voice", "hurricane", "work up"]
+            "moves": [
+                "focusblast",
+                "hypervoice",
+                "hurricane",
+                "workup"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

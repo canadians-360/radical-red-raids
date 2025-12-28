@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "flip turn",
+                "flipturn",
                 "roost",
                 "scald",
-                "ice beam"
+                "icebeam"
             ],
             "ability": "dazzling"
         },

@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "dry skin",
-            "moves": ["freezing glare", "psystrike", "psycho boost", "aura sphere"]
+            "ability": "dryskin",
+            "moves": [
+                "freezingglare",
+                "psystrike",
+                "psychoboost",
+                "aurasphere"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

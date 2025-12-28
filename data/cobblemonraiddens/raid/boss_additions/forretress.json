@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["lunge", "gyro ball", "volt switch", "iron defense"]
+            "moves": [
+                "lunge",
+                "gyroball",
+                "voltswitch",
+                "irondefense"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

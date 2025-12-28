@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "gorilla tactics",
-            "moves": ["close combat", "ice punch", "u-turn", "stone edge"]
+            "ability": "gorillatactics",
+            "moves": [
+                "closecombat",
+                "icepunch",
+                "u-turn",
+                "stoneedge"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

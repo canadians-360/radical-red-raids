@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "merciless",
-            "moves": ["gunk shot", "hypnosis", "power whip", "ice fang"]
+            "moves": [
+                "gunkshot",
+                "hypnosis",
+                "powerwhip",
+                "icefang"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

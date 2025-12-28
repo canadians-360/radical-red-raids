@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["power gem", "knock off", "stone edge", "dragon dance"]
+            "moves": [
+                "powergem",
+                "knockoff",
+                "stoneedge",
+                "dragondance"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

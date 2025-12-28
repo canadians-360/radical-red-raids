@@ -7,8 +7,8 @@
         "pokemon": {
             "moves": [
                 "surf",
-                "ice beam",
-                "flash cannon",
+                "icebeam",
+                "flashcannon",
                 "roost"
             ],
             "ability": "competitive"

@@ -6,9 +6,9 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "leaf storm",
-                "apple acid",
-                "dragon pulse",
+                "leafstorm",
+                "appleacid",
+                "dragonpulse",
                 "recover"
             ]
         },

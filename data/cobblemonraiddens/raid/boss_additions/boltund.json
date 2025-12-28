@@ -6,9 +6,9 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "ice fang",
-                "thunder fang",
-                "fire fang",
+                "icefang",
+                "thunderfang",
+                "firefang",
                 "crunch"
             ],
             "ability": "intimidate"

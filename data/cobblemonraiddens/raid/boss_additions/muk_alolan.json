@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["parting shot", "sucker punch", "drain punch", "curse"]
+            "moves": [
+                "partingshot",
+                "suckerpunch",
+                "drainpunch",
+                "curse"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

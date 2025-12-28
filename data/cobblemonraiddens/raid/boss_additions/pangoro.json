@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "sucker punch",
-                "wicked blow",
-                "drain punch",
-                "gunk shot"
+                "suckerpunch",
+                "wickedblow",
+                "drainpunch",
+                "gunkshot"
             ]
         },
         "den": [

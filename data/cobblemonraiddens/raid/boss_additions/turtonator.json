@@ -6,12 +6,12 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "shell smash",
-                "fire blast",
-                "dragon pulse",
-                "flash cannon"
+                "shellsmash",
+                "fireblast",
+                "dragonpulse",
+                "flashcannon"
             ],
-            "ability": "dauntless shield"
+            "ability": "dauntlessshield"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

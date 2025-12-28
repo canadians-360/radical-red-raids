@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "snipe shot",
-                "origin pulse",
-                "aura sphere",
-                "dragon pulse"
+                "snipeshot",
+                "originpulse",
+                "aurasphere",
+                "dragonpulse"
             ]
         },
         "den": [

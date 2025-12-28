@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "bullet seed",
-                "pin missile",
-                "mega drain",
-                "double hit"
+                "bulletseed",
+                "pinmissile",
+                "megadrain",
+                "doublehit"
             ],
             "ability": "technician"
         },

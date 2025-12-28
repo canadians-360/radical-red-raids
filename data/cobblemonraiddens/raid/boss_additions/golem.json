@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["rapid spin", "headlong rush", "body press", "head smash"]
+            "moves": [
+                "rapidspin",
+                "headlongrush",
+                "bodypress",
+                "headsmash"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

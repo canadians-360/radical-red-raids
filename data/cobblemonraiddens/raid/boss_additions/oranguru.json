@@ -6,12 +6,12 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "hyper voice",
+                "hypervoice",
                 "psychic",
-                "focus blast",
-                "shadow ball"
+                "focusblast",
+                "shadowball"
             ],
-            "ability": "psychic surge"
+            "ability": "psychicsurge"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "fur coat",
-            "moves": ["baby-doll eyes", "scald", "ice beam", "stockpile"]
+            "ability": "furcoat",
+            "moves": [
+                "baby-dolleyes",
+                "scald",
+                "icebeam",
+                "stockpile"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

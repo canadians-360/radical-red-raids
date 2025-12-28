@@ -6,9 +6,9 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "ice shard",
-                "mountain gale",
-                "body press",
+                "iceshard",
+                "mountaingale",
+                "bodypress",
                 "recover"
             ],
             "ability": "filter"

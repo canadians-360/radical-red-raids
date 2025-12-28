@@ -7,9 +7,9 @@
         "pokemon": {
             "moves": [
                 "accelerock",
-                "scale shot",
-                "head smash",
-                "dragon dance"
+                "scaleshot",
+                "headsmash",
+                "dragondance"
             ]
         },
         "den": [

@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "aerilate",
-            "moves": ["boomburst", "u-turn", "brave bird", "work up"]
+            "moves": [
+                "boomburst",
+                "u-turn",
+                "bravebird",
+                "workup"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

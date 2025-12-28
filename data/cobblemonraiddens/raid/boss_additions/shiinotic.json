@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "sparkling swirl",
-                "giga drain",
-                "sludge bomb",
-                "strength sap"
+                "sparklingswirl",
+                "gigadrain",
+                "sludgebomb",
+                "strengthsap"
             ]
         },
         "den": [

@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "flare blitz",
-                "brave bird",
-                "bullet seed",
-                "rock blast"
+                "flareblitz",
+                "bravebird",
+                "bulletseed",
+                "rockblast"
             ]
         },
         "den": [

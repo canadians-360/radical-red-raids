@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "technician",
-            "moves": ["rock blast", "drill run", "bonemerang", "ice shard"]
+            "moves": [
+                "rockblast",
+                "drillrun",
+                "bonemerang",
+                "iceshard"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

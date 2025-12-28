@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "chlorophyll",
-            "moves": ["weather ball", "chloroblast", "dragon pulse", "growth"]
+            "moves": [
+                "weatherball",
+                "chloroblast",
+                "dragonpulse",
+                "growth"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

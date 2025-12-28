@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["sludge bomb", "chloroblast", "earth power", "growth"]
+            "moves": [
+                "sludgebomb",
+                "chloroblast",
+                "earthpower",
+                "growth"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

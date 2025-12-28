@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "no guard",
-            "moves": ["gunk shot", "megahorn", "stomping tantrum", "swords dance"]
+            "ability": "noguard",
+            "moves": [
+                "gunkshot",
+                "megahorn",
+                "stompingtantrum",
+                "swordsdance"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

@@ -6,12 +6,12 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "magma storm",
-                "steam eruption",
+                "magmastorm",
+                "steameruption",
                 "scald",
-                "meteor beam"
+                "meteorbeam"
             ],
-            "ability": "quick draw"
+            "ability": "quickdraw"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

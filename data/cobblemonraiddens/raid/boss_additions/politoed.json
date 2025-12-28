@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["flip turn", "weather ball", "ice beam", "belly drum"]
+            "moves": [
+                "flipturn",
+                "weatherball",
+                "icebeam",
+                "bellydrum"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

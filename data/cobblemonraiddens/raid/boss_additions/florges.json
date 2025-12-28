@@ -8,10 +8,10 @@
             "moves": [
                 "moonblast",
                 "psychic",
-                "energy ball",
-                "calm mind"
+                "energyball",
+                "calmmind"
             ],
-            "ability": "natural cure"
+            "ability": "naturalcure"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

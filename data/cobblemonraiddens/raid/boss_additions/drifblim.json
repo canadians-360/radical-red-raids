@@ -7,9 +7,9 @@
         "pokemon": {
             "moves": [
                 "extrasensory",
-                "strength sap",
+                "strengthsap",
                 "hurricane",
-                "nasty plot"
+                "nastyplot"
             ]
         },
         "den": [

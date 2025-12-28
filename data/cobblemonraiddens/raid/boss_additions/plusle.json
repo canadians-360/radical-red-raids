@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "transistor",
-            "moves": ["weather ball", "surf", "knock off", "nasty plot"]
+            "moves": [
+                "weatherball",
+                "surf",
+                "knockoff",
+                "nastyplot"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

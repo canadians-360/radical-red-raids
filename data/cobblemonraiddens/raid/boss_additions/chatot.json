@@ -7,9 +7,9 @@
         "pokemon": {
             "moves": [
                 "boomburst",
-                "play rough",
-                "heat wave",
-                "nasty plot"
+                "playrough",
+                "heatwave",
+                "nastyplot"
             ]
         },
         "den": [

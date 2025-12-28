@@ -6,12 +6,12 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "horn leech",
-                "iron defense",
-                "knock off",
-                "body press"
+                "hornleech",
+                "irondefense",
+                "knockoff",
+                "bodypress"
             ],
-            "ability": "iron barbs"
+            "ability": "ironbarbs"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

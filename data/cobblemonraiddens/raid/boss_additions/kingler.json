@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["aqua jet", "iron head", "ice hammer", "close combat"]
+            "moves": [
+                "aquajet",
+                "ironhead",
+                "icehammer",
+                "closecombat"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

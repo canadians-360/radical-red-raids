@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["photon geyser", "flare blitz", "stone edge", "dragon dance"]
+            "moves": [
+                "photongeyser",
+                "flareblitz",
+                "stoneedge",
+                "dragondance"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

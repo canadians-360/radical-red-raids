@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "serene grace",
-            "moves": ["energy ball", "aurora veil", "blizzard", "nasty plot"]
+            "ability": "serenegrace",
+            "moves": [
+                "energyball",
+                "auroraveil",
+                "blizzard",
+                "nastyplot"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

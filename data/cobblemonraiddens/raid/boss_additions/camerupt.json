@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["slack off", "steam eruption", "magma storm", "scald"]
+            "moves": [
+                "slackoff",
+                "steameruption",
+                "magmastorm",
+                "scald"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

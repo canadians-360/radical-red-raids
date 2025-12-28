@@ -6,12 +6,12 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "slack off",
+                "slackoff",
                 "earthquake",
-                "body press",
-                "heavy slam"
+                "bodypress",
+                "heavyslam"
             ],
-            "ability": "tangling hair"
+            "ability": "tanglinghair"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

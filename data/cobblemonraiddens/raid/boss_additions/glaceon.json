@@ -6,12 +6,12 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "earth power",
+                "earthpower",
                 "freeze-dry",
-                "shadow ball",
-                "aura sphere"
+                "shadowball",
+                "aurasphere"
             ],
-            "ability": "slush rush"
+            "ability": "slushrush"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

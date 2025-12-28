@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "mega launcher",
-            "moves": ["snipe shot", "icicle spear", "pin missile", "aura sphere"]
+            "ability": "megalauncher",
+            "moves": [
+                "snipeshot",
+                "iciclespear",
+                "pinmissile",
+                "aurasphere"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

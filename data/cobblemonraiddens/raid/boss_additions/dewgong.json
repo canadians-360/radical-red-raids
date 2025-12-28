@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "ice scales",
-            "moves": ["scald", "ice beam", "surf", "rest"]
+            "ability": "icescales",
+            "moves": [
+                "scald",
+                "icebeam",
+                "surf",
+                "rest"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

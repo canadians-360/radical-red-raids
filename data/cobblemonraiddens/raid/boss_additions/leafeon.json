@@ -6,12 +6,12 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "jump kick",
-                "stomping tantrum",
-                "leaf blade",
-                "swords dance"
+                "jumpkick",
+                "stompingtantrum",
+                "leafblade",
+                "swordsdance"
             ],
-            "ability": "sap sipper"
+            "ability": "sapsipper"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

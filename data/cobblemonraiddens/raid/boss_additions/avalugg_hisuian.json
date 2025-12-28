@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "ice shard",
-                "mountain gale",
+                "iceshard",
+                "mountaingale",
                 "accelerock",
-                "stone edge"
+                "stoneedge"
             ],
             "ability": "technician"
         },

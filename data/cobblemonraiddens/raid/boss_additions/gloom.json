@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["strength sap", "apple acid", "sludge bomb", "growth"]
+            "moves": [
+                "strengthsap",
+                "appleacid",
+                "sludgebomb",
+                "growth"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

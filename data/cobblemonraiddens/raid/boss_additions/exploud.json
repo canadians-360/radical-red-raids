@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "punk rock",
-            "moves": ["overdrive", "boomburst", "fire blast", "howl"]
+            "ability": "punkrock",
+            "moves": [
+                "overdrive",
+                "boomburst",
+                "fireblast",
+                "howl"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "strong jaw",
-            "moves": ["psychic fangs", "jaw lock", "crunch", "howl"]
+            "ability": "strongjaw",
+            "moves": [
+                "psychicfangs",
+                "jawlock",
+                "crunch",
+                "howl"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

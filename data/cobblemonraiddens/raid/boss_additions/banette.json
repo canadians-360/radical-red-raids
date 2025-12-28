@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["poltergeist", "double-edge", "gunk shot", "swords dance"]
+            "moves": [
+                "poltergeist",
+                "double-edge",
+                "gunkshot",
+                "swordsdance"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

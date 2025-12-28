@@ -6,9 +6,9 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "psycho boost",
+                "psychoboost",
                 "superpower",
-                "knock off",
+                "knockoff",
                 "topsy-turvy"
             ]
         },

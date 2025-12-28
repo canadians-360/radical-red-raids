@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["psyshield bash", "meteor mash", "earthquake", "agility"]
+            "moves": [
+                "psyshieldbash",
+                "meteormash",
+                "earthquake",
+                "agility"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

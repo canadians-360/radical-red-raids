@@ -6,12 +6,12 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "thousand arrows",
-                "leaf blade",
-                "spirit shackle",
-                "swords dance"
+                "thousandarrows",
+                "leafblade",
+                "spiritshackle",
+                "swordsdance"
             ],
-            "ability": "tinted lens"
+            "ability": "tintedlens"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

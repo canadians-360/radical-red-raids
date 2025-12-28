@@ -6,9 +6,9 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "power gem",
+                "powergem",
                 "boomburst",
-                "diamond storm",
+                "diamondstorm",
                 "blizzard"
             ]
         },

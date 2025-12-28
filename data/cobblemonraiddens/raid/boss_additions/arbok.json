@@ -1,17 +1,21 @@
 {
-    "include": ["cobblemonraiddens:arbok"],
+    "include": [
+        "cobblemonraiddens:arbok"
+    ],
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "strong jaw",
+            "ability": "strongjaw",
             "moves": [
-                "jaw lock",
+                "jawlock",
                 "coil",
                 "earthquake",
-                "gunk shot"
+                "gunkshot"
             ]
         },
-        "den": ["cobblemonraiddens:raid_den/radical"],
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
         "weight": 0.2
     },
     "replace": false,

@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "magic guard",
-            "moves": ["sludge bomb", "giga drain", "ice beam", "acid armor"]
+            "ability": "magicguard",
+            "moves": [
+                "sludgebomb",
+                "gigadrain",
+                "icebeam",
+                "acidarmor"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

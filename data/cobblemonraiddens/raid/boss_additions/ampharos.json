@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["tail glow", "clanging scales", "thunderbolt", "focus blast"]
+            "moves": [
+                "tailglow",
+                "clangingscales",
+                "thunderbolt",
+                "focusblast"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

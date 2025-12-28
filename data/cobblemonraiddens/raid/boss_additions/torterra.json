@@ -6,12 +6,12 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "shell smash",
-                "grav apple",
-                "sleep powder",
-                "high horsepower"
+                "shellsmash",
+                "gravapple",
+                "sleeppowder",
+                "highhorsepower"
             ],
-            "ability": "self sufficient"
+            "ability": "selfsufficient"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

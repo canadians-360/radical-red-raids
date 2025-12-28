@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "refrigerate",
-            "moves": ["quick attack", "fake out", "hyper voice", "spikes"]
+            "moves": [
+                "quickattack",
+                "fakeout",
+                "hypervoice",
+                "spikes"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

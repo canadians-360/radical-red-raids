@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "berserk",
-            "moves": ["dazzling gleam", "surf", "dark pulse", "nasty plot"]
+            "moves": [
+                "dazzlinggleam",
+                "surf",
+                "darkpulse",
+                "nastyplot"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

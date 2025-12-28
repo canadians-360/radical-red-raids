@@ -7,9 +7,9 @@
         "pokemon": {
             "moves": [
                 "poltergeist",
-                "drain punch",
-                "head smash",
-                "swords dance"
+                "drainpunch",
+                "headsmash",
+                "swordsdance"
             ],
             "ability": "unburden"
         },

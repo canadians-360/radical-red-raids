@@ -6,8 +6,8 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "body slam",
-                "knock off",
+                "bodyslam",
+                "knockoff",
                 "earthquake",
                 "explosion"
             ],

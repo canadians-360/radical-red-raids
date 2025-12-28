@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "dragon hammer",
-                "giga drain",
-                "drain punch",
-                "flash cannon"
+                "dragonhammer",
+                "gigadrain",
+                "drainpunch",
+                "flashcannon"
             ]
         },
         "den": [

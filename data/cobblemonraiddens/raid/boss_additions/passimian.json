@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "mach punch",
-                "sucker punch",
-                "court change",
-                "close combat"
+                "machpunch",
+                "suckerpunch",
+                "courtchange",
+                "closecombat"
             ]
         },
         "den": [

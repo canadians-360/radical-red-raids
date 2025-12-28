@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "snow warning",
-            "moves": ["extreme speed", "blizzard", "drill run", "nasty plot"]
+            "ability": "snowwarning",
+            "moves": [
+                "extremespeed",
+                "blizzard",
+                "drillrun",
+                "nastyplot"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

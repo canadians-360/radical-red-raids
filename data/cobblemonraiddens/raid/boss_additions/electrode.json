@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "galvanize",
-            "moves": ["flash cannon", "tri attack", "court change", "focus blast"]
+            "moves": [
+                "flashcannon",
+                "triattack",
+                "courtchange",
+                "focusblast"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

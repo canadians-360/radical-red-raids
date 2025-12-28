@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "quick draw",
-            "moves": ["shell side arm", "psychic", "flamethrower", "calm mind"]
+            "ability": "quickdraw",
+            "moves": [
+                "shellsidearm",
+                "psychic",
+                "flamethrower",
+                "calmmind"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

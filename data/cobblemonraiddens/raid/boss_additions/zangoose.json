@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "tough claws",
-            "moves": ["fake out", "close combat", "knock off", "swords dance"]
+            "ability": "toughclaws",
+            "moves": [
+                "fakeout",
+                "closecombat",
+                "knockoff",
+                "swordsdance"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

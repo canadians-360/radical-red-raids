@@ -6,12 +6,12 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "body press",
-                "iron head",
-                "stone edge",
+                "bodypress",
+                "ironhead",
+                "stoneedge",
                 "earthquake"
             ],
-            "ability": "dauntless shield"
+            "ability": "dauntlessshield"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

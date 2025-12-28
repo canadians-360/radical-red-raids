@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "speed boost",
-            "moves": ["fire lash", "jump kick", "wild charge", "swords dance"]
+            "ability": "speedboost",
+            "moves": [
+                "firelash",
+                "jumpkick",
+                "wildcharge",
+                "swordsdance"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

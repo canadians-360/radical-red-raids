@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "solid rock",
-            "moves": ["sticky web", "stealth rock", "toxic", "shell smash"]
+            "ability": "solidrock",
+            "moves": [
+                "stickyweb",
+                "stealthrock",
+                "toxic",
+                "shellsmash"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

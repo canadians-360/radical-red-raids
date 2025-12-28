@@ -6,12 +6,12 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "rising voltage",
-                "play rough",
-                "grass knot",
+                "risingvoltage",
+                "playrough",
+                "grassknot",
                 "thunderbolt"
             ],
-            "ability": "electric surge"
+            "ability": "electricsurge"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "hammer arm",
-                "dynamic punch",
-                "shadow claw",
-                "shadow sneak"
+                "hammerarm",
+                "dynamicpunch",
+                "shadowclaw",
+                "shadowsneak"
             ],
             "ability": "hustle"
         },

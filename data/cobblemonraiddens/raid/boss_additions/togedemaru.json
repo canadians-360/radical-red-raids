@@ -6,12 +6,12 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "zing zap",
-                "iron head",
+                "zingzap",
+                "ironhead",
                 "u-turn",
                 "nuzzle"
             ],
-            "ability": "motor drive"
+            "ability": "motordrive"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

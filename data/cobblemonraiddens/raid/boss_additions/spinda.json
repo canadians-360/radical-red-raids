@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["superpower", "double-edge", "stomping tantrum", "howl"]
+            "moves": [
+                "superpower",
+                "double-edge",
+                "stompingtantrum",
+                "howl"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

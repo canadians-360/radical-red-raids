@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["crabhammer", "horn leech", "leech life", "swords dance"]
+            "moves": [
+                "crabhammer",
+                "hornleech",
+                "leechlife",
+                "swordsdance"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

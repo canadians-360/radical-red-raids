@@ -6,9 +6,9 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "grav apple",
-                "high jump kick",
-                "play rough",
+                "gravapple",
+                "highjumpkick",
+                "playrough",
                 "u-turn"
             ]
         },

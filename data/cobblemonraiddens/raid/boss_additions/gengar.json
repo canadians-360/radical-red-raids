@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "levitate",
-            "moves": ["shadow ball", "sludge bomb", "focus blast", "nasty plot"]
+            "moves": [
+                "shadowball",
+                "sludgebomb",
+                "focusblast",
+                "nastyplot"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

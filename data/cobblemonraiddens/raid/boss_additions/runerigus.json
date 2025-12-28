@@ -8,10 +8,10 @@
             "moves": [
                 "poltergeist",
                 "earthquake",
-                "stone edge",
-                "body press"
+                "stoneedge",
+                "bodypress"
             ],
-            "ability": "shadow shield"
+            "ability": "shadowshield"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

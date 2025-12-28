@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves":  ["frost breath", "freeze-dry", "psychic", "nasty plot"]
+            "moves": [
+                "frostbreath",
+                "freeze-dry",
+                "psychic",
+                "nastyplot"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

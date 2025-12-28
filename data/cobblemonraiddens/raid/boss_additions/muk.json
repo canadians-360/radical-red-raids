@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "regenerator",
-            "moves": ["gunk shot", "fire punch", "knock off", "curse"]
+            "moves": [
+                "gunkshot",
+                "firepunch",
+                "knockoff",
+                "curse"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "spirit shackle",
-                "anchor shot",
-                "power whip",
-                "swords dance"
+                "spiritshackle",
+                "anchorshot",
+                "powerwhip",
+                "swordsdance"
             ]
         },
         "den": [

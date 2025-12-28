@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "toxic boost",
-            "moves": ["stomping tantrum", "sacred fire", "facade", "swords dance"]
+            "ability": "toxicboost",
+            "moves": [
+                "stompingtantrum",
+                "sacredfire",
+                "facade",
+                "swordsdance"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "adaptability",
-            "moves": ["sucker punch", "extreme speed", "double-edge", "coil"]
+            "moves": [
+                "suckerpunch",
+                "extremespeed",
+                "double-edge",
+                "coil"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

@@ -6,12 +6,12 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "sparkly swirl",
+                "sparklyswirl",
                 "moonblast",
                 "thunderbolt",
-                "calm mind"
+                "calmmind"
             ],
-            "ability": "fairy aura"
+            "ability": "fairyaura"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

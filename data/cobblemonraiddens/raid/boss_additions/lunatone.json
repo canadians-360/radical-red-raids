@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["photon geyser", "ice beam", "earth power", "calm mind"]
+            "moves": [
+                "photongeyser",
+                "icebeam",
+                "earthpower",
+                "calmmind"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

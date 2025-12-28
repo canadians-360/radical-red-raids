@@ -6,9 +6,9 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "stun spore",
-                "grav apple",
-                "solar blade",
+                "stunspore",
+                "gravapple",
+                "solarblade",
                 "x-scissor"
             ]
         },

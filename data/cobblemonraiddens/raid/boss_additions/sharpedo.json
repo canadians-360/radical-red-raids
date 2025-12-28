@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["aqua fang", "crunch", "close combat", "swords dance"]
+            "moves": [
+                "aquafang",
+                "crunch",
+                "closecombat",
+                "swordsdance"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

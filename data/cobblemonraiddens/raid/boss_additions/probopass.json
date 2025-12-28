@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "meteor beam",
-                "earth power",
-                "flash cannon",
-                "dazzling gleam"
+                "meteorbeam",
+                "earthpower",
+                "flashcannon",
+                "dazzlinggleam"
             ],
             "ability": "levitate"
         },

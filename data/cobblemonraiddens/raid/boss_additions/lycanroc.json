@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "headlong rush",
+                "headlongrush",
                 "accelerock",
-                "stone edge",
-                "swords dance"
+                "stoneedge",
+                "swordsdance"
             ]
         },
         "den": [

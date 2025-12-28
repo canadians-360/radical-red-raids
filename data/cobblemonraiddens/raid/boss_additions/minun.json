@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "galvanize",
-            "moves": ["double-edge", "extreme speed", "surf", "knock off"]
+            "moves": [
+                "double-edge",
+                "extremespeed",
+                "surf",
+                "knockoff"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

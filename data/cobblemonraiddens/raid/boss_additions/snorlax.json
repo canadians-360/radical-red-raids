@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["wood hammer", "body slam", "crunch", "curse"]
+            "moves": [
+                "woodhammer",
+                "bodyslam",
+                "crunch",
+                "curse"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

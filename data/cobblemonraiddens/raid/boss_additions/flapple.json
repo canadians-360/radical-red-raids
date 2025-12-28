@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "scale shot",
-                "dragon energy",
-                "grav apple",
-                "dragon dance"
+                "scaleshot",
+                "dragonenergy",
+                "gravapple",
+                "dragondance"
             ]
         },
         "den": [

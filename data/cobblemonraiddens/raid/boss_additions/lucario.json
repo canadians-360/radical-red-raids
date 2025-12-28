@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "mach punch",
-                "meteor mash",
-                "extreme speed",
-                "swords dance"
+                "machpunch",
+                "meteormash",
+                "extremespeed",
+                "swordsdance"
             ]
         },
         "den": [

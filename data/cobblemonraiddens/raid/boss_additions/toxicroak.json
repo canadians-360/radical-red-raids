@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "earth power",
-                "aura sphere",
-                "sludge bomb",
-                "nasty plot"
+                "earthpower",
+                "aurasphere",
+                "sludgebomb",
+                "nastyplot"
             ]
         },
         "den": [

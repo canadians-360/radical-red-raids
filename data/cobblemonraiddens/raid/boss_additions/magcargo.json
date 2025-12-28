@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "simple",
-            "moves": ["power gem", "no retreat", "shell smash", "fire blast"]
+            "moves": [
+                "powergem",
+                "noretreat",
+                "shellsmash",
+                "fireblast"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["air cutter", "bug buzz", "giga drain", "quiver dance"]
+            "moves": [
+                "aircutter",
+                "bugbuzz",
+                "gigadrain",
+                "quiverdance"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

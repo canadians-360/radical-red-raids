@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["shore up", "earth power", "psychic", "cosmic power"]
+            "moves": [
+                "shoreup",
+                "earthpower",
+                "psychic",
+                "cosmicpower"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

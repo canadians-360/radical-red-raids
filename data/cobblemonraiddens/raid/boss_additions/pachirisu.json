@@ -6,9 +6,9 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "play rough",
+                "playrough",
                 "nuzzle",
-                "super fang",
+                "superfang",
                 "reflect"
             ],
             "ability": "prankster"

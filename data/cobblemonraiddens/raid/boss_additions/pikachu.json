@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["fake out", "extreme speed", "zing zap", "nasty plot"]
+            "moves": [
+                "fakeout",
+                "extremespeed",
+                "zingzap",
+                "nastyplot"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

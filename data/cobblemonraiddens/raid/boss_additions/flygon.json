@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "tinted lens",
-            "moves": ["dragon darts", "headlong rush", "u-turn", "dragon dance"]
+            "ability": "tintedlens",
+            "moves": [
+                "dragondarts",
+                "headlongrush",
+                "u-turn",
+                "dragondance"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

@@ -5,8 +5,13 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "rock head",
-            "moves": ["head smash", "volt tackle", "heat crash", "body press"]
+            "ability": "rockhead",
+            "moves": [
+                "headsmash",
+                "volttackle",
+                "heatcrash",
+                "bodypress"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

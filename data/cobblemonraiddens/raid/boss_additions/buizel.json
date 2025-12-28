@@ -6,9 +6,9 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "fake out",
-                "surging strikes",
-                "icy wind",
+                "fakeout",
+                "surgingstrikes",
+                "icywind",
                 "bite"
             ],
             "ability": "technician"

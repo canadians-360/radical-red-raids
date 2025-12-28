@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["esper wing", "heat wave", "roost", "calm mind"]
+            "moves": [
+                "esperwing",
+                "heatwave",
+                "roost",
+                "calmmind"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

@@ -6,12 +6,12 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "future sight",
-                "mind blown",
-                "nasty plot",
-                "dazzling gleam"
+                "futuresight",
+                "mindblown",
+                "nastyplot",
+                "dazzlinggleam"
             ],
-            "ability": "magic guard"
+            "ability": "magicguard"
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

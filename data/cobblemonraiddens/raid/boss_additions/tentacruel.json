@@ -5,7 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
-            "moves": ["flip turn", "nasty plot", "sludge bomb", "scald"]
+            "moves": [
+                "flipturn",
+                "nastyplot",
+                "sludgebomb",
+                "scald"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

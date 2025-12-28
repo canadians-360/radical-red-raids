@@ -6,10 +6,10 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "head smash",
+                "headsmash",
                 "sing",
-                "play rough",
-                "swords dance"
+                "playrough",
+                "swordsdance"
             ]
         },
         "den": [

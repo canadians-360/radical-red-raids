@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "technician",
-            "moves": ["double hit", "brave bird", "drill run", "swords dance"]
+            "moves": [
+                "doublehit",
+                "bravebird",
+                "drillrun",
+                "swordsdance"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"
