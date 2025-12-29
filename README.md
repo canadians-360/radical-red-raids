@@ -1,6 +1,6 @@
 # Radical Red Raids: A Cobblemon Raid Dens Expansion
 
-This pack significantly expands the Cobblemon Raid Dens raiding experience by introducing hundreds of rare encounters featuring custom-curated move sets and powerful new ability combinations. These changes are inspired by the popular ROM hack Radical Red.
+This datapack significantly expands the Cobblemon Raid Dens raiding experience by introducing hundreds of rare encounters featuring custom-curated move sets and powerful new ability combinations. These changes are inspired by the popular ROM hack Radical Red.
 
 _No affiliation with Radical Red or Radical Trainer mods._
 
