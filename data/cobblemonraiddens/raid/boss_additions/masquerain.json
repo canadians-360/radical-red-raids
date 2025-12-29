@@ -1,16 +1,16 @@
 {
     "include": [
-        "cobblemonraiddens:golduck"
+        "cobblemonraiddens:masquerain"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "neuroforce",
+            "ability": "soulheart",
             "moves": [
-                "nastyplot",
-                "hydropump",
-                "icebeam",
-                "psychic"
+                "bugbuzz",
+                "gigadrain",
+                "hurricane",
+                "quiverdance"
             ]
         },
         "den": [

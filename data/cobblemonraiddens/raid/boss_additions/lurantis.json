@@ -1,16 +1,16 @@
 {
     "include": [
-        "cobblemonraiddens:golduck"
+        "cobblemonraiddens:lurantis"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "neuroforce",
+            "ability": "contrary",
             "moves": [
-                "nastyplot",
-                "hydropump",
-                "icebeam",
-                "psychic"
+                "leafstorm",
+                "superpower",
+                "synthesis",
+                "leafblade"
             ]
         },
         "den": [

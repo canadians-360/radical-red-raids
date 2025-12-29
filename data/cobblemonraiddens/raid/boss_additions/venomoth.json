@@ -1,15 +1,15 @@
 {
     "include": [
-        "cobblemonraiddens:golduck"
+        "cobblemonraiddens:venomoth"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "neuroforce",
+            "ability": "tintedlens",
             "moves": [
-                "nastyplot",
-                "hydropump",
-                "icebeam",
+                "quiverdance",
+                "bugbuzz",
+                "sleeppowder",
                 "psychic"
             ]
         },

@@ -1,16 +1,16 @@
 {
     "include": [
-        "cobblemonraiddens:golduck"
+        "cobblemonraiddens:meganium"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "neuroforce",
+            "ability": "triage",
             "moves": [
-                "nastyplot",
-                "hydropump",
-                "icebeam",
-                "psychic"
+                "playrough",
+                "drainingkiss",
+                "gigadrain",
+                "knockoff"
             ]
         },
         "den": [

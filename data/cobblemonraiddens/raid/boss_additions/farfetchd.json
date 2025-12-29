@@ -1,16 +1,15 @@
 {
     "include": [
-        "cobblemonraiddens:golduck"
+        "cobblemonraiddens:farfetchd"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
-            "ability": "neuroforce",
             "moves": [
-                "nastyplot",
-                "hydropump",
-                "icebeam",
-                "psychic"
+                "sacredsword",
+                "drillpeck",
+                "knockoff",
+                "brickbreak"
             ]
         },
         "den": [
