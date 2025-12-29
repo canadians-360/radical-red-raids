@@ -7,7 +7,7 @@
         "pokemon": {
             "ability": "galvanize",
             "moves": [
-                "double-edge",
+                "doubleedge",
                 "extremespeed",
                 "surf",
                 "knockoff"
