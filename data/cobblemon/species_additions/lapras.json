@@ -11,12 +11,12 @@
                 "h:hydration"
             ],
             "baseStats": {
-                "hp": 75,
-                "attack": 95,
-                "defence": 75,
-                "special_attack": 65,
-                "special_defence": 79,
-                "speed": 80
+                "hp": 130,
+                "attack": 85,
+                "defence": 80,
+                "special_attack": 85,
+                "special_defence": 95,
+                "speed": 60
             },
             "moves": [
                 "44:jawlock",
