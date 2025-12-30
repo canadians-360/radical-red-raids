@@ -18,7 +18,6 @@
                 "speed": 52
             },
             "moves": [
-                "1:jetpunch",
                 "1:octolock",
                 "1:octazooka",
                 "1:rocksmash",
@@ -34,8 +33,9 @@
                 "45:superpower",
                 "50:topsyturvy",
                 "55:brutalswing",
-                "60:surgingstrikes",
-                "75:aquajet",
+                "65:armthrust",
+                "75:jetpunch",
+                "egg:aquajet",
                 "egg:circlethrow",
                 "egg:machpunch",
                 "egg:painsplit",
@@ -84,6 +84,7 @@
                 "tm:superpower",
                 "tm:surf",
                 "tm:taunt",
+                "tm:teleport",
                 "tm:terablast",
                 "tm:waterfall",
                 "tm:whirlpool",

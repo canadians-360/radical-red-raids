@@ -19,7 +19,6 @@
                 "speed": 50
             },
             "moves": [
-                "1:closecombat",
                 "1:aquajet",
                 "1:powdersnow",
                 "1:growl",
@@ -152,7 +151,6 @@
                 "tutor:throatchop",
                 "tutor:waterpulse",
                 "tutor:xscissor",
-                "tutor:surgingstrikes",
                 "legacy:attract",
                 "legacy:confide",
                 "legacy:doubleteam",
