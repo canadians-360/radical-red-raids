@@ -1,15 +1,15 @@
 {
     "include": [
-        "cobblemonraiddens:milotic"
+        "cobblemonraiddens:REPLACE"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
             "moves": [
-                "bouncybubble",
-                "icebeam",
-                "scald",
-                "coil"
+                "recover",
+                "freezyfrost",
+                "freezedry",
+                "nightslash"
             ]
         },
         "den": [
