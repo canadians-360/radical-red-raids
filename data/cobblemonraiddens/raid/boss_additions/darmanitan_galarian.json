@@ -1,0 +1,28 @@
+{
+    "include": [
+        "cobblemonraiddens:darmanitan"
+    ],
+    "exclude": [],
+    "additions": {
+        "pokemon": {
+            "moves": [
+                "icehammer",
+                "frostbreath",
+                "flareblitz",
+                "earthquake"
+            ]
+        },
+        "den": [
+            "cobblemonraiddens:raid_den/radical"
+        ],
+        "weight": 0.2,
+        "base_form": [
+            {
+                "name": "galarian",
+                "value": true
+            }
+        ]
+    },
+    "replace": false,
+    "suffix": "galarian_radical"
+}

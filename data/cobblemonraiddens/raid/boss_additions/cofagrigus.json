@@ -1,15 +1,16 @@
 {
     "include": [
-        "cobblemonraiddens:clefable"
+        "cobblemonraiddens:cofagrigus"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
+            "ability": "shadowshield",
             "moves": [
-                "lightofruin",
-                "moonblast",
-                "flamethrower",
-                "calmmind"
+                "irondefense",
+                "bodypress",
+                "shadowball",
+                "rest"
             ]
         },
         "den": [

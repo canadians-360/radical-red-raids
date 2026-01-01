@@ -1,15 +1,15 @@
 {
     "include": [
-        "cobblemonraiddens:clefable"
+        "cobblemonraiddens:swoobat"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
             "moves": [
-                "lightofruin",
-                "moonblast",
-                "flamethrower",
-                "calmmind"
+                "esperwing",
+                "hurricane",
+                "shadowball",
+                "psychic"
             ]
         },
         "den": [

@@ -1,15 +1,16 @@
 {
     "include": [
-        "cobblemonraiddens:clefable"
+        "cobblemonraiddens:garbodor"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
+            "ability": "gooey",
             "moves": [
-                "lightofruin",
-                "moonblast",
-                "flamethrower",
-                "calmmind"
+                "poisonjab",
+                "earthquake",
+                "superpower",
+                "firepunch"
             ]
         },
         "den": [

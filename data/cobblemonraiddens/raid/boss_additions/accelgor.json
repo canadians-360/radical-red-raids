@@ -1,15 +1,16 @@
 {
     "include": [
-        "cobblemonraiddens:clefable"
+        "cobblemonraiddens:accelgor"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
+            "ability": "sheerforce",
             "moves": [
-                "lightofruin",
-                "moonblast",
-                "flamethrower",
-                "calmmind"
+                "bugbuzz",
+                "focusblast",
+                "gigadrain",
+                "taunt"
             ]
         },
         "den": [

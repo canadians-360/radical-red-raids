@@ -1,15 +1,16 @@
 {
     "include": [
-        "cobblemonraiddens:clefable"
+        "cobblemonraiddens:klinklang"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
+            "ability": "steelworker",
             "moves": [
-                "lightofruin",
-                "moonblast",
-                "flamethrower",
-                "calmmind"
+                "superpower",
+                "volttackle",
+                "shiftgear",
+                "geargrind"
             ]
         },
         "den": [

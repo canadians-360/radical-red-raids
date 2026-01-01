@@ -1,21 +1,21 @@
 {
     "include": [
-        "cobblemonraiddens:clefable"
+        "cobblemonraiddens:darmanitan"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
             "moves": [
-                "lightofruin",
-                "moonblast",
-                "flamethrower",
-                "calmmind"
+                "trickroom",
+                "teleport",
+                "flareblitz",
+                "earthquake"
             ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"
         ],
-        "weight": 0.2
+        "weight": 0.1
     },
     "replace": false,
     "suffix": "radical"

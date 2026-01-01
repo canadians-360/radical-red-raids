@@ -1,15 +1,16 @@
 {
     "include": [
-        "cobblemonraiddens:clefable"
+        "cobblemonraiddens:maractus"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
+            "ability": "grassysurge",
             "moves": [
-                "lightofruin",
-                "moonblast",
-                "flamethrower",
-                "calmmind"
+                "sappyseed",
+                "synthesis",
+                "gigadrain",
+                "knockoff"
             ]
         },
         "den": [
