@@ -12,9 +12,6 @@
                 "swordsdance"
             ]
         },
-        "den": [
-            "cobblemonraiddens:raid_den/radical"
-        ],
         "weight": 0.2
     },
     "replace": false,
