@@ -1,0 +1,15 @@
+{
+  "id": "cobblemon:lapras-radical",
+  "speciesId": "cobblemon:lapras",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Radical",
+      "unlockForms": [
+        "Radical"
+      ]
+    }
+  ],
+  "variations": []
+}

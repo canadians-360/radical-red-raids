@@ -2,5 +2,9 @@
   "cobblemon.move.aquafang": "Aqua Fang",
   "cobblemon.move.aquafang.desc": "The user bites the target with water-infused fangs. This may make the target flinch.",
   "cobblemon.move.sonicslash": "Sonic Slash",
-  "cobblemon.move.sonicslash.desc": "The user slashes the target at high speed. The faster the user is compared to the target, the greater the move's power."
+  "cobblemon.move.sonicslash.desc": "The user slashes the target at high speed. The faster the user is compared to the target, the greater the move's power.",
+  "cobblemon.species.lapras.form.radical": "Radical Lapras",
+  "cobblemon.ui.pokedex.info.form.lapras-radical": "Radical",
+  "cobblemon.species.lapras-radical.desc": "Radical description for laprs test two.",
+  "cobblemon.pokedex.description.lapras.radical.1": "Radical description for laprs test."
 }

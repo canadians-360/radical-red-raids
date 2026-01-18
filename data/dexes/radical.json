@@ -1,0 +1,8 @@
+{
+  "type": "cobblemon:simple_pokedex_def",
+  "id": "cobblemon:radical",
+  "sortOrder": 22,
+  "entries": [
+    "cobblemon:lapras-radical"
+    ]
+}

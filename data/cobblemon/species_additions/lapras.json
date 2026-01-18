@@ -3,6 +3,10 @@
     "forms": [
         {
             "name": "Radical",
+            "pokedexId": 131,
+            "features": [
+                "radical"
+            ],
             "primaryType": "water",
             "secondaryType": "dragon",
             "abilities": [

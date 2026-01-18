@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:lapras",
+  "descriptions": [
+    "cobblemon.species.lapras-radical.desc"
+  ],
+  "forms": [
+    {
+      "displayForm": "radical",
+      "unlockForms": ["radical"]
+    }
+  ]
+}
