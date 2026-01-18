@@ -5,6 +5,7 @@
     "exclude": [],
     "additions": {
         "pokemon": {
+            "ability": "windrider",
             "moves": [
                 "weatherball",
                 "airslash",

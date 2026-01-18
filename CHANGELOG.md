@@ -1,5 +1,34 @@
 # CHANGE LOG
 
+# v1.1.0
+
+## **Updated Raids**
+
+* Tropius (**Wind Rider**)   
+* Shiftry () **Ceaseless Edge**  
+* Maractus () Giga Drain \-\> **Flower Trick**  
+* Lunatone () Ice Beam \-\> **Lumina Crash**  
+* Hitmonlee () Bulk Up \-\> **Aqua Step**  
+* Hitmontop () Triple Kick \-\> **Spin Out**  
+* Granbull () Bulk Up \-\> **Raging Bull**  
+* Flygon () U-Turn \-\> **Sandsear Storm**  
+* Empoleon () **Brave Bird** \-\> **Make It Rain**  
+* Bronzong() Gyroball \-\> **Spin Out**  
+* Lyconroc-Midnight() Swords Dance \-\> **Stone Axe**
+
+## **New Radical Region Forms**
+
+* Raichu\[**Electric/Normal**\]() **Hyper Voice, Thunderclap**, Extreme Speed, Nasty Plot
+
+## **Updated Radical Region Forms** 
+
+* Tropius (*Solar Power \-\>* **Wind Rider**)  
+* Aarbok () **Shed Tail:** Lvl65
+
+## **Bug Fixes**
+
+* Fixed a bug where Illumise would not appear in its radical raid
+
 ## v0.1.0
 
 * Adding a CHANGELOG

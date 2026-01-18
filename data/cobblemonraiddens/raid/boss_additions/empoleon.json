@@ -6,9 +6,9 @@
     "additions": {
         "pokemon": {
             "moves": [
-                "surf",
-                "icebeam",
-                "flashcannon",
+                "calmmind",
+                "nastyplot",
+                "makeitrain",
                 "roost"
             ],
             "ability": "competitive"
