@@ -70,6 +70,7 @@
 ## **Bug Fixes**
 
 * Fixed a bug where Illumise would not appear in its radical raid
+* Fixed Scizor, Scyther, Galarian Slowbro, Onix and Hitmontop radical raids not having the special radical raid den
 
 ## v0.1.0
 

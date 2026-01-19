@@ -1,3 +1,6 @@
+# --- Datapack .zip Specific ---
+radical-red-raids*
+
 # --- Minecraft Specific ---
 # Ignore backup files created by editors
 *.json.bak
