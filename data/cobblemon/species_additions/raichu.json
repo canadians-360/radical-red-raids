@@ -16,15 +16,14 @@
             "primaryType": "electric",
             "secondaryType": "normal",
             "abilities": [
-                "intimidate",
-                "shedskin",
-                "h:strongjaw"
+                "static",
+                "h:lightningrod"
             ],
               "baseStats": {
-                "hp": 60,
-                "attack": 90,
+                "hp": 70,
+                "attack": 100,
                 "defence": 55,
-                "special_attack": 90,
+                "special_attack": 100,
                 "special_defence": 80,
                 "speed": 110
             },
