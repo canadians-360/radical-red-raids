@@ -3,7 +3,7 @@
 # v2.0.0
 
 * Completely reworked all raids as bosses instead of boss additions
-* Added an additions to easily edit all fights per tier
+* Added an additions to easily edit all added bosses in bulk by tier (setting spawn weights etc.)
 * 36 new radical raids
 * 15 updated raids
 * 1 new radical regional form, Raichu
