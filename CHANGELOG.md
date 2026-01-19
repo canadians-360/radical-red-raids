@@ -1,6 +1,13 @@
 # CHANGE LOG
 
-# v1.1.0
+# v2.0.0
+
+* Completely reworked all raids as bosses instead of boss additions
+* Added an additions to easily edit all fights per tier
+* 36 new radical raids
+* 15 updated raids
+* 1 new radical regional form, Raichu
+* Fixed 6 Raids
 
 ## **New Raids**
 
@@ -8,10 +15,11 @@
 * Arboliva () **Draining Kiss, Grassy Glide**, Hyper Voice, Earth Power  
 * Armarouge (**Mega Launcher**) Dragon Pulse, Dark Pulse, Aura Sphere, Armor Cannon  
 * Articuno () **Haze, Bleakwind Storm,** Freeze-Dry, Roost  
-* Beautifly() **Silk Trap**, Quiver Dance, Bug Buzz, Roost  
-* Bellibolt() **Electroweb, Rising Voltage, Surf, Teleport**  
-* Bouffalant() **Raging Bull**, Swords Dance, Earthquake, Substitute  
-* Carracosta() **Salt Cure, Wave Crash,** Shell Smash, Ice Beam  
+* Beautifly () **Silk Trap**, Quiver Dance, Bug Buzz, Roost  
+* Beheeyem () **Glitzy Glow**, Nasty Plot, Recover, Thunderbolt
+* Bellibolt () **Electroweb, Rising Voltage, Surf, Teleport**  
+* Bouffalant () **Raging Bull**, Swords Dance, Earthquake, Substitute  
+* Carracosta () **Salt Cure, Wave Crash,** Shell Smash, Ice Beam  
 * Cetitan () **Rock Smash, Stealth Rock, Frost Breath, Strength**  
 * Eelektross () **Thunderclap**, Coil, Drain Punch, Dragon Tail  
 * Espathra () **Future Sight, Acrobatics,** Roost, Dazzling Gleam  
@@ -20,26 +28,26 @@
 * Galvantula () **Thunder Cage**, Bug Buzz, Energy Ball, Thunder Wave  
 * Golurk (No Guard) **Rage Fist**, Earthquake, Dynamic Punch, Ice Punch  
 * Haxorus () **Glaive Rush**, Poison Jab, Swords Dance, Earthquake  
-* Kilowattrel() **Defog, Rising Voltage, Steel Wing, Heat Wave**  
-* Klawf() **Body Press, Superpower, Rock Polish, Strength**  
-* Lokix() **Dual Chop, Triple Axel,** Knock Off, Swords Dance  
+* Kilowattrel () **Defog, Rising Voltage, Steel Wing, Heat Wave**  
+* Klawf () **Body Press, Superpower, Rock Polish, Strength**  
+* Lokix () **Dual Chop, Triple Axel,** Knock Off, Swords Dance  
 * Ludicolo () **Aqua Step,** Giga Drain, Ice Beam, Hydro Pump  
-* Oinkologne() **Earthquake, Snarl,** Play Rough, Body Press  
-* Orthworm() **Superpower, Dragon Tail, Strength**, Heavy Slam  
-* Pawmot() **Drain Punch, Strength, Power-Up Punch,** Double Shock  
-* Revavroom() **U-Turn, Flame Charge, Stealth Rock**, Shift Gear  
-* Scolipede() **Mortal Spin, Gunk Shot,** Earthquake, Megahorn  
-* Scovillain() **Taunt, Solar Blade, Scorching Sands, Flame Charge**  
+* Oinkologne () **Earthquake, Snarl,** Play Rough, Body Press  
+* Orthworm () **Superpower, Dragon Tail, Strength**, Heavy Slam  
+* Pawmot () **Drain Punch, Strength, Power-Up Punch,** Double Shock  
+* Revavroom () **U-Turn, Flame Charge, Stealth Rock**, Shift Gear  
+* Scolipede () **Mortal Spin, Gunk Shot,** Earthquake, Megahorn  
+* Scovillain () **Taunt, Solar Blade, Scorching Sands, Flame Charge**  
 * Scream Tail (**Tangling Hair**) Calm Mind, Dazzling Gleam, Fire Blast, Psychic Noise  
 * Seismitoad () **Wave Crash,** Earthquake, Power Whip, Ice Punch  
 * Steelix () **Spin Out**, **Supercell Slam**, Iron Defense, Body Press  
 * Squawkabilly () **Defog, Pluck, Acrobatics,** Facade  
 * Stonjourner (**Rocky Payload**) Stone Edge, Heat Crash, Earthquake, Superpower  
-* Tinkaton(**Steely Spirit**) Gigaton Hammer, Play Rough, Ice Hammer, Knock Off  
+* Tinkaton (**Steely Spirit**) Gigaton Hammer, Play Rough, Ice Hammer, Knock Off  
 * Toedscruel () **Power Gem**, Giga Drain, Earth Power, Sludge Bomb  
 * Weezing (**Toxic Debris**) Sludge Bomb, Flamethrower, Haze, Will-O-Wisp  
 * Whiscash (**Water Bubble**) **Wave Crash**, Earth Power, Ice Beam, Stone Edge  
-* Wugtrio() **Earthquake, Scald, Ice Spinner,** Throat Chop
+* Wugtrio () **Earthquake, Scald, Ice Spinner,** Throat Chop
 
 ## **Updated Raids**
 
@@ -53,10 +61,12 @@
 * Flygon () U-Turn \-\> **Sandsear Storm**  
 * Empoleon () **Brave Bird** \-\> **Make It Rain**  
 * Bronzong() Gyroball \-\> **Spin Out**  
-* Lycanroc-Midnight() Swords Dance \-\> **Stone Axe**  
-* Armaldo **(Skill Link) Pin Missile,** Rock Blast, Swords Dance, Knock Off  
-* Camerupt() **Scald** \-\> **Hydro Steam**  
+* Lycanroc-Midnight () Swords Dance \-\> **Stone Axe**  
+* Armaldo () **(Skill Link) Pin Missile,** Rock Blast, Swords Dance, Knock Off  
+* Camerupt () **Scald** \-\> **Hydro Steam**  
 * Turtonator () Fire Blast \-\> **Armor Cannon,** Flash Cannon \-\> **Burning Bulwark**
+* Grumpig () Psychic \-\> **Glitzy Glow**
+* Mighty () Howl \-\> **Baddy Bad**
 
 ## **New Radical Region Forms**
 
