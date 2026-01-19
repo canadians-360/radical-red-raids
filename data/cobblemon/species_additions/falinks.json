@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:falinks",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.falinks-radical.desc"
+            ],
             "primaryType": "bug",
             "secondaryType": "fighting",
             "abilities": [
@@ -110,9 +120,6 @@
                 "tutor:zenheadbutt",
                 "legacy:round",
                 "legacy:snore"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

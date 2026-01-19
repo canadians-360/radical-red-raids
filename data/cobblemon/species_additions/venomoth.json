@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:venomoth",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.venomoth-radical.desc"
+            ],
             "primaryType": "bug",
             "secondaryType": "psychic",
             "abilities": [
@@ -151,9 +161,6 @@
                 "legacy:tailwind",
                 "legacy:teleport",
                 "special:refresh"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

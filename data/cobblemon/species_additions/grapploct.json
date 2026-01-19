@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:grapploct",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.grapploct-radical.desc"
+            ],
             "primaryType": "water",
             "secondaryType": "fighting",
             "abilities": [
@@ -109,9 +119,6 @@
                 "legacy:attract",
                 "legacy:round",
                 "legacy:snore"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

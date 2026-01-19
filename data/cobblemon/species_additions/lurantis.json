@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:lurantis",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.lurantis-radical.desc"
+            ],
             "primaryType": "grass",
             "secondaryType": "fighting",
             "abilities": [
@@ -128,9 +138,6 @@
                 "legacy:snore",
                 "legacy:swagger",
                 "legacy:toxic"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

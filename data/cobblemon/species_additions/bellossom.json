@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:bellossom",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.bellossom-radical.desc"
+            ],
             "primaryType": "grass",
             "secondaryType": "fairy",
             "abilities": [
@@ -142,9 +152,6 @@
                 "legacy:snore",
                 "legacy:swagger",
                 "legacy:takedown"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

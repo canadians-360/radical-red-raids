@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:mismagius",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.mismagius-radical.desc"
+            ],
             "primaryType": "ghost",
             "secondaryType": "fairy",
             "abilities": [
@@ -178,9 +188,6 @@
                 "legacy:toxic",
                 "legacy:uproar",
                 "legacy:zapcannon"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

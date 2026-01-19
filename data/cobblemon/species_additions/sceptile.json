@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:sceptile",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.sceptile-radical.desc"
+            ],
             "primaryType": "grass",
             "secondaryType": "dragon",
             "abilities": [
@@ -199,9 +209,6 @@
                 "legacy:snore",
                 "legacy:swagger",
                 "legacy:toxic"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

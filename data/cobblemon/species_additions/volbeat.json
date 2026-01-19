@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:volbeat",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.volbeat-radical.desc"
+            ],
             "primaryType": "bug",
             "secondaryType": "electric",
             "abilities": [
@@ -149,9 +159,6 @@
                 "legacy:snore",
                 "legacy:thunderbolt",
                 "legacy:toxic"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

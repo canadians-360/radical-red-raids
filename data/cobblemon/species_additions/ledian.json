@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:ledian",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.ledian-radical.desc"
+            ],
             "primaryType": "bug",
             "secondaryType": "fighting",
             "abilities": [
@@ -142,9 +152,6 @@
                 "legacy:sweetscent",
                 "legacy:toxic",
                 "special:refresh"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

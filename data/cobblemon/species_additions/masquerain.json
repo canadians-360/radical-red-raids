@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:masquerain",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.masquerain-radical.desc"
+            ],
             "primaryType": "water",
             "secondaryType": "bug",
             "abilities": [
@@ -157,9 +167,6 @@
                 "legacy:swagger",
                 "legacy:toxic",
                 "special:mudsport"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

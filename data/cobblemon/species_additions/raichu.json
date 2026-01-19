@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:raichu",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.raichu-radical.desc"
+            ],
             "primaryType": "electric",
             "secondaryType": "normal",
             "abilities": [
@@ -194,9 +204,6 @@
                 "special:sweetscent",
                 "special:teeterdance",
                 "special:yawn"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

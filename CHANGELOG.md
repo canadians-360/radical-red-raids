@@ -8,6 +8,7 @@
 * 15 updated raids
 * 1 new radical regional form, Raichu
 * Fixed 6 Raids
+* Added 31 Pokedex entries for "Radical" regional form pokemon
 
 ## **New Raids**
 
@@ -82,7 +83,7 @@
 * Fixed a bug where Illumise would not appear in its radical raid
 * Fixed Scizor, Scyther, Galarian Slowbro, Onix and Hitmontop radical raids not having the special radical raid den
 
-## v0.1.0
+# v0.1.0
 
 * Adding a CHANGELOG
 * Cleaned up some broken move sets

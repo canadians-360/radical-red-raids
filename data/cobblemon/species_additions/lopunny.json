@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:lopunny",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.lopunny-radical.desc"
+            ],
             "primaryType": "normal",
             "secondaryType": "fighting",
             "abilities": [
@@ -180,9 +190,6 @@
                 "legacy:snore",
                 "legacy:swagger",
                 "legacy:toxic"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

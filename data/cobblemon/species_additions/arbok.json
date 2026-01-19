@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:arbok",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.arbok-radical.desc"
+            ],
             "primaryType": "poison",
             "secondaryType": "dark",
             "abilities": [
@@ -173,9 +183,6 @@
                 "legacy:snore",
                 "legacy:swagger",
                 "special:refresh"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:lapras",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.lapras-radical.desc"
+            ],
             "primaryType": "water",
             "secondaryType": "dragon",
             "abilities": [
@@ -173,12 +183,6 @@
                 "legacy:swagger",
                 "legacy:toxic",
                 "legacy:zapcannon"
-            ],
-            "aspects": [
-                "radical"
-            ],
-            "labels": [
-                "radical_form"
             ]
         }
     ]
