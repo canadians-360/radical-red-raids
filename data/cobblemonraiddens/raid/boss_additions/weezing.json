@@ -1,17 +1,17 @@
 {
     "include": [
-        "cobblemonraiddens:turtonator"
+        "cobblemonraiddens:weezing"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
+            "ability": "toxicdebris",
             "moves": [
-                "shellsmash",
-                "armorcannon",
-                "dragonpulse",
-                "burningbulwark"
-            ],
-            "ability": "dauntlessshield"
+                "sludgebomb",
+                "flamethrower",
+                "haze",
+                "willowisp"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

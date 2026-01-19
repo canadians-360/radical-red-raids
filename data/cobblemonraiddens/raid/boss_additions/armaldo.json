@@ -5,11 +5,12 @@
     "exclude": [],
     "additions": {
         "pokemon": {
+            "ability": "skilllink",
             "moves": [
-                "firstimpression",
-                "stoneedge",
-                "liquidation",
-                "swordsdance"
+                "pinmissile",
+                "rockblast",
+                "swordsdance",
+                "knockoff"
             ]
         },
         "den": [

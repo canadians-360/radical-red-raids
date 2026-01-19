@@ -1,17 +1,17 @@
 {
     "include": [
-        "cobblemonraiddens:turtonator"
+        "cobblemonraiddens:whiscash"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
+            "ability": "waterbubble",
             "moves": [
-                "shellsmash",
-                "armorcannon",
-                "dragonpulse",
-                "burningbulwark"
-            ],
-            "ability": "dauntlessshield"
+                "wavecrash",
+                "earthpower",
+                "icebeam",
+                "stoneedge"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

@@ -1,17 +1,16 @@
 {
     "include": [
-        "cobblemonraiddens:turtonator"
+        "cobblemonraiddens:squawkabilly"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
             "moves": [
-                "shellsmash",
-                "armorcannon",
-                "dragonpulse",
-                "burningbulwark"
-            ],
-            "ability": "dauntlessshield"
+                "pluk",
+                "acrobatics",
+                "facade",
+                "defog"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

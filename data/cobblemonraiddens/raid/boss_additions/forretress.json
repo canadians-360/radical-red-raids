@@ -1,17 +1,16 @@
 {
     "include": [
-        "cobblemonraiddens:turtonator"
+        "cobblemonraiddens:forretress.json"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
             "moves": [
-                "shellsmash",
-                "armorcannon",
-                "dragonpulse",
-                "burningbulwark"
-            ],
-            "ability": "dauntlessshield"
+                "spinout",
+                "toxic",
+                "rapidspin",
+                "bodypress"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

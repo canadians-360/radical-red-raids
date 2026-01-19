@@ -6,7 +6,12 @@
     "additions": {
         "pokemon": {
             "ability": "REPLACE",
-            "moves": []
+            "moves": [
+                "REPLACE",
+                "REPLACE",
+                "REPLACE",
+                "REPLACE"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

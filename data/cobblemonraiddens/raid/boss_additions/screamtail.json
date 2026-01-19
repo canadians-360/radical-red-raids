@@ -1,17 +1,17 @@
 {
     "include": [
-        "cobblemonraiddens:turtonator"
+        "cobblemonraiddens:screamtail"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
+            "ability": "tanglinghair",
             "moves": [
-                "shellsmash",
-                "armorcannon",
-                "dragonpulse",
-                "burningbulwark"
-            ],
-            "ability": "dauntlessshield"
+                "calmmind",
+                "dazzlinggleam",
+                "fireblast",
+                "psychicnoise"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

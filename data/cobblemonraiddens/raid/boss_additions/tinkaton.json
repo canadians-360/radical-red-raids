@@ -1,17 +1,17 @@
 {
     "include": [
-        "cobblemonraiddens:turtonator"
+        "cobblemonraiddens:tinkaton"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
+            "ability": "steelyspirit",
             "moves": [
-                "shellsmash",
-                "armorcannon",
-                "dragonpulse",
-                "burningbulwark"
-            ],
-            "ability": "dauntlessshield"
+                "gigatonhammer",
+                "playrough",
+                "icehammer",
+                "knockoff"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"

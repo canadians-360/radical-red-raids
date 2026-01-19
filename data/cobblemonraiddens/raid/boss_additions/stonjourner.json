@@ -1,17 +1,17 @@
 {
     "include": [
-        "cobblemonraiddens:turtonator"
+        "cobblemonraiddens:stonjourner"
     ],
     "exclude": [],
     "additions": {
         "pokemon": {
+            "ability": "rockypayload",
             "moves": [
-                "shellsmash",
-                "armorcannon",
-                "dragonpulse",
-                "burningbulwark"
-            ],
-            "ability": "dauntlessshield"
+                "stoneedge",
+                "heatcrash",
+                "earthquake",
+                "superpower"
+            ]
         },
         "den": [
             "cobblemonraiddens:raid_den/radical"
