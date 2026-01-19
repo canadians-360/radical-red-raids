@@ -10,7 +10,7 @@
   },
   "raid_tier": "TIER_SEVEN",
   "raid_type": "ICE",
-  "weight": 6,
+  "weight": 4.0,
   "loot_table": "cobblemonraiddens:raid/boss/articuno",
   "den": [
     "cobblemonraiddens:raid_den/radical"

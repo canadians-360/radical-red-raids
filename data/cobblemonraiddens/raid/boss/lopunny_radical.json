@@ -11,7 +11,7 @@
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "NORMAL",
-  "weight": 6,
+  "weight": 4.0,
   "base_form": [
     {
       "name": "radical",

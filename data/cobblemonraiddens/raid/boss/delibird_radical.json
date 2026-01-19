@@ -11,7 +11,7 @@
   },
   "raid_tier": "TIER_THREE",
   "raid_type": "ICE",
-  "weight": 6,
+  "weight": 4.0,
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]

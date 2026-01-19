@@ -10,7 +10,7 @@
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "ICE",
-  "weight": 6,
+  "weight": 4.0,
   "base_form": [
     {
       "name": "radical",
