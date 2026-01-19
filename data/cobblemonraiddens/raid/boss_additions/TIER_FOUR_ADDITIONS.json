@@ -181,7 +181,7 @@
   ],
   "exclude": [],
   "additions": {
-    "weight": 6
+    "weight": 4 //Weight of special raids, normal base weights are 20, default: 4
   },
   "replace": true
 }
