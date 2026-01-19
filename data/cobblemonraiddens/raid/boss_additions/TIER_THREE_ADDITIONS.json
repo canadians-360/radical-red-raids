@@ -1,0 +1,37 @@
+{
+  "priority": 41,
+  "include": [
+    "#cobblemonraiddens:ariados_radical",
+    "#cobblemonraiddens:beautifly_radical",
+    "#cobblemonraiddens:beedrill_radical",
+    "#cobblemonraiddens:buizel_radical",
+    "#cobblemonraiddens:butterfree_radical",
+    "#cobblemonraiddens:castform_radical",
+    "#cobblemonraiddens:chatot_radical",
+    "#cobblemonraiddens:delibird_radical",
+    "#cobblemonraiddens:dunsparce_radical",
+    "#cobblemonraiddens:farfetchd_radical",
+    "#cobblemonraiddens:furret_radical",
+    "#cobblemonraiddens:gloom_radical",
+    "#cobblemonraiddens:kricketune_radical",
+    "#cobblemonraiddens:ledian_radical",
+    "#cobblemonraiddens:luvdisc_radical",
+    "#cobblemonraiddens:mawile_radical",
+    "#cobblemonraiddens:medicham_radical",
+    "#cobblemonraiddens:mightyena_radical",
+    "#cobblemonraiddens:minun_radical",
+    "#cobblemonraiddens:onix_radical",
+    "#cobblemonraiddens:pachirisu_radical",
+    "#cobblemonraiddens:parasect_radical",
+    "#cobblemonraiddens:plusle_radical",
+    "#cobblemonraiddens:shiinotic_radical",
+    "#cobblemonraiddens:spinda_radical",
+    "#cobblemonraiddens:squawkabilly_radical",
+    "#cobblemonraiddens:sudowoodo_radical"
+  ],
+  "exclude": [],
+  "additions": {
+    "weight": 6
+  },
+  "replace": true
+}

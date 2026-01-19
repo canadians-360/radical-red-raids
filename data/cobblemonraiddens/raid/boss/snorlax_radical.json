@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "snorlax",
+    "moves": [
+      "woodhammer",
+      "bodyslam",
+      "crunch",
+      "curse"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "NORMAL",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

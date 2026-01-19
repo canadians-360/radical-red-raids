@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "gourgeist",
+    "moves": [
+      "poltergeist",
+      "powerwhip",
+      "flareblitz",
+      "shadowsneak"
+    ],
+    "ability": "guts"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GHOST",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

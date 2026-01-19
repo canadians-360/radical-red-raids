@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "togedemaru",
+    "moves": [
+      "zippyzap",
+      "ironhead",
+      "uturn",
+      "nuzzle"
+    ],
+    "ability": "motordrive"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "ELECTRIC",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "gothitelle",
+    "moves": [
+      "psychoboost",
+      "grassknot",
+      "psyshock",
+      "thunderbolt"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "PSYCHIC",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

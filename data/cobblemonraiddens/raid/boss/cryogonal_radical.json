@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "cryogonal",
+    "moves": [
+      "recover",
+      "freezyfrost",
+      "freezedry",
+      "nightslash"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "ICE",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

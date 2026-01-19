@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "sandslash",
+    "moves": [
+      "spikes",
+      "spikyshield",
+      "earthquake",
+      "swordsdance"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GROUND",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

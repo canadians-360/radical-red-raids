@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "altaria",
+    "moves": [
+      "hypervoice",
+      "calmmind",
+      "dracometeor",
+      "hurricane"
+    ],
+    "ability": "pixilate"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "DRAGON",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

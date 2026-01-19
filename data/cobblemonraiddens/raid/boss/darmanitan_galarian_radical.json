@@ -1,0 +1,23 @@
+{
+  "pokemon": {
+    "species": "darmanitan",
+    "moves": [
+      "icehammer",
+      "frostbreath",
+      "flareblitz",
+      "earthquake"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "ICE",
+  "weight": 6,
+  "base_form": [
+    {
+      "name": "galarian",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

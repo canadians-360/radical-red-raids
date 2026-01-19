@@ -1,0 +1,23 @@
+{
+  "pokemon": {
+    "species": "sunflora",
+    "moves": [
+      "seedflare",
+      "fierydance",
+      "mysticalfire",
+      "dazzlinggleam"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GRASS",
+  "weight": 6,
+  "base_form": [
+    {
+      "name": "radical",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

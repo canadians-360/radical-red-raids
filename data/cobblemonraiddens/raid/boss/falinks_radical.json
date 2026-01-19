@@ -1,0 +1,23 @@
+{
+  "pokemon": {
+    "species": "falinks",
+    "moves": [
+      "leechlife",
+      "bugbite",
+      "closecombat",
+      "rockslide"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "FIGHTING",
+  "weight": 6,
+  "base_form": [
+    {
+      "name": "radical",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

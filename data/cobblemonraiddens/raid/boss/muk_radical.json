@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "muk",
+    "moves": [
+      "gunkshot",
+      "firepunch",
+      "knockoff",
+      "curse"
+    ],
+    "ability": "regenerator"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "POISON",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

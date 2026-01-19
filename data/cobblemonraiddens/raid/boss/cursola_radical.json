@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "cursola",
+    "moves": [
+      "poltergeist",
+      "drainpunch",
+      "headsmash",
+      "swordsdance"
+    ],
+    "ability": "unburden"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GHOST",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

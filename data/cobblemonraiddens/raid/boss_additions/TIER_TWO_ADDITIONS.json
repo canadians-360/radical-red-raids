@@ -1,0 +1,11 @@
+{
+  "priority": 40,
+  "include": [
+    "#cobblemonraiddens:pikachu_radical"
+  ],
+  "exclude": [],
+  "additions": {
+    "weight": 6
+  },
+  "replace": true
+}

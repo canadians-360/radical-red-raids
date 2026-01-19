@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "donphan",
+    "moves": [
+      "rockblast",
+      "drillrun",
+      "bonemerang",
+      "iceshard"
+    ],
+    "ability": "technician"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GROUND",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

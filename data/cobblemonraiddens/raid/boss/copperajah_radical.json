@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "copperajah",
+    "moves": [
+      "doubleironbash",
+      "earthquake",
+      "powerwhip",
+      "heatcrash"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "STEEL",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

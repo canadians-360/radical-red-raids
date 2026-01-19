@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "feraligatr",
+    "moves": [
+      "aquafang",
+      "jawlock",
+      "icepunch",
+      "dragondance"
+    ],
+    "ability": "strongjaw"
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "WATER",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

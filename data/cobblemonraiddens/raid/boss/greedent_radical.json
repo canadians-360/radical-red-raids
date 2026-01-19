@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "greedent",
+    "moves": [
+      "recycle",
+      "heatcrash",
+      "crunch",
+      "earthquake"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "NORMAL",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

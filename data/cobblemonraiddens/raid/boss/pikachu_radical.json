@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "pikachu",
+    "moves": [
+      "fakeout",
+      "extremespeed",
+      "zippyzap",
+      "nastyplot"
+    ]
+  },
+  "raid_tier": "TIER_TWO",
+  "raid_type": "ELECTRIC",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

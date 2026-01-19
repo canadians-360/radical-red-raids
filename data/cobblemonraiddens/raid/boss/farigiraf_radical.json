@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "farigiraf",
+    "moves": [
+      "boomburst",
+      "psychic",
+      "thunderbolt",
+      "nastyplot"
+    ],
+    "ability": "parentalbond"
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "NORMAL",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "gardevoir",
+    "moves": [
+      "icebeam",
+      "aurasphere",
+      "recover",
+      "calmmind"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "PSYCHIC",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "sudowoodo",
+    "moves": [
+      "woodhammer",
+      "stoneedge",
+      "suckerpunch",
+      "hammerarm"
+    ],
+    "ability": "imposter"
+  },
+  "raid_tier": "TIER_THREE",
+  "raid_type": "ROCK",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

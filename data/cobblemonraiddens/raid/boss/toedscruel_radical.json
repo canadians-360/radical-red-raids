@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "toedscruel",
+    "moves": [
+      "powergem",
+      "gigadrain",
+      "earthpower",
+      "sludgebomb"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "GROUND",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

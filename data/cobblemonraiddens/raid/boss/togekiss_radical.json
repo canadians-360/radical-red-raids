@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "togekiss",
+    "moves": [
+      "moonblast",
+      "bravebird",
+      "calmmind",
+      "aeroblast"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "FAIRY",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

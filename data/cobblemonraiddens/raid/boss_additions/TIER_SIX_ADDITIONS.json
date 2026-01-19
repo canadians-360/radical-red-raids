@@ -1,0 +1,11 @@
+{
+  "priority": 44,
+  "include": [
+    "#cobblemonraiddens:screamtail_radical"
+  ],
+  "exclude": [],
+  "additions": {
+    "weight": 6
+  },
+  "replace": true
+}

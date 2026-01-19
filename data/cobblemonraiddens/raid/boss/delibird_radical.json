@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "delibird",
+    "moves": [
+      "extremespeed",
+      "blizzard",
+      "drillrun",
+      "nastyplot"
+    ],
+    "ability": "snowwarning"
+  },
+  "raid_tier": "TIER_THREE",
+  "raid_type": "ICE",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

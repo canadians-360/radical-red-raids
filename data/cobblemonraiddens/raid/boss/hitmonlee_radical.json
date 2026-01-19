@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "hitmonlee",
+    "moves": [
+      "suckerpunch",
+      "pyroball",
+      "closecombat",
+      "aquastep"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "FIGHTING",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

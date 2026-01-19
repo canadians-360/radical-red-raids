@@ -1,0 +1,23 @@
+{
+  "pokemon": {
+    "species": "sceptile",
+    "moves": [
+      "breakingswipe",
+      "dualchop",
+      "scaleshot",
+      "energyball"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "GRASS",
+  "weight": 6,
+  "base_form": [
+    {
+      "name": "radical",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

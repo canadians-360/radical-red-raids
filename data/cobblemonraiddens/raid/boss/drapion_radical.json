@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "drapion",
+    "moves": [
+      "wickedblow",
+      "poisonjab",
+      "earthquake",
+      "swordsdance"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "POISON",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

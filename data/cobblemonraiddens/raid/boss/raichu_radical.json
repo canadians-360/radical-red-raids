@@ -1,0 +1,23 @@
+{
+  "pokemon": {
+    "species": "raichu",
+    "moves": [
+      "hypervoice",
+      "thunderclap",
+      "extremespeed",
+      "nastyplot"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "ELECTRIC",
+  "weight": 6,
+  "base_form": [
+    {
+      "name": "radical",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

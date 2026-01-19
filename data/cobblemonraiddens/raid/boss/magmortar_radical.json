@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "magmortar",
+    "moves": [
+      "magmastorm",
+      "steameruption",
+      "scald",
+      "meteorbeam"
+    ],
+    "ability": "quickdraw"
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "FIRE",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "dhelmise",
+    "moves": [
+      "spiritshackle",
+      "anchorshot",
+      "powerwhip",
+      "swordsdance"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "GHOST",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

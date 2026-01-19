@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "infernape",
+    "moves": [
+      "pyroball",
+      "aurasphere",
+      "drainpunch",
+      "swordsdance"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "FIRE",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

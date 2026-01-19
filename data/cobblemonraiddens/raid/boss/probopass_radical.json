@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "probopass",
+    "moves": [
+      "meteorbeam",
+      "earthpower",
+      "flashcannon",
+      "dazzlinggleam"
+    ],
+    "ability": "levitate"
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "ROCK",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

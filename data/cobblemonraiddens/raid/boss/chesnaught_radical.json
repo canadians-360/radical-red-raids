@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "chesnaught",
+    "moves": [
+      "hornleech",
+      "irondefense",
+      "knockoff",
+      "bodypress"
+    ],
+    "ability": "ironbarbs"
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "GRASS",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

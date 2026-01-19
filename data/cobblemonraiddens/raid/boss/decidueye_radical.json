@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "decidueye",
+    "moves": [
+      "thousandarrows",
+      "leafblade",
+      "spiritshackle",
+      "swordsdance"
+    ],
+    "ability": "tintedlens"
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "GRASS",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

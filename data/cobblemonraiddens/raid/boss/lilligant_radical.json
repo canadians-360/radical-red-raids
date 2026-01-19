@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "lilligant",
+    "moves": [
+      "recover",
+      "seedflare",
+      "appleacid",
+      "powergem"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GRASS",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

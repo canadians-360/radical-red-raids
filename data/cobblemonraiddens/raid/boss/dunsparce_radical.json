@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "dunsparce",
+    "moves": [
+      "noretreat",
+      "bodyslam",
+      "drillrun",
+      "rockslide"
+    ]
+  },
+  "raid_tier": "TIER_THREE",
+  "raid_type": "NORMAL",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

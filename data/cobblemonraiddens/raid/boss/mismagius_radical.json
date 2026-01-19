@@ -1,0 +1,23 @@
+{
+  "pokemon": {
+    "species": "mismagius",
+    "moves": [
+      "moonblast",
+      "magicalleaf",
+      "powergem",
+      "phantomforce"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GHOST",
+  "weight": 6,
+  "base_form": [
+    {
+      "name": "radical",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

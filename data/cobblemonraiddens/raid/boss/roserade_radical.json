@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "roserade",
+    "moves": [
+      "drainingkiss",
+      "appleacid",
+      "silverwind",
+      "clearsmog"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "GRASS",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

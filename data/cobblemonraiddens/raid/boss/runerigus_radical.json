@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "runerigus",
+    "moves": [
+      "poltergeist",
+      "earthquake",
+      "stoneedge",
+      "bodypress"
+    ],
+    "ability": "shadowshield"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GROUND",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

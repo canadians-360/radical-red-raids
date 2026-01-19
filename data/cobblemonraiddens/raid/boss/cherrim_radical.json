@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "cherrim",
+    "moves": [
+      "stunspore",
+      "gravapple",
+      "solarblade",
+      "xscissor"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GRASS",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

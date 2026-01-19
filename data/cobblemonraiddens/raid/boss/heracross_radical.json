@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "heracross",
+    "moves": [
+      "drillrun",
+      "firstimpression",
+      "calmmind",
+      "closecombat"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "BUG",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

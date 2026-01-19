@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "eiscue",
+    "moves": [
+      "iceshard",
+      "frostbreath",
+      "liquidation",
+      "bellydrum"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "ICE",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

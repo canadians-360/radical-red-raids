@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "venusaur",
+    "moves": [
+      "sludgebomb",
+      "chloroblast",
+      "earthpower",
+      "growth"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "GRASS",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

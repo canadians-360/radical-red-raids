@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "medicham",
+    "moves": [
+      "closecombat",
+      "zenheadbutt",
+      "icepunch",
+      "bulkup"
+    ]
+  },
+  "raid_tier": "TIER_THREE",
+  "raid_type": "FIGHTING",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

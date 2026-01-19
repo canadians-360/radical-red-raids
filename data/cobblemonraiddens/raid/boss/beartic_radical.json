@@ -1,0 +1,23 @@
+{
+  "pokemon": {
+    "species": "beartic",
+    "moves": [
+      "icehammer",
+      "closecombat",
+      "aquajet",
+      "stoneedge"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "ICE",
+  "weight": 6,
+  "base_form": [
+    {
+      "name": "radical",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

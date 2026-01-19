@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "houndoom",
+    "moves": [
+      "fierywrath",
+      "sludgebomb",
+      "fireblast",
+      "nastyplot"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "DARK",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

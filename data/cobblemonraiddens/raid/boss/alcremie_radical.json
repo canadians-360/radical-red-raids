@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "alcremie",
+    "moves": [
+      "moonblast",
+      "decorate",
+      "mysticalfire",
+      "calmmind"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "FAIRY",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

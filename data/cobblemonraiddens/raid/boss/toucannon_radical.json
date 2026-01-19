@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "toucannon",
+    "moves": [
+      "flareblitz",
+      "bravebird",
+      "bulletseed",
+      "rockblast"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "NORMAL",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "clefable",
+    "moves": [
+      "lightofruin",
+      "moonblast",
+      "flamethrower",
+      "calmmind"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "FAIRY",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

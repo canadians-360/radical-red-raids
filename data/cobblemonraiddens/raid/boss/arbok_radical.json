@@ -1,0 +1,24 @@
+{
+  "pokemon": {
+    "species": "arbok",
+    "moves": [
+      "jawlock",
+      "coil",
+      "earthquake",
+      "gunkshot"
+    ],
+    "ability": "strongjaw"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "POISON",
+  "weight": 6,
+  "base_form": [
+    {
+      "name": "radical",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

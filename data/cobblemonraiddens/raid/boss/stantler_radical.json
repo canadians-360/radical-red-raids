@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "stantler",
+    "moves": [
+      "hornleech",
+      "hypervoice",
+      "playrough",
+      "roar"
+    ],
+    "ability": "reckless"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "NORMAL",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

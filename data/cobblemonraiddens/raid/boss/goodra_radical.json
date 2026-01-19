@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "goodra",
+    "moves": [
+      "dragonhammer",
+      "gigadrain",
+      "fireblast",
+      "sludgebomb"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "DRAGON",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

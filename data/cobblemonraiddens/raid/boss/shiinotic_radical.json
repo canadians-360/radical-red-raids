@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "shiinotic",
+    "moves": [
+      "sparklingswirl",
+      "gigadrain",
+      "sludgebomb",
+      "strengthsap"
+    ]
+  },
+  "raid_tier": "TIER_THREE",
+  "raid_type": "GRASS",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

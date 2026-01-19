@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "klawf",
+    "moves": [
+      "bodypress",
+      "superpower",
+      "rockpolish",
+      "strength"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "ROCK",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

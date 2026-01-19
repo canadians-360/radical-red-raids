@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "metagross",
+    "moves": [
+      "psyshieldbash",
+      "meteormash",
+      "earthquake",
+      "agility"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "STEEL",
+  "weight": 6,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pokemon": {
+    "species": "lurantis",
+    "moves": [
+      "leafstorm",
+      "superpower",
+      "synthesis",
+      "leafblade"
+    ],
+    "ability": "contrary"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GRASS",
+  "weight": 6,
+  "base_form": [
+    {
+      "name": "radical",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}
