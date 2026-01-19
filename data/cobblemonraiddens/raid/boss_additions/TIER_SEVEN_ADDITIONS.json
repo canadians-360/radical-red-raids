@@ -1,0 +1,11 @@
+{
+  "priority": 45,
+  "include": [
+    "#cobblemonraiddens:articuno_radical"
+  ],
+  "exclude": [],
+  "additions": {
+    "weight": 4.0 //Weight of special raids, normal base weights are 20, default: 4
+  },
+  "replace": true
+}

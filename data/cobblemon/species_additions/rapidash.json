@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:rapidash",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.rapidash-radical.desc"
+            ],
             "primaryType": "fire",
             "secondaryType": "fairy",
             "abilities": [
@@ -114,9 +124,6 @@
                 "legacy:attract",
                 "legacy:round",
                 "legacy:snore"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

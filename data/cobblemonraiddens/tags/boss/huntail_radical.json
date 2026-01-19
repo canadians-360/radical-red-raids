@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:huntail_radical",
+      "required": false
+    }
+  ]
+}

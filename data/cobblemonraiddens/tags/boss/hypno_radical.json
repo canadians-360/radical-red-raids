@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:hypno_radical",
+      "required": false
+    }
+  ]
+}

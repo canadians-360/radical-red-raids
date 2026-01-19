@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:feraligatr_radical",
+      "required": false
+    }
+  ]
+}

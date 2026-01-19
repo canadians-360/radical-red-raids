@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:pincurchin",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.pincurchin-radical.desc"
+            ],
             "primaryType": "electric",
             "secondaryType": "water",
             "abilities": [
@@ -102,9 +112,6 @@
                 "legacy:attract",
                 "legacy:round",
                 "legacy:snore"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

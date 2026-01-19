@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:luxray",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.luxray-radical.desc"
+            ],
             "primaryType": "electric",
             "secondaryType": "dark",
             "abilities": [
@@ -140,9 +150,6 @@
                 "legacy:secretpower",
                 "legacy:snore",
                 "legacy:toxic"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "blastoise",
+    "moves": [
+      "shellsmash",
+      "hydropump",
+      "icebeam",
+      "aurasphere"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "WATER",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

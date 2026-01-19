@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "appletun",
+    "moves": [
+      "leafstorm",
+      "appleacid",
+      "dragonpulse",
+      "recover"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GRASS",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

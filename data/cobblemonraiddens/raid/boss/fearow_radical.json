@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "fearow",
+    "moves": [
+      "doublehit",
+      "bravebird",
+      "drillrun",
+      "swordsdance"
+    ],
+    "ability": "technician"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "NORMAL",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

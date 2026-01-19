@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "jynx",
+    "moves": [
+      "freezingglare",
+      "psystrike",
+      "psychoboost",
+      "aurasphere"
+    ],
+    "ability": "dryskin"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "ICE",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

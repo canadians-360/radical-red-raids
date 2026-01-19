@@ -1,0 +1,23 @@
+{
+  "pokemon": {
+    "species": "lycanroc",
+    "moves": [
+      "headsmash",
+      "sing",
+      "playrough",
+      "stoneaxe"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "ROCK",
+  "weight": 4.0,
+  "base_form": [
+    {
+      "name": "wolf_form",
+      "value": "midnight"
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

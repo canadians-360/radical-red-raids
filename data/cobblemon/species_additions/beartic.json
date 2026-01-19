@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:beartic",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.beartic-radical.desc"
+            ],
             "primaryType": "ice",
             "secondaryType": "fighting",
             "abilities": [
@@ -161,9 +171,6 @@
                 "legacy:secretpower",
                 "legacy:snore",
                 "legacy:toxic"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:illumise",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.illumise-radical.desc"
+            ],
             "primaryType": "bug",
             "secondaryType": "fairy",
             "abilities": [
@@ -153,9 +163,6 @@
                 "legacy:snore",
                 "legacy:swagger",
                 "legacy:toxic"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

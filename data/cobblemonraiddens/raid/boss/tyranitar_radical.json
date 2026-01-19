@@ -1,0 +1,14 @@
+{
+  "pokemon": {
+    "species": "tyranitar",
+    "moves": [
+      "powergem",
+      "knockoff",
+      "stoneedge",
+      "dragondance"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "ROCK",
+  "weight": 4.0
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:fearow_radical",
+      "required": false
+    }
+  ]
+}

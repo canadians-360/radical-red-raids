@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "swoobat",
+    "moves": [
+      "esperwing",
+      "hurricane",
+      "shadowball",
+      "psychic"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "PSYCHIC",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "lucario",
+    "moves": [
+      "machpunch",
+      "meteormash",
+      "extremespeed",
+      "swordsdance"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "FIGHTING",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

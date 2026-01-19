@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:electivire",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.electivire-radical.desc"
+            ],
             "primaryType": "electric",
             "secondaryType": "fighting",
             "abilities": [
@@ -177,9 +187,6 @@
                 "legacy:teleport",
                 "legacy:toxic",
                 "legacy:zapcannon"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

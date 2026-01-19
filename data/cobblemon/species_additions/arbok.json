@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:arbok",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.arbok-radical.desc"
+            ],
             "primaryType": "poison",
             "secondaryType": "dark",
             "abilities": [
@@ -42,6 +52,7 @@
                 "51:haze",
                 "56:coil",
                 "63:gunkshot",
+                "65:shedtail",
                 "egg:disable",
                 "egg:poisonfang",
                 "egg:poisontail",
@@ -172,9 +183,6 @@
                 "legacy:snore",
                 "legacy:swagger",
                 "special:refresh"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

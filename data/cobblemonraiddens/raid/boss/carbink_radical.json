@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "carbink",
+    "moves": [
+      "recover",
+      "moonblast",
+      "powergem",
+      "bodypress"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "ROCK",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

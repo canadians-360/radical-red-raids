@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:espathra_radical",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:gardevoir_radical",
+      "required": false
+    }
+  ]
+}

@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:golduck",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.golduck-radical.desc"
+            ],
             "primaryType": "water",
             "secondaryType": "psychic",
             "abilities": [
@@ -198,9 +208,6 @@
                 "legacy:toxic",
                 "special:charm",
                 "special:mudsport"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

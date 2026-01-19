@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:farfetchd",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.farfetchd-radical.desc"
+            ],
             "primaryType": "fighting",
             "secondaryType": "flying",
             "abilities": [
@@ -164,9 +174,6 @@
                 "legacy:whirlwind",
                 "special:wish",
                 "special:yawn"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "pinsir",
+    "moves": [
+      "megahorn",
+      "extremespeed",
+      "earthquake",
+      "swordsdance"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "BUG",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

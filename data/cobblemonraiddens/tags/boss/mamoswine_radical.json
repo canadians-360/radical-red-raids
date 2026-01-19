@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:mamoswine_radical",
+      "required": false
+    }
+  ]
+}

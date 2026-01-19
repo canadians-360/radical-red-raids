@@ -1,0 +1,23 @@
+{
+  "pokemon": {
+    "species": "lapras",
+    "moves": [
+      "dragonpulse",
+      "wish",
+      "boomburst",
+      "dragonhammer"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "WATER",
+  "weight": 4.0,
+  "base_form": [
+    {
+      "name": "radical",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "lanturn",
+    "moves": [
+      "paraboliccharge",
+      "scald",
+      "icebeam",
+      "calmmind"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "WATER",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

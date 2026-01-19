@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:runerigus_radical",
+      "required": false
+    }
+  ]
+}

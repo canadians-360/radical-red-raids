@@ -1,0 +1,24 @@
+{
+  "pokemon": {
+    "species": "rapidash",
+    "moves": [
+      "firelash",
+      "jumpkick",
+      "wildcharge",
+      "swordsdance"
+    ],
+    "ability": "speedboost"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "FIRE",
+  "weight": 4.0,
+  "base_form": [
+    {
+      "name": "radical",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

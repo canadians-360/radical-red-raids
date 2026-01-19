@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "florges",
+    "moves": [
+      "moonblast",
+      "psychic",
+      "energyball",
+      "calmmind"
+    ],
+    "ability": "naturalcure"
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "FAIRY",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

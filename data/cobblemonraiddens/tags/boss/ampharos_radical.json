@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:ampharos_radical",
+      "required": false
+    }
+  ]
+}

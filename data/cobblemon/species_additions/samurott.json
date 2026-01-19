@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:samurott",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.samurott-radical.desc"
+            ],
             "primaryType": "water",
             "secondaryType": "steel",
             "abilities": [
@@ -162,9 +172,6 @@
                 "legacy:swagger",
                 "legacy:toxic",
                 "special:holdback"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

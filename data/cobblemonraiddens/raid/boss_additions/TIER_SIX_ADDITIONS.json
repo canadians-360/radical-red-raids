@@ -1,0 +1,11 @@
+{
+  "priority": 44,
+  "include": [
+    "#cobblemonraiddens:screamtail_radical"
+  ],
+  "exclude": [],
+  "additions": {
+    "weight": 4.0 //Weight of special raids, normal base weights are 20, default: 4
+  },
+  "replace": true
+}

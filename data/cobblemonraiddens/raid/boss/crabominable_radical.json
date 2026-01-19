@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "crabominable",
+    "moves": [
+      "iceshard",
+      "machpunch",
+      "drainpunch",
+      "icehammer"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "FIGHTING",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

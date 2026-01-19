@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "golurk",
+    "moves": [
+      "ragefist",
+      "earthquake",
+      "dynamicpunch",
+      "icepunch"
+    ],
+    "ability": "noguard"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GROUND",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

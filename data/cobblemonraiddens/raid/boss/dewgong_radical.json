@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "dewgong",
+    "moves": [
+      "scald",
+      "icebeam",
+      "surf",
+      "rest"
+    ],
+    "ability": "icescales"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "WATER",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

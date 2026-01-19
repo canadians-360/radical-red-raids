@@ -1,0 +1,24 @@
+{
+  "pokemon": {
+    "species": "luxray",
+    "moves": [
+      "suckerpunch",
+      "zingzap",
+      "firefang",
+      "roar"
+    ],
+    "ability": "soulheart"
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "ELECTRIC",
+  "weight": 4.0,
+  "base_form": [
+    {
+      "name": "radical",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

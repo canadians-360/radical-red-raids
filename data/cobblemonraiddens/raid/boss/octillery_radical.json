@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "octillery",
+    "moves": [
+      "snipeshot",
+      "iciclespear",
+      "pinmissile",
+      "aurasphere"
+    ],
+    "ability": "megalauncher"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "WATER",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

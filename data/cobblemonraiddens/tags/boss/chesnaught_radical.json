@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:chesnaught_radical",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "flygon",
+    "moves": [
+      "dragondarts",
+      "headlongrush",
+      "sandsearstorm",
+      "dragondance"
+    ],
+    "ability": "tintedlens"
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "GROUND",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

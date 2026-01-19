@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "kricketune",
+    "moves": [
+      "bulletseed",
+      "pinmissile",
+      "megadrain",
+      "doublehit"
+    ],
+    "ability": "technician"
+  },
+  "raid_tier": "TIER_THREE",
+  "raid_type": "BUG",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

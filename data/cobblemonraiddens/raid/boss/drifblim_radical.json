@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "drifblim",
+    "moves": [
+      "extrasensory",
+      "strengthsap",
+      "hurricane",
+      "nastyplot"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GHOST",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

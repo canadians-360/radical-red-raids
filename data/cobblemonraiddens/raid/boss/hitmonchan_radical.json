@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "hitmonchan",
+    "moves": [
+      "suckerpunch",
+      "drainpunch",
+      "icepunch",
+      "bulkup"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "FIGHTING",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

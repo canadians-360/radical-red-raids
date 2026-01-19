@@ -1,13 +1,23 @@
 {
     "target": "cobblemon:tropius",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.tropius-radical.desc"
+            ],
             "primaryType": "grass",
             "secondaryType": "dragon",
             "abilities": [
                 "chlorophyll",
-                "solarpower",
+                "windrider",
                 "h:harvest"
             ],
             "baseStats": {
@@ -157,9 +167,6 @@
                 "legacy:snore",
                 "legacy:swagger",
                 "legacy:toxic"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

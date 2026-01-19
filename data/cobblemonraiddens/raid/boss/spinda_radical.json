@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "spinda",
+    "moves": [
+      "superpower",
+      "doubleedge",
+      "stompingtantrum",
+      "howl"
+    ]
+  },
+  "raid_tier": "TIER_THREE",
+  "raid_type": "NORMAL",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "druddigon",
+    "moves": [
+      "ironhead",
+      "earthquake",
+      "roost",
+      "dragonhammer"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "DRAGON",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

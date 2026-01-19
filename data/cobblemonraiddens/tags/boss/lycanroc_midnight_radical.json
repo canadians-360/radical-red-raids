@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:lycanroc_midnight_radical",
+      "required": false
+    }
+  ]
+}

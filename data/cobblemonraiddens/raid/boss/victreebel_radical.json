@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "victreebel",
+    "moves": [
+      "gunkshot",
+      "leafblade",
+      "suckerpunch",
+      "swordsdance"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GRASS",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

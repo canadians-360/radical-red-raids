@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "cofagrigus",
+    "moves": [
+      "irondefense",
+      "bodypress",
+      "shadowball",
+      "rest"
+    ],
+    "ability": "shadowshield"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GHOST",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

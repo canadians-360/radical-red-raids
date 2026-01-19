@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "mawile",
+    "moves": [
+      "doubleironbash",
+      "playrough",
+      "firepunch",
+      "swordsdance"
+    ]
+  },
+  "raid_tier": "TIER_THREE",
+  "raid_type": "STEEL",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

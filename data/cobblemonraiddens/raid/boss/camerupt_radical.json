@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "camerupt",
+    "moves": [
+      "slackoff",
+      "steameruption",
+      "magmastorm",
+      "hydrosteam"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "FIRE",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

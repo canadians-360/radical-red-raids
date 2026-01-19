@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:swoobat_radical",
+      "required": false
+    }
+  ]
+}

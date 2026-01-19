@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "hypno",
+    "moves": [
+      "zenheadbutt",
+      "drainpunch",
+      "firepunch",
+      "bulkup"
+    ],
+    "ability": "psychicsurge"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "PSYCHIC",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

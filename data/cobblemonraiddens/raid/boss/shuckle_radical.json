@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "shuckle",
+    "moves": [
+      "stickyweb",
+      "stealthrock",
+      "toxic",
+      "shellsmash"
+    ],
+    "ability": "solidrock"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "BUG",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

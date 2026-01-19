@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "klinklang",
+    "moves": [
+      "superpower",
+      "volttackle",
+      "shiftgear",
+      "geargrind"
+    ],
+    "ability": "steelworker"
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "STEEL",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:luvdisc",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.luvdisc-radical.desc"
+            ],
             "primaryType": "water",
             "secondaryType": "fairy",
             "abilities": [
@@ -111,9 +121,6 @@
                 "legacy:swagger",
                 "legacy:swift",
                 "legacy:toxic"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

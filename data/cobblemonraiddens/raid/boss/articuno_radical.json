@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "articuno",
+    "moves": [
+      "haze",
+      "bleakwindstorm",
+      "freezedry",
+      "roost"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "ICE",
+  "weight": 4.0,
+  "loot_table": "cobblemonraiddens:raid/boss/articuno",
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "wugtrio",
+    "moves": [
+      "earthquake",
+      "scald",
+      "icespinner",
+      "throatchop"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "WATER",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

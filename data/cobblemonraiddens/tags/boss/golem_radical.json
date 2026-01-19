@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:golem_radical",
+      "required": false
+    }
+  ]
+}

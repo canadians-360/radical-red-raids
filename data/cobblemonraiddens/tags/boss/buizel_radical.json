@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:buizel_radical",
+      "required": false
+    }
+  ]
+}

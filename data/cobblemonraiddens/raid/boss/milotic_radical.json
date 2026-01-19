@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "milotic",
+    "moves": [
+      "bouncybubble",
+      "icebeam",
+      "scald",
+      "coil"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "WATER",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

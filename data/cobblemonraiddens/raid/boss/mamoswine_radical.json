@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "mamoswine",
+    "moves": [
+      "headlongrush",
+      "mountaingale",
+      "knockoff",
+      "iceshard"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "ICE",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

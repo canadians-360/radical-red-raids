@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "swellow",
+    "moves": [
+      "boomburst",
+      "uturn",
+      "bravebird",
+      "workup"
+    ],
+    "ability": "aerilate"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "NORMAL",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

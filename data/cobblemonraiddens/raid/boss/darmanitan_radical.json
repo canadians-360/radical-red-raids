@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "darmanitan",
+    "moves": [
+      "trickroom",
+      "teleport",
+      "flareblitz",
+      "earthquake"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "FIRE",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "malamar",
+    "moves": [
+      "psychoboost",
+      "superpower",
+      "knockoff",
+      "topsyturvy"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "DARK",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,6 +1,98 @@
 {
   "cobblemon.move.aquafang": "Aqua Fang",
   "cobblemon.move.aquafang.desc": "The user bites the target with water-infused fangs. This may make the target flinch.",
+
   "cobblemon.move.sonicslash": "Sonic Slash",
-  "cobblemon.move.sonicslash.desc": "The user slashes the target at high speed. The faster the user is compared to the target, the greater the move's power."
+  "cobblemon.move.sonicslash.desc": "The user slashes the target at high speed. The faster the user is compared to the target, the greater the move's power.",
+  
+
+  "cobblemon.species.lapras-radical.desc": "This reclusive Lapras has inhabited a large local lake, adapting to the myths and legends told around it over time, growing more draconic in nature.",
+  "cobblemon.ui.pokedex.info.form.lapras-radical": "Radical",
+
+  "cobblemon.species.arbok-radical.desc": "Exposure to ruthless territorial conflicts hardened this Arbok’s venomous instincts into predatory cruelty, giving it a darker, more calculating nature.",
+  "cobblemon.ui.pokedex.info.form.arbok-radical": "Radical",
+
+  "cobblemon.species.beartic-radical.desc": "Forced to battle rivals for scarce prey, this Beartic developed powerful martial techniques, blending brute strength with icy endurance.",
+  "cobblemon.ui.pokedex.info.form.beartic-radical": "Radical",
+
+  "cobblemon.species.bellossom-radical.desc": "Living near ancient groves touched by mystical energies caused this Bellossom’s graceful dances to take on an enchanting, fairy-like power.",
+  "cobblemon.ui.pokedex.info.form.bellossom-radical": "Radical",
+
+  "cobblemon.species.electivire-radical.desc": "Constant sparring and physical combat refined this Electivire’s electrical output into disciplined, close-quarters fighting techniques.",
+  "cobblemon.ui.pokedex.info.form.electivire-radical": "Radical",
+
+  "cobblemon.species.falinks-radical.desc": "Evolving alongside swarming insects, this Falinks adapted chitinous armor and hive-like coordination without losing its battle-hardened tactics.",
+  "cobblemon.ui.pokedex.info.form.falinks-radical": "Radical",
+
+  "cobblemon.species.farfetchd-radical.desc": "Training under relentless winds and aerial duels honed this Farfetch’d into a nimble airborne warrior.",
+  "cobblemon.ui.pokedex.info.form.farfetchd-radical": "Radical",
+
+  "cobblemon.species.golduck-radical.desc": "Intense mental strain awakened this Golduck’s latent psychic abilities, reshaping its watery focus into cerebral power.",
+  "cobblemon.ui.pokedex.info.form.golduck-radical": "Radical",
+
+  "cobblemon.species.gorebyss-radical.desc": "Dwelling in bioluminescent reefs imbued this Gorebyss with mesmerizing beauty and fairy-like allure.",
+  "cobblemon.ui.pokedex.info.form.gorebyss-radical": "Radical",
+
+  "cobblemon.species.granbull-radical.desc": "Years of territorial brawls tempered this Granbull’s fierce demeanor into a formidable blend of brute force and stubborn resolve.",
+  "cobblemon.ui.pokedex.info.form.granbull-radical": "Radical",
+
+  "cobblemon.species.grapploct-radical.desc": "Constant combat against coastal predators sharpened this Grapploct’s grappling style into an art of disciplined combat.",
+  "cobblemon.ui.pokedex.info.form.grapploct-radical": "Radical",
+
+  "cobblemon.species.huntail-radical.desc": "Living in pitch-black depths turned this Huntail into a ruthless ambusher, its watery nature twisted by predatory darkness.",
+  "cobblemon.ui.pokedex.info.form.huntail-radical": "Radical",
+
+  "cobblemon.species.illumise-radical.desc": "This Illumise adapted its signaling lights into playful yet deceptive fairy magic, confusing foes and allies alike.",
+  "cobblemon.ui.pokedex.info.form.illumise-radical": "Radical",
+
+  "cobblemon.species.raichu-radical.desc": "This Raichu thrives in towns and cities, using controlled electricity to assist daily tasks, making it unusually adaptable.",
+  "cobblemon.ui.pokedex.info.form.raichu-radical": "Radical",
+
+  "cobblemon.species.ledian-radical.desc": "Harsh survival conditions forced this Ledian to abandon fragile grace, developing powerful punching techniques to endure combat.",
+  "cobblemon.ui.pokedex.info.form.ledian-radical": "Radical",
+
+  "cobblemon.species.lopunny-radical.desc": "Rigorous physical training reshaped this Lopunny’s agility into a disciplined fighting style without losing its speed.",
+  "cobblemon.ui.pokedex.info.form.lopunny-radical": "Radical",
+
+  "cobblemon.species.lurantis-radical.desc": "This Lurantis honed its bladed leaves through constant duels, evolving into a precise and relentless martial combatant.",
+  "cobblemon.ui.pokedex.info.form.lurantis-radical": "Radical",
+
+  "cobblemon.species.luvdisc-radical.desc": "Absorbing ambient emotional energy transformed this Luvdisc’s gentle nature into a surprisingly potent fairy affinity.",
+  "cobblemon.ui.pokedex.info.form.luvdisc-radical": "Radical",
+
+  "cobblemon.species.luxray-radical.desc": "Living among ruthless nocturnal predators taught this Luxray to stalk silently, channeling its electricity with predatory intent.",
+  "cobblemon.ui.pokedex.info.form.luxray-radical": "Radical",
+
+  "cobblemon.species.masquerain-radical.desc": "Adapting to flooded wetlands allowed this Masquerain to blend aquatic movement with its natural insect agility.",
+  "cobblemon.ui.pokedex.info.form.masquerain-radical": "Radical",
+
+  "cobblemon.species.meganium-radical.desc": "Exposure to ancient ley lines awakened this Meganium’s nurturing aura into powerful fairy magic.",
+  "cobblemon.ui.pokedex.info.form.meganium-radical": "Radical",
+
+  "cobblemon.species.mismagius-radical.desc": "This Mismagius embraced playful enchantment over malice, refining its ghostly tricks into refined fairy illusions.",
+  "cobblemon.ui.pokedex.info.form.mismagius-radical": "Radical",
+
+  "cobblemon.species.pincurchin-radical.desc": "Living in tidal pools infused with electrical currents taught this Pincurchin to manipulate both water and lightning.",
+  "cobblemon.ui.pokedex.info.form.pincurchin-radical": "Radical",
+
+  "cobblemon.species.rapidash-radical.desc": "Legends surrounding this Rapidash caused its flames to take on a mystical quality, blending fiery speed with fairy grace.",
+  "cobblemon.ui.pokedex.info.form.rapidash-radical": "Radical",
+
+  "cobblemon.species.samurott-radical.desc": "Refining its combat style with hardened shells and blades, this Samurott became a disciplined steel-clad warrior.",
+  "cobblemon.ui.pokedex.info.form.samurott-radical": "Radical",
+
+  "cobblemon.species.sceptile-radical.desc": "Exposure to ancient draconic ruins awakened primal instincts within this Sceptile, altering its growth and power.",
+  "cobblemon.ui.pokedex.info.form.sceptile-radical": "Radical",
+
+  "cobblemon.species.sunflora-radical.desc": "Endless sunlight and volcanic soil caused this Sunflora’s solar energy to manifest as intense, burning heat.",
+  "cobblemon.ui.pokedex.info.form.sunflora-radical": "Radical",
+
+  "cobblemon.species.tropius-radical.desc": "Generations spent soaring near ancient mythical territories subtly transformed this Tropius’s biology toward draconic traits.",
+  "cobblemon.ui.pokedex.info.form.tropius-radical": "Radical",
+
+  "cobblemon.species.venomoth-radical.desc": "Continuous exposure to psychic emissions reshaped this Venomoth’s mind, amplifying its already potent powders.",
+  "cobblemon.ui.pokedex.info.form.venomoth-radical": "Radical",
+
+  "cobblemon.species.volbeat-radical.desc": "This Volbeat adapted its bioluminescent signals into electrical pulses, allowing it to communicate through flashes of energy.",
+  "cobblemon.ui.pokedex.info.form.volbeat-radical": "Radical"
 }

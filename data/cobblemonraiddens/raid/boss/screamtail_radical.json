@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "screamtail",
+    "moves": [
+      "calmmind",
+      "dazzlinggleam",
+      "fireblast",
+      "psychicnoise"
+    ],
+    "ability": "tanglinghair"
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "FAIRY",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:donphan_radical",
+      "required": false
+    }
+  ]
+}

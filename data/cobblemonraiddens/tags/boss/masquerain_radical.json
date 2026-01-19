@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:masquerain_radical",
+      "required": false
+    }
+  ]
+}

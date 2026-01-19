@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:forretress_radical",
+      "required": false
+    }
+  ]
+}

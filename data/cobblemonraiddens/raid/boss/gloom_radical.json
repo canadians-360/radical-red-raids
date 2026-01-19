@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "gloom",
+    "moves": [
+      "strengthsap",
+      "appleacid",
+      "sludgebomb",
+      "growth"
+    ]
+  },
+  "raid_tier": "TIER_THREE",
+  "raid_type": "GRASS",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

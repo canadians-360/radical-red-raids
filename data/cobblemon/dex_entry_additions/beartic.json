@@ -1,0 +1,9 @@
+{
+    "entryId": "cobblemon:beartic",
+    "forms": [
+      {
+        "displayForm": "Radical",
+        "unlockForms": ["Radical"]
+      }
+    ]
+}

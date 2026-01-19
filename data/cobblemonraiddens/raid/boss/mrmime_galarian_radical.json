@@ -1,0 +1,23 @@
+{
+  "pokemon": {
+    "species": "mrmime",
+    "moves": [
+      "frostbreath",
+      "freezyfrost",
+      "psychic",
+      "nastyplot"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "ICE",
+  "weight": 4.0,
+  "base_form": [
+    {
+      "name": "galarian",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

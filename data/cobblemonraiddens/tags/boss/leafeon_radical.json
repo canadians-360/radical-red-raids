@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:leafeon_radical",
+      "required": false
+    }
+  ]
+}

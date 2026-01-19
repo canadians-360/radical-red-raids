@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "leafeon",
+    "moves": [
+      "jumpkick",
+      "stompingtantrum",
+      "sappyseed",
+      "swordsdance"
+    ],
+    "ability": "sapsipper"
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "GRASS",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pokemon": {
+    "species": "bellossom",
+    "moves": [
+      "fierydance",
+      "strengthsap",
+      "quiverdance",
+      "gigadrain"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GRASS",
+  "weight": 4.0,
+  "base_form": [
+    {
+      "name": "radical",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

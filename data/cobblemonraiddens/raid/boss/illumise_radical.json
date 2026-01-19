@@ -1,0 +1,23 @@
+{
+  "pokemon": {
+    "species": "illumise",
+    "moves": [
+      "playrough",
+      "zenheadbutt",
+      "trailblaze",
+      "skittersmack"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "BUG",
+  "weight": 4.0,
+  "base_form": [
+    {
+      "name": "radical",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

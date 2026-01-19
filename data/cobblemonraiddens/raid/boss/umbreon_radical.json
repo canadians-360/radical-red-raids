@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "umbreon",
+    "moves": [
+      "suckerpunch",
+      "calmmind",
+      "knockoff",
+      "moonlight"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "DARK",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

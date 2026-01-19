@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "furret",
+    "moves": [
+      "suckerpunch",
+      "extremespeed",
+      "doubleedge",
+      "coil"
+    ],
+    "ability": "adaptability"
+  },
+  "raid_tier": "TIER_THREE",
+  "raid_type": "NORMAL",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

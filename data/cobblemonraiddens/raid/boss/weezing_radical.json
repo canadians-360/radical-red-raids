@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "weezing",
+    "moves": [
+      "sludgebomb",
+      "flamethrower",
+      "haze",
+      "willowisp"
+    ],
+    "ability": "toxicdebris"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "POISON",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

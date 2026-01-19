@@ -1,8 +1,18 @@
 {
     "target": "cobblemon:huntail",
+        "implimented": true,
+    "features": [
+        "radical"
+    ],
     "forms": [
         {
             "name": "Radical",
+            "aspects": [
+                "radical"
+            ],
+            "pokedex": [
+                "cobblemon.species.huntail-radical.desc"
+            ],
             "primaryType": "water",
             "secondaryType": "dark",
             "abilities": [
@@ -122,9 +132,6 @@
                 "legacy:swagger",
                 "legacy:swift",
                 "legacy:toxic"
-            ],
-            "aspects": [
-                "radical"
             ],
             "labels": [
                 "radical_form"

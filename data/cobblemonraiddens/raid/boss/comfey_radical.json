@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "comfey",
+    "moves": [
+      "sparklyswirl",
+      "drainingkiss",
+      "gigadrain",
+      "calmmind"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "FAIRY",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

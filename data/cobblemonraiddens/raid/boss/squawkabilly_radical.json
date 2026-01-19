@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "squawkabilly",
+    "moves": [
+      "pluk",
+      "acrobatics",
+      "facade",
+      "defog"
+    ]
+  },
+  "raid_tier": "TIER_THREE",
+  "raid_type": "NORMAL",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

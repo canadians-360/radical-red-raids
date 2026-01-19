@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cobblemonraiddens:charizard_radical",
+      "required": false
+    }
+  ]
+}

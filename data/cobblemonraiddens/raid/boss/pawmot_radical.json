@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "pawmot",
+    "moves": [
+      "drainpunch",
+      "strength",
+      "poweruppunch",
+      "doubleshock"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "ELECTRIC",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

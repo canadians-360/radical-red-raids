@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "aromatisse",
+    "moves": [
+      "sparklyswirl",
+      "moonblast",
+      "thunderbolt",
+      "calmmind"
+    ],
+    "ability": "fairyaura"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "FAIRY",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

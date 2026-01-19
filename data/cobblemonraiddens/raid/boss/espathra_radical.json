@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "espathra",
+    "moves": [
+      "futuresight",
+      "acrobatics",
+      "roost",
+      "dazzlinggleam"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "PSYCHIC",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

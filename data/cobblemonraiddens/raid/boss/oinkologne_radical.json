@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "oinkologne",
+    "moves": [
+      "earthquake",
+      "snarl",
+      "playrough",
+      "bodypress"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "NORMAL",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "garbodor",
+    "moves": [
+      "poisonjab",
+      "earthquake",
+      "superpower",
+      "firepunch"
+    ],
+    "ability": "gooey"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "POISON",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

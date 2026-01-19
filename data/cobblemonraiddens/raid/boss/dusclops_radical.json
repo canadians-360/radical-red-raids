@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "dusclops",
+    "moves": [
+      "leechlife",
+      "nightshade",
+      "willowisp",
+      "calmmind"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GHOST",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

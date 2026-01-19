@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "emboar",
+    "moves": [
+      "jumpkick",
+      "closecombat",
+      "flareblitz",
+      "knockoff"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "FIRE",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

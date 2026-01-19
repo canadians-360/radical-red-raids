@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "claydol",
+    "moves": [
+      "shoreup",
+      "earthpower",
+      "psychic",
+      "cosmicpower"
+    ]
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GROUND",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

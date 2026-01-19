@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "aurorus",
+    "moves": [
+      "powergem",
+      "boomburst",
+      "diamondstorm",
+      "blizzard"
+    ]
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "ROCK",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}
