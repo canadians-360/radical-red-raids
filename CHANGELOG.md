@@ -1,6 +1,6 @@
 # CHANGE LOG
 
-#v2.0.1
+# v2.0.1
 
 * Fixing Radical Raichu abilities and stats
 
