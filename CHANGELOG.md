@@ -1,5 +1,9 @@
 # CHANGE LOG
 
+# v2.0.1
+
+* Fixing Radical Raichu abilities and stats
+
 # v2.0.0
 
 * Completely reworked all raids as bosses instead of boss additions
