@@ -70,7 +70,8 @@
   ],
   "exclude": [],
   "additions": {
-    "weight": 4.0
+    "weight": 4.0,
+    "raid_ai": "RCT"
   },
   "replace": true
 }
