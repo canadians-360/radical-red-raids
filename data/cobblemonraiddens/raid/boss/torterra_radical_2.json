@@ -1,15 +1,15 @@
 {
   "pokemon": {
-    "species": "tsareena",
+    "species": "torterra",
     "moves": [
+      "shellsmash",
       "gravapple",
-      "highjumpkick",
-      "playrough",
-      "tripleaxel"
+      "sleeppowder",
+      "bodypress"
     ],
-    "ability": "striker"
+    "ability": "selfsufficient"
   },
-  "raid_tier": "TIER_FOUR",
+  "raid_tier": "TIER_FIVE",
   "raid_type": "GRASS",
   "weight": 4.0,
   "den": [

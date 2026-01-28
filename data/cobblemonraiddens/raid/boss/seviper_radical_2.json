@@ -1,16 +1,16 @@
 {
   "pokemon": {
-    "species": "copperajah",
+    "species": "seviper",
     "moves": [
-      "doubleironbash",
-      "earthquake",
+      "gunkshot",
+      "hypnosis",
       "powerwhip",
-      "heatcrash"
+      "icefang"
     ],
-    "ability": "bluntforce"
+    "ability": "fatalprecision"
   },
   "raid_tier": "TIER_FOUR",
-  "raid_type": "STEEL",
+  "raid_type": "POISON",
   "weight": 4.0,
   "den": [
     "cobblemonraiddens:raid_den/radical"

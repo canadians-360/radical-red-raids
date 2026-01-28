@@ -1,0 +1,18 @@
+{
+    "pokemon": {
+        "species": "simisage",
+        "moves": [
+            "leafstorm",
+            "knockoff",
+            "focusblast",
+            "gigadrain"
+        ],
+        "ability": "sagepower"
+    },
+    "raid_tier": "TIER_FOUR",
+    "raid_type": "GRASS",
+    "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

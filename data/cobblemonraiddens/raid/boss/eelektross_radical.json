@@ -6,7 +6,8 @@
       "coil",
       "drainpunch",
       "dragontail"
-    ]
+    ],
+    "ability": "fatalprecision"
   },
   "raid_tier": "TIER_FIVE",
   "raid_type": "ELECTRIC",

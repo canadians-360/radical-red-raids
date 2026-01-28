@@ -1,13 +1,13 @@
 {
   "pokemon": {
-    "species": "rampardos",
+    "species": "coalossal",
     "moves": [
-      "accelerock",
-      "headsmash",
-      "earthquake",
-      "zenheadbutt"
+      "burningbulwark",
+      "hydrosteam",
+      "flashcannon",
+      "powergem"
     ],
-    "ability": "bluntforce"
+    "ability": "mountaineer"
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "ROCK",

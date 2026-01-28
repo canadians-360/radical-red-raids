@@ -1,13 +1,13 @@
 {
   "pokemon": {
-    "species": "emboar",
+    "species": "blaziken",
     "moves": [
-      "jumpkick",
-      "closecombat",
-      "flareblitz",
-      "knockoff"
+      "triplearrows",
+      "dualchop",
+      "poweruppunch",
+      "blazekick"
     ],
-    "ability": "bullrush"
+    "ability": "striker"
   },
   "raid_tier": "TIER_FIVE",
   "raid_type": "FIRE",

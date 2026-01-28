@@ -1,20 +1,20 @@
 {
   "pokemon": {
-    "species": "persian",
+    "species": "granbull",
     "moves": [
-      "dazzlinggleam",
-      "surf",
-      "darkpulse",
-      "nastyplot"
+      "playrough",
+      "hammerarm",
+      "flareblitz",
+      "ragingbull"
     ],
-    "ability": "felineprowess"
+    "ability": "bullrush"
   },
   "raid_tier": "TIER_FOUR",
-  "raid_type": "DARK",
+  "raid_type": "FAIRY",
   "weight": 4.0,
   "base_form": [
     {
-      "name": "alolan",
+      "name": "radical",
       "value": true
     }
   ],

@@ -1,5 +1,49 @@
 # CHANGE LOG
 
+# v2.1.0 Abilities Abound
+
+## **New Raids**
+
+* Coalossal (**Mountaineer**) **burningbulwark**, **hydrosteam**, **flashcannon**, powergem
+* Centiskorch (**Mountaineer**) Power Whip, Knock Off, Fire Lash, X-Scissor
+* Torterra 2 (**Self-Sufficient**) **Shell Smash**, **Body Press**, Grav Apple, Sleep Poweder
+* Meowstic M & F (**Feline Prowess**) **Mystical Fire**, Psyshock, Signal Beam, Calm Mind
+* Delcatty (**Feline Prowess**) **Draining Kiss**, **Alluring Voice**, Hyper Voice, Thunder Wave
+* Simisage (**Sage Power**) Leaf Storm, Knock-Off, Focus Blast, Giga Drain
+* Simisear (**Sage Power**) Uproar, Fire Blast, Grass Knot, Focus Blast
+* Simipour (**Sage Power**) Grass Knot, Hydro Pump, Ice Beam, Focus Blast
+* Tauros (**Bull Rush**) Raging Bull, Zen Headbutt, Throat Chop, Earthquake
+* Granbull 2(**Bull Rush**) Play Rough, Hammer Arm, Flare Blitz, Raging Bull
+* Blaziken (**Striker**) **Triple Arrows**, **Dual Chop**, **Power Up Punch**, Blaze Kick
+* Decidueye Hisui (**Striker**) Triple Arrows, Trop Kick, Triple Axel, Swords Dance
+* Decidueye Hisui 2 (**Quill Rush**) Thousand Arrows, Leaf Blade, Knock Off, Rock Slide
+* Mudsdale 2 (**Striker**) **Slack Off**, Bulldoze, Mega Kick, Double Kick
+* Seviper 2 (**Fatal Precision**) **Gunk Shot**, **Hypnosis**, **Power Whip**, **Ice Fang**
+* Heatmor(**Fatal Precision**) **Dynamic Punch**, **Stone Edge**, **Power Whip**, Fire Blast
+
+
+
+## **Updated Raids**
+
+* Torterra (Overgrow \-\> **Rock Head**) **Shell Smash**, Headlong Rush, Wood Hammer, Head Smash
+* Copperajah (**Blunt Force**)
+* Rampardos (**Blunt Force**)
+* Persian (**Berserk** \-\> **Feline Prowess**)
+* Persian Alola (**Berserk** \-\> **Feline Prowess**)
+* Oranguru (**Psychic Surge** \-\> **Sage Power**) Psychic, Thunderbolt, Focus Blast, Hyper Voice
+* Emboar (**Bull Rush**)
+* Bouffalant (**Bull Rush**)
+* Hitmonlee (**Striker**) Sucker Punch \-\> **Triple Axel**, Close Combat \-\> Axe Kick
+* Tsareena (**Striker**) U-Turn \-\> **Triple Axel**
+* Eelektross (**Fatal Precision**)
+
+## **Updated Radical Region Forms** 
+* Granbull (h:**Strong Jaw** \-\> h:**Bull Rush**, Quick Feet -> **Strong Jaw**)  
+
+## **Bugfixes**
+
+* Removed Wish from Lapras raid to prevent crashes
+
 # v2.0.1
 
 * Fixing Radical Raichu abilities and stats

@@ -1,16 +1,16 @@
 {
   "pokemon": {
-    "species": "copperajah",
+    "species": "centiskorch",
     "moves": [
-      "doubleironbash",
-      "earthquake",
       "powerwhip",
-      "heatcrash"
+      "knockoff",
+      "xscissor",
+      "firelash"
     ],
-    "ability": "bluntforce"
+    "ability": "mountaineer"
   },
   "raid_tier": "TIER_FOUR",
-  "raid_type": "STEEL",
+  "raid_type": "FIRE",
   "weight": 4.0,
   "den": [
     "cobblemonraiddens:raid_den/radical"

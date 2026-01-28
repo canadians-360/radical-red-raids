@@ -1,16 +1,16 @@
 {
   "pokemon": {
-    "species": "tsareena",
+    "species": "mudsdale",
     "moves": [
-      "gravapple",
-      "highjumpkick",
-      "playrough",
-      "tripleaxel"
+      "slackoff",
+      "bulldoze",
+      "megakick",
+      "doublekick"
     ],
     "ability": "striker"
   },
   "raid_tier": "TIER_FOUR",
-  "raid_type": "GRASS",
+  "raid_type": "GROUND",
   "weight": 4.0,
   "den": [
     "cobblemonraiddens:raid_den/radical"

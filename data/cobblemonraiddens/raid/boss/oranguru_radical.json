@@ -5,9 +5,9 @@
       "hypervoice",
       "psychic",
       "focusblast",
-      "shadowball"
+      "thunderbolt"
     ],
-    "ability": "psychicsurge"
+    "ability": "sagepower"
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "NORMAL",

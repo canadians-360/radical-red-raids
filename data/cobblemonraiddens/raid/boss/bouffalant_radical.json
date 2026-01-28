@@ -4,9 +4,10 @@
     "moves": [
       "ragingbull",
       "earthquake",
-      "substitute",
+      "throatchop",
       "swordsdance"
-    ]
+    ],
+    "ability": "bullrush"
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "NORMAL",
