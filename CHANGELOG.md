@@ -42,6 +42,7 @@
 * Brute Bonnet (**Poison Heal**) **Leaf Blade**, **Earthquake**, **Grassy Glide**, **Knock Off**
 * Ceruledge (**Sharpness**) Shadow Sneak, Poltergeist, Bitter Blade, Swords Dance
 * Polteageist (**Heatproof**) Shell Smash, Shadow Ball, Stored Power, Giga Drain
+* Hypno 2 (**Bad Dreams**) **Dark Void**, **Aura Sphere**, Nasty Plot, Draining Kiss
 
 ## **Updated Raids**
 
