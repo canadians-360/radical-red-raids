@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "marowak",
+    "moves": [
+        "bonemerang",
+        "knockoff",
+        "stoneedge",
+        "swordsdance"
+    ],
+    "ability": "bonezone"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GROUND",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

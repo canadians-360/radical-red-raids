@@ -19,8 +19,10 @@
 * Decidueye Hisui 2 (**Quill Rush**) Thousand Arrows, Leaf Blade, Knock Off, Rock Slide
 * Mudsdale 2 (**Striker**) **Slack Off**, Bulldoze, Mega Kick, Double Kick
 * Seviper 2 (**Fatal Precision**) **Gunk Shot**, **Hypnosis**, **Power Whip**, **Ice Fang**
-* Heatmor(**Fatal Precision**) **Dynamic Punch**, **Stone Edge**, **Power Whip**, Fire Blast
-
+* Heatmor (**Fatal Precision**) **Dynamic Punch**, **Stone Edge**, **Power Whip**, Fire Blast
+* Drampa (**Fatal Precision**) Fire Blast, Blizzard, Hurricane, Hydro Pump
+* Marowak (**Bone Zone**) Bonemerang, Knock Off, Stone Edge, Swords Dance
+* Marowak Alolan (**Bone Zone**) Bone Rush, Knock Off, Shadow Bone, Flame Wheel
 
 
 ## **Updated Raids**
