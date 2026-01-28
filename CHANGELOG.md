@@ -23,6 +23,10 @@
 * Drampa (**Fatal Precision**) Fire Blast, Blizzard, Hurricane, Hydro Pump
 * Marowak (**Bone Zone**) Bonemerang, Knock Off, Stone Edge, Swords Dance
 * Marowak Alolan (**Bone Zone**) Bone Rush, Knock Off, Shadow Bone, Flame Wheel
+* Typhlosion (**Blazing Soul**) Eruption, Flamethrower, Focus Blast, Scorching Sands
+* Rapidash Radical **[Fire/Fairy]** (Pastel Veil) Flare Blitz, Wild Charge, Play Rough, Swords Dance
+* Brute Bonnet (**Poison Heal**) **Leaf Blade**, **Earthquake**, **Grassy Glide**, **Knock Off**
+* Ceruledge (**Sharpness**) Shadow Sneak, Poltergeist, Bitter Blade, Swords Dance
 
 
 ## **Updated Raids**
@@ -38,13 +42,17 @@
 * Hitmonlee (**Striker**) Sucker Punch \-\> **Triple Axel**, Close Combat \-\> Axe Kick
 * Tsareena (**Striker**) U-Turn \-\> **Triple Axel**
 * Eelektross (**Fatal Precision**)
+* Rapidash (**Speed Boost** \-\> **Blazing Soul**)
+* Typhlosion (**Blazing Soul**) Eruption, Flamethrower, Focus Blast, Scorching Sands
 
 ## **Updated Radical Region Forms** 
-* Granbull (h:**Strong Jaw** \-\> h:**Bull Rush**, Quick Feet -> **Strong Jaw**)  
+* Granbull (h:**Strong Jaw** \-\> h:**Bull Rush**, Quick Feet -> **Strong Jaw**)
+* Rapidash (Reckless \-\> Pastel Veil)
 
 ## **Bugfixes**
 
-* Removed Wish from Lapras raid to prevent crashes
+* Removed Wish from Lapras raid to prevent crashes; *Perhapse laprash was just wishing for my game to crash?*
+* Fixed Rapidash Radical form's raid having a Rapidash move pool; *yikes my bad*
 
 # v2.0.1
 

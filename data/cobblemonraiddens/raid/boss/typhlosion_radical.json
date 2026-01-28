@@ -1,15 +1,15 @@
 {
   "pokemon": {
-    "species": "rapidash",
+    "species": "typhlosion",
     "moves": [
-      "firelash",
-      "jumpkick",
-      "wildcharge",
-      "swordsdance"
+        "eruption",
+        "flamethrower",
+        "focusblast",
+        "scorchingsands"
     ],
     "ability": "blazingsoul"
   },
-  "raid_tier": "TIER_FOUR",
+  "raid_tier": "TIER_FIVE",
   "raid_type": "FIRE",
   "weight": 4.0,
   "den": [
