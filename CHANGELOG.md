@@ -58,6 +58,7 @@
 * Eelektross (**Fatal Precision**)
 * Rapidash (**Speed Boost** \-\> **Blazing Soul**)
 * Typhlosion (**Blazing Soul**) Eruption, Flamethrower, Focus Blast, Scorching Sands
+* Lycanroc Mid Day (**Inner Focus**)
 
 ## **Updated Radical Region Forms** 
 * Granbull (h:**Strong Jaw** \-\> h:**Bull Rush**, Quick Feet -> **Strong Jaw**)

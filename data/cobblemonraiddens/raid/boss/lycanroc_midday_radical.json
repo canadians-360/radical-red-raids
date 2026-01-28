@@ -6,7 +6,8 @@
       "accelerock",
       "stoneedge",
       "swordsdance"
-    ]
+    ],
+    "ability": "innerfocus"
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "ROCK",
