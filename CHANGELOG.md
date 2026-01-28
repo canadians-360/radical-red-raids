@@ -41,6 +41,7 @@
 * Rapidash Radical **[Fire/Fairy]** (Pastel Veil) Flare Blitz, Wild Charge, Play Rough, Swords Dance
 * Brute Bonnet (**Poison Heal**) **Leaf Blade**, **Earthquake**, **Grassy Glide**, **Knock Off**
 * Ceruledge (**Sharpness**) Shadow Sneak, Poltergeist, Bitter Blade, Swords Dance
+* Polteageist (**Heatproof**) Shell Smash, Shadow Ball, Stored Power, Giga Drain
 
 ## **Updated Raids**
 
