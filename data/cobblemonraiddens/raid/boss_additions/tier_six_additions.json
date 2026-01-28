@@ -1,7 +1,8 @@
 {
   "priority": 44,
   "include": [
-    "#cobblemonraiddens:screamtail_radical"
+    "#cobblemonraiddens:screamtail_radical",
+    "#cobblemonraiddens:brutebonnet_radical"
   ],
   "exclude": [],
   "additions": {

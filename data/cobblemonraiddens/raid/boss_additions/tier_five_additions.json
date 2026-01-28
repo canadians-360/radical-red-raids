@@ -62,11 +62,17 @@
     "#cobblemonraiddens:toedscruel_radical",
     "#cobblemonraiddens:togekiss_radical",
     "#cobblemonraiddens:torterra_radical",
+    "#cobblemonraiddens:torterra_radical_2",
     "#cobblemonraiddens:tyranitar_radical",
     "#cobblemonraiddens:tyrantrum_radical",
     "#cobblemonraiddens:umbreon_radical",
     "#cobblemonraiddens:venusaur_radical",
-    "#cobblemonraiddens:walrein_radical"
+    "#cobblemonraiddens:walrein_radical",
+    "#cobblemonraiddens:blaziken_radical",
+    "#cobblemonraiddens:ceruledge_radical",
+    "#cobblemonraiddens:decidueye_hisuian_radical",
+    "#cobblemonraiddens:decidueye_hisuian_radical_2",
+    "#cobblemonraiddens:typhlosion_radical"
   ],
   "exclude": [],
   "additions": {
