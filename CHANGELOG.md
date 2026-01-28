@@ -2,9 +2,23 @@
 
 # v2.1.0 Abilities Abound
 
+## **New Abilities**
+
+* Blazing Soul: Gives priority to Fire-type moves when HP is full.
+* Blunt Force: Boosts the power of contact moves, but removes their secondary effects.
+* Bone Zone: Bone moves ignore resistances and can hit Flying-types or Levitate users.
+* Bull Rush: Boosts Attack and Speed on the first turn the Pokémon is in battle.
+* Quill Rush: Boosts Attack and Speed on the first turn the Pokémon is in battle.
+* Fatal Precision: Super effective moves deal 20% more damage and cannot miss.
+* Feline Prowess: Doubles the Pokémon's Special Attack stat.
+* Mountaineer: The Pokémon is immune to Rock-type moves and Stealth Rock upon entry.
+* Sage Power: Boosts Special Attack by 50%, but only allows the use of one move.
+* Self-Sufficient: The Pokémon gradually regains HP every turn.
+* Striker: Boosts the power of kicking moves by 20%.
+
 ## **New Raids**
 
-* Coalossal (**Mountaineer**) **burningbulwark**, **hydrosteam**, **flashcannon**, powergem
+* Coalossal (**Mountaineer**) **Burning Bulwark**, **Hydro Steam**, **Flash Cannon**, Power Gem
 * Centiskorch (**Mountaineer**) Power Whip, Knock Off, Fire Lash, X-Scissor
 * Torterra 2 (**Self-Sufficient**) **Shell Smash**, **Body Press**, Grav Apple, Sleep Poweder
 * Meowstic M & F (**Feline Prowess**) **Mystical Fire**, Psyshock, Signal Beam, Calm Mind
@@ -27,7 +41,6 @@
 * Rapidash Radical **[Fire/Fairy]** (Pastel Veil) Flare Blitz, Wild Charge, Play Rough, Swords Dance
 * Brute Bonnet (**Poison Heal**) **Leaf Blade**, **Earthquake**, **Grassy Glide**, **Knock Off**
 * Ceruledge (**Sharpness**) Shadow Sneak, Poltergeist, Bitter Blade, Swords Dance
-
 
 ## **Updated Raids**
 
