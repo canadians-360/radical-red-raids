@@ -2,7 +2,7 @@
   "pokemon": {
     "species": "hypno",
     "moves": [
-        "darkvoid",
+        "hypnosis",
         "aurasphere",
         "nastyplot",
         "drainingkiss"
