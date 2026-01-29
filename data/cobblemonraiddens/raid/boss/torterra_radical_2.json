@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "torterra",
+    "moves": [
+      "shellsmash",
+      "gravapple",
+      "sleeppowder",
+      "bodypress"
+    ],
+    "ability": "selfsufficient"
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "GRASS",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

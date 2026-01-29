@@ -6,7 +6,8 @@
       "headsmash",
       "earthquake",
       "zenheadbutt"
-    ]
+    ],
+    "ability": "bluntforce"
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "ROCK",

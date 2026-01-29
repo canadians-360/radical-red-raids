@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "hypno",
+    "moves": [
+        "hypnosis",
+        "aurasphere",
+        "nastyplot",
+        "drainingkiss"
+    ],
+    "ability": "baddreams"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "PSYCHIC",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

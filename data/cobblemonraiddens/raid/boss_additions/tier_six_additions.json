@@ -1,0 +1,13 @@
+{
+  "priority": 44,
+  "include": [
+    "cobblemonraiddens:screamtail_radical",
+    "cobblemonraiddens:brutebonnet_radical"
+  ],
+  "exclude": [],
+  "additions": {
+    "weight": 4.0,
+    "raid_ai": "RCT"
+  },
+  "replace": true
+}

@@ -1,5 +1,75 @@
 # CHANGE LOG
 
+# v2.1.0 Abilities Abound
+
+## **New Abilities**
+
+* Blazing Soul: Gives priority to Fire-type moves when HP is full.
+* Blunt Force: Boosts the power of contact moves, but removes their secondary effects.
+* Bone Zone: Bone moves ignore resistances and can hit Flying-types or Levitate users.
+* Bull Rush: Boosts Attack and Speed on the first turn the Pokémon is in battle.
+* Quill Rush: Boosts Attack and Speed on the first turn the Pokémon is in battle.
+* Fatal Precision: Super effective moves deal 20% more damage and cannot miss.
+* Feline Prowess: Doubles the Pokémon's Special Attack stat.
+* Mountaineer: The Pokémon is immune to Rock-type moves and Stealth Rock upon entry.
+* Sage Power: Boosts Special Attack by 50%, but only allows the use of one move.
+* Self-Sufficient: The Pokémon gradually regains HP every turn.
+* Striker: Boosts the power of kicking moves by 20%.
+
+## **New Raids**
+
+* Coalossal (**Mountaineer**) **Burning Bulwark**, **Hydro Steam**, **Flash Cannon**, Power Gem
+* Centiskorch (**Mountaineer**) Power Whip, Knock Off, Fire Lash, X-Scissor
+* Torterra 2 (**Self-Sufficient**) **Shell Smash**, **Body Press**, Grav Apple, Sleep Poweder
+* Meowstic M & F (**Feline Prowess**) **Mystical Fire**, Psyshock, Signal Beam, Calm Mind
+* Delcatty (**Feline Prowess**) **Draining Kiss**, **Alluring Voice**, Hyper Voice, Thunder Wave
+* Simisage (**Sage Power**) Leaf Storm, Knock-Off, Focus Blast, Giga Drain
+* Simisear (**Sage Power**) Uproar, Fire Blast, Grass Knot, Focus Blast
+* Simipour (**Sage Power**) Grass Knot, Hydro Pump, Ice Beam, Focus Blast
+* Tauros (**Bull Rush**) Raging Bull, Zen Headbutt, Throat Chop, Earthquake
+* Granbull 2(**Bull Rush**) Play Rough, Hammer Arm, Flare Blitz, Raging Bull
+* Blaziken (**Striker**) **Triple Arrows**, **Dual Chop**, **Power Up Punch**, Blaze Kick
+* Decidueye Hisui (**Striker**) Triple Arrows, Trop Kick, Triple Axel, Swords Dance
+* Decidueye Hisui 2 (**Quill Rush**) Thousand Arrows, Leaf Blade, Knock Off, Rock Slide
+* Mudsdale 2 (**Striker**) **Slack Off**, Bulldoze, Mega Kick, Double Kick
+* Seviper 2 (**Fatal Precision**) **Gunk Shot**, **Hypnosis**, **Power Whip**, **Ice Fang**
+* Heatmor (**Fatal Precision**) **Dynamic Punch**, **Stone Edge**, **Power Whip**, Fire Blast
+* Drampa (**Fatal Precision**) Fire Blast, Blizzard, Hurricane, Hydro Pump
+* Marowak (**Bone Zone**) Bonemerang, Knock Off, Stone Edge, Swords Dance
+* Marowak Alolan (**Bone Zone**) Bone Rush, Knock Off, Shadow Bone, Flame Wheel
+* Typhlosion (**Blazing Soul**) Eruption, Flamethrower, Focus Blast, Scorching Sands
+* Rapidash Radical **[Fire/Fairy]** (Pastel Veil) Flare Blitz, Wild Charge, Play Rough, Swords Dance
+* Brute Bonnet (**Poison Heal**) **Leaf Blade**, **Earthquake**, **Grassy Glide**, **Knock Off**
+* Ceruledge (**Sharpness**) Shadow Sneak, Poltergeist, Bitter Blade, Swords Dance
+* Polteageist (**Heatproof**) Shell Smash, Shadow Ball, Stored Power, Giga Drain
+* Hypno 2 (**Bad Dreams**) **Aura Sphere**, Nasty Plot, Draining Kiss, Hypnosis
+
+## **Updated Raids**
+
+* Torterra (Overgrow \-\> **Rock Head**) **Shell Smash**, Headlong Rush, Wood Hammer, Head Smash
+* Copperajah (**Blunt Force**)
+* Rampardos (**Blunt Force**)
+* Persian (**Berserk** \-\> **Feline Prowess**)
+* Persian Alola (**Berserk** \-\> **Feline Prowess**)
+* Oranguru (**Psychic Surge** \-\> **Sage Power**) Psychic, Thunderbolt, Focus Blast, Hyper Voice
+* Emboar (**Bull Rush**)
+* Bouffalant (**Bull Rush**)
+* Hitmonlee (**Striker**) Sucker Punch \-\> **Triple Axel**, Close Combat \-\> Axe Kick
+* Tsareena (**Striker**) U-Turn \-\> **Triple Axel**
+* Eelektross (**Fatal Precision**)
+* Rapidash (**Speed Boost** \-\> **Blazing Soul**)
+* Typhlosion (**Blazing Soul**) Eruption, Flamethrower, Focus Blast, Scorching Sands
+* Lycanroc Mid Day (**Inner Focus**)
+
+## **Updated Radical Region Forms** 
+* Granbull (h:**Strong Jaw** \-\> h:**Bull Rush**, Quick Feet -> **Strong Jaw**)
+* Rapidash (Reckless \-\> Pastel Veil)
+
+## **Bugfixes**
+
+* Removed Wish from Lapras raid to prevent crashes; *Perhapse laprash was just wishing for my game to crash?*
+* Fixed Rapidash Radical form's raid having a Rapidash move pool; *yikes my bad*
+
 # v2.0.1
 
 * Fixing Radical Raichu abilities and stats

@@ -1,0 +1,23 @@
+{
+    "pokemon": {
+        "species": "brutebonnet",
+        "moves": [
+            "leafblade",
+            "earthquake",
+            "grassyglide",
+            "knockoff"
+        ],
+        "ability": "poisonheal"
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "GRASS",
+    "weight": 4.0,
+    "den": [
+        "cobblemonraiddens:raid_den/radical"
+    ],
+    "script": {
+        "turn:1": "USE_MOVE_TOXIC_2",
+        "turn:2": "SET_SUN",
+        "turn:3": "SET_GRASSY_TERRAIN"
+    }
+}

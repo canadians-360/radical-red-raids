@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "drampa",
+    "moves": [
+      "blizzard",
+      "fireblast",
+      "hurricane",
+      "hydropump"
+    ],
+    "ability": "fatalprecision"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "NORMAL",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

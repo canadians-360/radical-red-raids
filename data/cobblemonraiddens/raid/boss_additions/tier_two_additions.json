@@ -1,11 +1,12 @@
 {
   "priority": 40,
   "include": [
-    "#cobblemonraiddens:pikachu_radical"
+    "cobblemonraiddens:pikachu_radical"
   ],
   "exclude": [],
   "additions": {
-    "weight": 4.0
+    "weight": 4.0,
+    "raid_ai": "RCT"
   },
   "replace": true
 }

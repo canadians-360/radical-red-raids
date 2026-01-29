@@ -7,17 +7,11 @@
       "wildcharge",
       "swordsdance"
     ],
-    "ability": "speedboost"
+    "ability": "blazingsoul"
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "FIRE",
   "weight": 4.0,
-  "base_form": [
-    {
-      "name": "radical",
-      "value": true
-    }
-  ],
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]

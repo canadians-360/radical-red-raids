@@ -17,8 +17,8 @@
             "secondaryType": "fighting",
             "abilities": [
                 "intimidate",
-                "quickfeet",
-                "h:strongjaw"
+                "strongjaw",
+                "h:bullrush"
             ],
             "baseStats": {
                 "hp": 100,
@@ -26,7 +26,7 @@
                 "defence": 75,
                 "special_attack": 60,
                 "special_defence": 60,
-                "speed": 55
+                "speed": 45
             },
             "moves": [
                 "1:icefang",

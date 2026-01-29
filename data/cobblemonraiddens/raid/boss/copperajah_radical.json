@@ -6,7 +6,8 @@
       "earthquake",
       "powerwhip",
       "heatcrash"
-    ]
+    ],
+    "ability": "bluntforce"
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "STEEL",

@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "seviper",
+    "moves": [
+      "gunkshot",
+      "hypnosis",
+      "powerwhip",
+      "icefang"
+    ],
+    "ability": "fatalprecision"
+  },
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "POISON",
+  "weight": 4.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

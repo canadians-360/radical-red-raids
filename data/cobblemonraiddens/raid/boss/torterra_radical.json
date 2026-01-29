@@ -3,11 +3,11 @@
     "species": "torterra",
     "moves": [
       "shellsmash",
-      "gravapple",
-      "sleeppowder",
-      "highhorsepower"
+      "headlongrush",
+      "woodhammer",
+      "headsmash"
     ],
-    "ability": "selfsufficient"
+    "ability": "rockhead"
   },
   "raid_tier": "TIER_FIVE",
   "raid_type": "GRASS",

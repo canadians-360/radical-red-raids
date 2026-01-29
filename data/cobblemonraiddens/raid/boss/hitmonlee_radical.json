@@ -2,11 +2,12 @@
   "pokemon": {
     "species": "hitmonlee",
     "moves": [
-      "suckerpunch",
+      "axekick",
       "pyroball",
-      "closecombat",
+      "tripleaxel",
       "aquastep"
-    ]
+    ],
+    "ability": "striker"
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "FIGHTING",

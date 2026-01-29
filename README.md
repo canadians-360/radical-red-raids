@@ -6,11 +6,10 @@ _No affiliation with Radical Red or Radical Trainer mods._
 
 ## Main Features
 
-*   274+ Unique Raid Additions: Encounter a massive variety of Pokémon specifically optimized for a more challenging and rewarding raid experience.
-*   Custom Abilities & Moves: Face off against (and catch!) Pokémon with otherwise unobtainalbe or rare ability-move combos, such as Mega Launcher Magmortar, Technician Donphan, or Simple Magcargo.
-*   30+ Regional Variants: Adds "Radical" regional pokemon with new stats/types. Example: Water/Dragon Lapras or Electric/Fighting Electivire.
-*   Competitive Movesets: Every Pokémon has been assigned a hopefully challenging moveset inspired by competitive Smogon sets (taking into account new moves/abilities/etc.), ensuring every raid feels like a tough boss battle.
-*   Check out the [Wiki](https://github.com/canadians-360/radical-red-raids/wiki) for more details on abilites, moves, radical regional forms
+* 300+ Unique Raid Additions: Encounter a massive variety of Pokémon specifically optimized for a more challenging and rewarding raid experience.
+* Custom Abilities & Moves: Face off against (and catch!) Pokémon with otherwise unobtainalbe or rare ability-move combos, such as Mega Launcher Magmortar, Technician Donphan, or Simple Magcargo.
+* 30+ Regional Variants: Adds "Radical" regional pokemon with new stats/types. Example: Water/Dragon Lapras or Electric/Fighting Electivire.
+* Competitive Movesets: Every Pokémon has been assigned a hopefully challenging moveset inspired by competitive Smogon sets (taking into account new moves/abilities/etc.), ensuring every raid feels like a tough boss battle.
 
 ## Technical Details
 
@@ -18,7 +17,7 @@ This datapack is built specifically to work with the Cobblemon Raid Dens mod and
 
 ## Installation
 
-*   Ensure you have Cobblemon and Cobblemon Raid Dens installed.
-*   Drop this datapack into your world's datapacks folder.
-*   Copy the datapack into your resourcepack folder and enable it. (or install the "radical red raid resources" resource pack)
-*   Look for the Radical den (a calcite and skystone den) type in your world to find these rare encounters!
+* Ensure you have Cobblemon and Cobblemon Raid Dens installed.
+* Drop this datapack into your world's datapacks folder.
+* Copy the datapack into your resourcepack folder and enable it. (or install the "radical red raid resources" resource pack)
+* Look for the Radical den (a calcite and skystone den) type in your world to find these rare encounters!

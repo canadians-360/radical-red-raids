@@ -6,6 +6,43 @@
   "cobblemon.move.sonicslash.desc": "The user slashes the target at high speed. The faster the user is compared to the target, the greater the move's power.",
   
 
+  
+  "cobblemon.ability.blazingsoul": "Blazing Soul",
+  "cobblemon.ability.blazingsoul.desc": "Gives priority to Fire-type moves when HP is full.",
+  
+  "cobblemon.ability.bluntforce": "Blunt Force",
+  "cobblemon.ability.bluntforce.desc": "Boosts the power of contact moves, but removes their secondary effects.",
+  
+  "cobblemon.ability.bonezone": "Bone Zone",
+  "cobblemon.ability.bonezone.desc": "Bone moves ignore resistances and can hit Flying-types or Levitate users.",
+  
+  "cobblemon.ability.bullrush": "Bull Rush",
+  "cobblemon.ability.bullrush.desc": "Boosts Attack and Speed on the first turn the Pokémon is in battle.",
+  
+  "cobblemon.ability.quillrush": "Quill Rush",
+  "cobblemon.ability.quillrush.desc": "Boosts Attack and Speed on the first turn the Pokémon is in battle.",
+  
+  "cobblemon.ability.fatalprecision": "Fatal Precision",
+  "cobblemon.ability.fatalprecision.desc": "Super effective moves deal 20% more damage and cannot miss.",
+  
+  "cobblemon.ability.felineprowess": "Feline Prowess",
+  "cobblemon.ability.felineprowess.desc": "Doubles the Pokémon's Special Attack stat.",
+  
+  "cobblemon.ability.mountaineer": "Mountaineer",
+  "cobblemon.ability.mountaineer.desc": "The Pokémon is immune to Rock-type moves and Stealth Rock upon entry.",
+  
+  "cobblemon.ability.sagepower": "Sage Power",
+  "cobblemon.ability.sagepower.desc": "Boosts Special Attack by 50%, but only allows the use of one move.",
+  
+  "cobblemon.ability.selfsufficient": "Self-Sufficient",
+  "cobblemon.ability.selfsufficient.desc": "The Pokémon gradually regains HP every turn.",
+  "cobblemon.battle.heal.selfsufficient": "%1$s restored a little HP by fending for itself!",
+  
+  "cobblemon.ability.striker": "Striker",
+  "cobblemon.ability.striker.desc": "Boosts the power of kicking moves by 20%.",
+
+
+
   "cobblemon.species.lapras-radical.desc": "This reclusive Lapras has inhabited a large local lake, adapting to the myths and legends told around it over time, growing more draconic in nature.",
   "cobblemon.ui.pokedex.info.form.lapras-radical": "Radical",
 

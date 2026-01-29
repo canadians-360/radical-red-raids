@@ -1,0 +1,24 @@
+{
+  "pokemon": {
+    "species": "decidueye",
+    "moves": [
+      "triplearrows",
+      "tropkick",
+      "tripleaxel",
+      "swordsdance"
+    ],
+    "ability": "striker"
+  },
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "GRASS",
+  "weight": 4.0,
+  "base_form": [
+    {
+      "name": "hisuian",
+      "value": true
+    }
+  ],
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

@@ -5,8 +5,9 @@
       "gravapple",
       "highjumpkick",
       "playrough",
-      "uturn"
-    ]
+      "tripleaxel"
+    ],
+    "ability": "striker"
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "GRASS",
