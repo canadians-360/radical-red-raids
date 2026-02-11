@@ -7,17 +7,17 @@
       "accelerock",
       "stoneedge"
     ],
-    "ability": "technician"
+    "ability": "technician",
+    "custom_properties": [
+        {
+            "name": "hisuian",
+            "value": true
+        }
+    ]
   },
   "raid_tier": "TIER_FIVE",
   "raid_type": "ICE",
   "weight": 4.0,
-  "base_form": [
-    {
-      "name": "hisuian",
-      "value": true
-    }
-  ],
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]

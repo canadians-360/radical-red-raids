@@ -7,17 +7,17 @@
       "blizzard",
       "nastyplot"
     ],
-    "ability": "serenegrace"
+    "ability": "serenegrace",
+    "custom_properties": [
+        {
+            "name": "alolan",
+            "value": true
+        }
+    ]
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "ICE",
   "weight": 4.0,
-  "base_form": [
-    {
-      "name": "alolan",
-      "value": true
-    }
-  ],
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]

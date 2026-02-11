@@ -7,17 +7,17 @@
       "stoneedge",
       "swordsdance"
     ],
-    "ability": "innerfocus"
+    "ability": "innerfocus",
+    "custom_properties": [
+        {
+            "name": "wolf_form",
+            "value": "midday"
+        }
+    ]
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "ROCK",
   "weight": 4.0,
-  "base_form": [
-    {
-      "name": "wolf_form",
-      "value": "midday"
-    }
-  ],
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]

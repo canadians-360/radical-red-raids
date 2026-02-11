@@ -7,17 +7,17 @@
       "icebeam",
       "psychic"
     ],
-    "ability": "neuroforce"
+    "ability": "neuroforce",
+    "custom_properties": [
+        {
+            "name": "radical",
+            "value": true
+        }
+    ]
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "WATER",
   "weight": 4.0,
-  "base_form": [
-    {
-      "name": "radical",
-      "value": true
-    }
-  ],
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]

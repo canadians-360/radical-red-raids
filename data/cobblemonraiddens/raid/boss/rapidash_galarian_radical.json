@@ -7,17 +7,17 @@
       "playrough",
       "swordsdance"
     ],
-    "ability": "pastelveil"
+    "ability": "pastelveil",
+    "custom_properties": [
+        {
+            "name": "radical",
+            "value": true
+        }
+    ]
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "FIRE",
   "weight": 4.0,
-  "base_form": [
-    {
-      "name": "radical",
-      "value": true
-    }
-  ],
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]

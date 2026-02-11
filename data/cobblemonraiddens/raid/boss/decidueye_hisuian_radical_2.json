@@ -7,17 +7,17 @@
       "knockoff",
       "rockslide"
     ],
-    "ability": "quillrush"
+    "ability": "quillrush",
+    "custom_properties": [
+        {
+            "name": "hisuian",
+            "value": true
+        }
+    ]
   },
   "raid_tier": "TIER_FIVE",
   "raid_type": "GRASS",
   "weight": 4.0,
-  "base_form": [
-    {
-      "name": "hisuian",
-      "value": true
-    }
-  ],
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]
