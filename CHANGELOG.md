@@ -1,6 +1,6 @@
 # CHANGE LOG
 
-# v2.2.0 Raid Dens 0.7 Support
+# v3.0.0 Raid Dens 0.7 Support
 * Fixed all base form raids to work with v0.7 changes
 * Fixed Radical Masquerain and Luxray having the wrong ability
 
