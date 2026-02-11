@@ -1,7 +1,7 @@
 {
   "priority": 45,
   "include": [
-    "#cobblemonraiddens:articuno_radical"
+    "cobblemonraiddens:articuno_radical"
   ],
   "exclude": [],
   "additions": {
