@@ -6,17 +6,17 @@
       "freezyfrost",
       "psychic",
       "nastyplot"
+    ],
+    "custom_properties": [
+        {
+            "name": "galarian",
+            "value": true
+        }
     ]
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "ICE",
   "weight": 4.0,
-  "base_form": [
-    {
-      "name": "galarian",
-      "value": true
-    }
-  ],
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]

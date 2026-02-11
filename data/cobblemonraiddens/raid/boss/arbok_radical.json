@@ -7,17 +7,17 @@
       "earthquake",
       "gunkshot"
     ],
-    "ability": "strongjaw"
+    "ability": "strongjaw",
+    "custom_properties": [
+        {
+            "name": "radical",
+            "value": true
+        }
+    ]
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "POISON",
   "weight": 4.0,
-  "base_form": [
-    {
-      "name": "radical",
-      "value": true
-    }
-  ],
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]

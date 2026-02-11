@@ -7,17 +7,17 @@
       "bulkup",
       "closecombat"
     ],
-    "ability": "ironfist"
+    "ability": "ironfist",
+    "custom_properties": [
+        {
+            "name": "radical",
+            "value": true
+        }
+    ]
   },
   "raid_tier": "TIER_FIVE",
   "raid_type": "ELECTRIC",
   "weight": 4.0,
-  "base_form": [
-    {
-      "name": "radical",
-      "value": true
-    }
-  ],
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]
