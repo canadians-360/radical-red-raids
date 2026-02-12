@@ -1,0 +1,8 @@
+{
+	"name": "cobblemon.mark.radical_mark",
+	"title": "cobblemon.mark.radical_mark.title",
+	"titleColor": "CE3A49",
+	"description": "cobblemon.mark.radical_mark.desc",
+	"texture": "cobblemon:textures/gui/mark/radical_mark.png",
+	"indexNumber": 151
+}
