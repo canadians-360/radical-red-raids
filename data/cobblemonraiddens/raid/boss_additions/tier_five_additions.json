@@ -77,7 +77,8 @@
   "exclude": [],
   "additions": {
     "weight": 4.0,
-    "raid_ai": "RCT"
+    "raid_ai": "RCT",
+    "marks": ["cobblemon:radical_mark"]
   },
   "replace": true
 }
