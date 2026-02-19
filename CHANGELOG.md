@@ -1,5 +1,18 @@
 # CHANGE LOG
 
+# v3.0.2 - Fixes
+
+## **Updated Raids**
+
+* Alakazam 
+* Toedscruel Moldbreaker
+* Scyther sharpness
+
+## **Bugfixes**
+
+* Fixed spawn rates for dens being too high from addition file multiplier.
+* Increased intended base radical raid spawn rate to 1 in 4 from 1 in 5
+
 # v3.0.1 - Marks
 * Adds a cobblemon mark to all radical raid pokemon captures
 * Note: Mark is not retroactively applied
