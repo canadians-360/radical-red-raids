@@ -6,7 +6,8 @@
       "dualwingbeat",
       "uturn",
       "swordsdance"
-    ]
+    ],
+    "ability": "sharpness"
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "BUG",

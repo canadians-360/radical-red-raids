@@ -7,7 +7,7 @@
         "bitterblade",
         "swordsdance"
     ],
-        "ability": "sharpness"
+    "ability": "sharpness"
   },
   "raid_tier": "TIER_FIVE",
   "raid_type": "FIRE",

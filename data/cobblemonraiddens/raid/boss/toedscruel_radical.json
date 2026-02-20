@@ -6,7 +6,8 @@
       "gigadrain",
       "earthpower",
       "sludgebomb"
-    ]
+    ],
+    "ability": "moldbreaker"
   },
   "raid_tier": "TIER_FIVE",
   "raid_type": "GROUND",

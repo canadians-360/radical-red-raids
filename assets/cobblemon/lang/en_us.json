@@ -136,5 +136,10 @@
   "cobblemon.ui.pokedex.info.form.venomoth-radical": "Radical",
 
   "cobblemon.species.volbeat-radical.desc": "This Volbeat adapted its bioluminescent signals into electrical pulses, allowing it to communicate through flashes of energy.",
-  "cobblemon.ui.pokedex.info.form.volbeat-radical": "Radical"
+  "cobblemon.ui.pokedex.info.form.volbeat-radical": "Radical",
+
+  "cobblemon.species.phione-radical.desc": "This Pokémon has thrived in the shifting currents of the region. It has developed a rare, instinctive magic that allows it to exert an influence over its own energy far beyond what its small size would suggest.",
+  "cobblemon.ui.pokedex.info.form.phione-radical": "Radical"
+
+
 }
