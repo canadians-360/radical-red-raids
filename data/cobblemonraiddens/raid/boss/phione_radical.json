@@ -1,0 +1,24 @@
+{
+  "pokemon": {
+    "species": "phione",
+    "moves": [
+      "takeheart",
+      "moonblast",
+      "scald",
+      "icebeam"
+    ],
+    "ability": "simple",
+    "custom_properties": [
+        {
+            "name": "radical",
+            "value": true
+        }
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "WATER",
+  "weight": 5.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

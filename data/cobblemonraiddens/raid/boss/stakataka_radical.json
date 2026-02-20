@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "stakataka",
+    "moves": [
+      "shoreup",
+      "gyroball",
+      "bodypress",
+      "irondefense"
+    ],
+    "ability": "solidrock"
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "ROCK",
+  "weight": 5.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

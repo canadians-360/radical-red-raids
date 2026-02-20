@@ -10,7 +10,7 @@
   },
   "raid_tier": "TIER_FIVE",
   "raid_type": "DRAGON",
-  "weight": 4.0,
+  "weight": 5.0,
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]

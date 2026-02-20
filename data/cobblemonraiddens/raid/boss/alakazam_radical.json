@@ -2,15 +2,15 @@
   "pokemon": {
     "species": "alakazam",
     "moves": [
-      "hiddenpower",
+      "expandingforce",
       "psychic",
-      "focusblast",
+      "aurasphere",
       "nastyplot"
     ]
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "PSYCHIC",
-  "weight": 4.0,
+  "weight": 5.0,
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]

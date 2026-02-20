@@ -6,11 +6,12 @@
       "stoneaxe",
       "sacredsword",
       "swordsdance"
-    ]
+    ],
+    "ability": "sharpness"
   },
   "raid_tier": "TIER_FOUR",
   "raid_type": "ROCK",
-  "weight": 4.0,
+  "weight": 5.0,
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]

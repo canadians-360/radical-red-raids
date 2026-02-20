@@ -2,11 +2,15 @@
   "priority": 44,
   "include": [
     "cobblemonraiddens:screamtail_radical",
-    "cobblemonraiddens:brutebonnet_radical"
+    "cobblemonraiddens:brutebonnet_radical",
+    "cobblemonraiddens:guzzlord_radical",
+    "cobblemonraiddens:ironthorns_radical",
+    "cobblemonraiddens:stakataka_radical",
+    "cobblemonraiddens:nihilego_radical"
   ],
   "exclude": [],
   "additions": {
-    "weight": 4.0,
+    "weight": 1.0,
     "raid_ai": "RCT",
     "marks": ["cobblemon:radical_mark"]
   },

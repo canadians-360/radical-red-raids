@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "nihilego",
+    "moves": [
+      "powergem",
+      "grassknot",
+      "sludgewave",
+      "toxic"
+    ],
+    "ability": "levitate"
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "ROCK",
+  "weight": 5.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

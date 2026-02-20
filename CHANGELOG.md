@@ -1,5 +1,31 @@
 # CHANGE LOG
 
+# v3.1.0 - Fixes
+
+## **New Radical Forms**
+
+* Phione \[**Water/Fairy**\] (**Simple**) **Moonblast**, Take Heart, Scald, Ice Beam
+
+## **New Raids**
+
+* Guzzlord (**Dark Aura**) **Parting Shot**, **Dragon Hammer**, Heavy Slam, Earthquake
+* Iron Thorns (**Solid Rock**) Wild Charge, Dragon Dance, Ice Punch, Stone Edge
+* Stakataka (**Filter**) **Shore Up**, Gyro Ball, Body Press, Iron Defense
+* Nihilego (**Levitate**) **Toxic**, Power Gem, Grass Knot, Sludge Wave
+
+
+## **Updated Raids**
+
+* Alakazam () **Expanding Force**, **Aura Sphere**
+* Toedscruel (**Moldbreaker**)
+* Scyther (**Sharpness**)
+* Kabutops (**Sharpness**)
+
+## **Bugfixes**
+
+* Fixed spawn rates for dens being too high from addition file multiplier.
+* Increased intended base radical raid spawn weight 5 (rate to 1 in 4) from weight 4 (rate 1 in 5)
+
 # v3.0.1 - Marks
 * Adds a cobblemon mark to all radical raid pokemon captures
 * Note: Mark is not retroactively applied
