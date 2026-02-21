@@ -9,6 +9,7 @@
     ],
     "ability": "solidrock"
   },
+  "boss_bar_text": "★§n§cRadical Iron Thorns§r§r★",
   "raid_tier": "TIER_SIX",
   "raid_type": "ROCK",
   "weight": 5.0,

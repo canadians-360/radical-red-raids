@@ -9,7 +9,8 @@
         ],
         "ability": "bullrush"
     },
-    "raid_tier": "TIER_FOUR",
+    "boss_bar_text": "★§n§cRadical Tauros§r§r★",
+  "raid_tier": "TIER_FOUR",
     "raid_type": "NORMAL",
     "weight": 5.0,
     "den": [

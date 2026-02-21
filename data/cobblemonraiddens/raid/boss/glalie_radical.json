@@ -9,6 +9,7 @@
     ],
     "ability": "refrigerate"
   },
+  "boss_bar_text": "★§n§cRadical Glalie§r§r★",
   "raid_tier": "TIER_FOUR",
   "raid_type": "ICE",
   "weight": 5.0,

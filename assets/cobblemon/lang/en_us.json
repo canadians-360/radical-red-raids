@@ -3,6 +3,8 @@
   "cobblemon.mark.radical_mark.title": "Radical",
   "cobblemon.mark.radical_mark.desc": "Captured in a Radical Raid, has new moves or abilities.",
 
+  "radicalredraids.ui.prefix": "Radical",
+
 
   "cobblemon.move.aquafang": "Aqua Fang",
   "cobblemon.move.aquafang.desc": "The user bites the target with water-infused fangs. This may make the target flinch.",

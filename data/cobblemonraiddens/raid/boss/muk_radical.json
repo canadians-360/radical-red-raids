@@ -9,6 +9,7 @@
     ],
     "ability": "regenerator"
   },
+  "boss_bar_text": "★§n§cRadical Muk§r§r★",
   "raid_tier": "TIER_FOUR",
   "raid_type": "POISON",
   "weight": 5.0,

@@ -9,7 +9,8 @@
         ],
         "ability": "sagepower"
     },
-    "raid_tier": "TIER_FOUR",
+    "boss_bar_text": "★§n§cRadical Simipour§r§r★",
+  "raid_tier": "TIER_FOUR",
     "raid_type": "WATER",
     "weight": 5.0,
   "den": [

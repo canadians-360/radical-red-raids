@@ -9,7 +9,8 @@
         ],
         "ability": "heatproof"
     },
-    "raid_tier": "TIER_FOUR",
+    "boss_bar_text": "★§n§cRadical Polteageist§r§r★",
+  "raid_tier": "TIER_FOUR",
     "raid_type": "GHOST",
     "weight": 5.0,
     "den": [
