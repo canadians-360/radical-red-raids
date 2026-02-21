@@ -17,8 +17,8 @@
   },
   "boss_bar_text": [
     {
-      "text": "★",
-      "color": "white"
+      "text": "★★",
+      "color": "gold"
     },
     {
       "translate": "%s ",
@@ -45,8 +45,8 @@
       "bold": true
     },
     {
-      "text": "★",
-      "color": "white"
+      "text": "★★",
+      "color": "gold"
     }
   ],
   "raid_tier": "TIER_FIVE",
