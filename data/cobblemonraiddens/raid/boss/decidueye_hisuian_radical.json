@@ -9,13 +9,46 @@
     ],
     "ability": "striker",
     "custom_properties": [
-        {
-            "name": "hisuian",
-            "value": true
-        }
+      {
+        "name": "hisuian",
+        "value": true
+      }
     ]
   },
-  "boss_bar_text": "★§n§cRadical Decidueye§r§r★",
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
+    },
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.decidueye.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
+    }
+  ],
   "raid_tier": "TIER_FIVE",
   "raid_type": "GRASS",
   "weight": 5.0,

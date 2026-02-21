@@ -8,13 +8,46 @@
       "nastyplot"
     ],
     "custom_properties": [
-        {
-            "name": "galarian",
-            "value": true
-        }
+      {
+        "name": "galarian",
+        "value": true
+      }
     ]
   },
-  "boss_bar_text": "★§n§cRadical Mr. Mime§r§r★",
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
+    },
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.mrmime.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
+    }
+  ],
   "raid_tier": "TIER_FOUR",
   "raid_type": "ICE",
   "weight": 5.0,

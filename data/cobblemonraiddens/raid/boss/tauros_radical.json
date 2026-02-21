@@ -1,19 +1,52 @@
 {
-    "pokemon": {
-        "species": "tauros",
-        "moves": [
-            "ragingbull",
-            "zenheadbutt",
-            "throatchop",
-            "earthquake"
-        ],
-        "ability": "bullrush"
+  "pokemon": {
+    "species": "tauros",
+    "moves": [
+      "ragingbull",
+      "zenheadbutt",
+      "throatchop",
+      "earthquake"
+    ],
+    "ability": "bullrush"
+  },
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
     },
-    "boss_bar_text": "★§n§cRadical Tauros§r§r★",
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.tauros.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
+    }
+  ],
   "raid_tier": "TIER_FOUR",
-    "raid_type": "NORMAL",
-    "weight": 5.0,
-    "den": [
-        "cobblemonraiddens:raid_den/radical"
-    ]
+  "raid_type": "NORMAL",
+  "weight": 5.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
 }

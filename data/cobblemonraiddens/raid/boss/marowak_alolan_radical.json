@@ -2,20 +2,53 @@
   "pokemon": {
     "species": "marowak",
     "moves": [
-        "bonerush",
-        "knockoff",
-        "shadowbone",
-        "flamewheel"
+      "bonerush",
+      "knockoff",
+      "shadowbone",
+      "flamewheel"
     ],
     "ability": "bonezone",
     "custom_properties": [
-        {
-            "name": "alolan",
-            "value": true
-        }
+      {
+        "name": "alolan",
+        "value": true
+      }
     ]
   },
-  "boss_bar_text": "★§n§cRadical Marowak§r§r★",
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
+    },
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.marowak.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
+    }
+  ],
   "raid_tier": "TIER_FOUR",
   "raid_type": "FIRE",
   "weight": 5.0,

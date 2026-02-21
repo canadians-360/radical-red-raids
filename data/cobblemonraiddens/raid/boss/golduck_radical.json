@@ -9,13 +9,46 @@
     ],
     "ability": "neuroforce",
     "custom_properties": [
-        {
-            "name": "radical",
-            "value": true
-        }
+      {
+        "name": "radical",
+        "value": true
+      }
     ]
   },
-  "boss_bar_text": "★§n§cRadical Golduck§r§r★",
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
+    },
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.golduck.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
+    }
+  ],
   "raid_tier": "TIER_FOUR",
   "raid_type": "WATER",
   "weight": 5.0,

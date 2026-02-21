@@ -1,18 +1,51 @@
 {
-    "pokemon": {
-        "species": "simisear",
-        "moves": [
-            "uproar",
-            "fireblast",
-            "grassknot",
-            "focusblast"
-        ],
-        "ability": "sagepower"
+  "pokemon": {
+    "species": "simisear",
+    "moves": [
+      "uproar",
+      "fireblast",
+      "grassknot",
+      "focusblast"
+    ],
+    "ability": "sagepower"
+  },
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
     },
-    "boss_bar_text": "★§n§cRadical Simisear§r§r★",
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.simisear.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
+    }
+  ],
   "raid_tier": "TIER_FOUR",
-    "raid_type": "FIRE",
-    "weight": 5.0,
+  "raid_type": "FIRE",
+  "weight": 5.0,
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]

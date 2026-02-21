@@ -1,19 +1,52 @@
 {
-    "pokemon": {
-        "species": "guzzlord",
-        "moves": [
-            "dragonhammer",
-            "partingshot",
-            "heavyslam",
-            "earthquake"
-        ],
-        "ability": "darkaura"
+  "pokemon": {
+    "species": "guzzlord",
+    "moves": [
+      "dragonhammer",
+      "partingshot",
+      "heavyslam",
+      "earthquake"
+    ],
+    "ability": "darkaura"
+  },
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
     },
-    "boss_bar_text": "★§n§cRadical Guzzlord§r§r★",
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.guzzlord.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
+    }
+  ],
   "raid_tier": "TIER_SIX",
-    "raid_type": "DARK",
-    "weight": 5.0,
-    "den": [
-        "cobblemonraiddens:raid_den/radical"
-    ]
+  "raid_type": "DARK",
+  "weight": 5.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
 }

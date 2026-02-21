@@ -8,22 +8,25 @@
       "nastyplot"
     ],
     "custom_properties": [
-        {
-            "name": "radical",
-            "value": true
-        }
+      {
+        "name": "radical",
+        "value": true
+      }
     ]
   },
   "boss_bar_text": [
-    {"text": "★", "color": "white"},
+    {
+      "text": "★",
+      "color": "white"
+    },
     {
       "translate": "%s ",
       "type": "translatable",
       "with": [
-          {
-              "translate": "radicalredraids.ui.prefix",
-              "type": "translatable"
-          }
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
       ],
       "color": "red",
       "bold": true
@@ -32,15 +35,18 @@
       "translate": "%s",
       "type": "translatable",
       "with": [
-          {
-              "translate": "cobblemon.species.raichu.name",
-              "type": "translatable"
-          }
+        {
+          "translate": "cobblemon.species.raichu.name",
+          "type": "translatable"
+        }
       ],
       "color": "red",
       "bold": true
     },
-    {"text": "★", "color": "white"}
+    {
+      "text": "★",
+      "color": "white"
+    }
   ],
   "raid_tier": "TIER_FOUR",
   "raid_type": "ELECTRIC",

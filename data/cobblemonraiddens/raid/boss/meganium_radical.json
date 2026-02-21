@@ -9,13 +9,46 @@
     ],
     "ability": "triage",
     "custom_properties": [
-        {
-            "name": "radical",
-            "value": true
-        }
+      {
+        "name": "radical",
+        "value": true
+      }
     ]
   },
-  "boss_bar_text": "★§n§cRadical Meganium§r§r★",
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
+    },
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.meganium.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
+    }
+  ],
   "raid_tier": "TIER_FIVE",
   "raid_type": "GRASS",
   "weight": 5.0,
