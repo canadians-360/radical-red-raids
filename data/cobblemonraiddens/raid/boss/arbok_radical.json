@@ -9,12 +9,46 @@
     ],
     "ability": "strongjaw",
     "custom_properties": [
-        {
-            "name": "radical",
-            "value": true
-        }
+      {
+        "name": "radical",
+        "value": true
+      }
     ]
   },
+  "boss_bar_text": [
+    {
+      "text": "★★",
+      "color": "gold"
+    },
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.arbok.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★★",
+      "color": "gold"
+    }
+  ],
   "raid_tier": "TIER_FOUR",
   "raid_type": "POISON",
   "weight": 5.0,

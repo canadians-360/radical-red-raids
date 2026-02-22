@@ -1,23 +1,57 @@
 {
-    "pokemon": {
-        "species": "brutebonnet",
-        "moves": [
-            "leafblade",
-            "earthquake",
-            "grassyglide",
-            "knockoff"
-        ],
-        "ability": "poisonheal"
-    },
-    "raid_tier": "TIER_SIX",
-    "raid_type": "GRASS",
-    "weight": 5.0,
-    "den": [
-        "cobblemonraiddens:raid_den/radical"
+  "pokemon": {
+    "species": "brutebonnet",
+    "moves": [
+      "leafblade",
+      "earthquake",
+      "grassyglide",
+      "knockoff"
     ],
-    "script": {
-        "turn:1": "USE_MOVE_TOXIC_2",
-        "turn:2": "SET_SUN",
-        "turn:3": "SET_GRASSY_TERRAIN"
+    "ability": "poisonheal"
+  },
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
+    },
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.brutebonnet.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
     }
+  ],
+  "raid_tier": "TIER_SIX",
+  "raid_type": "GRASS",
+  "weight": 5.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ],
+  "script": {
+    "turn:1": "USE_MOVE_TOXIC_2",
+    "turn:2": "SET_SUN",
+    "turn:3": "SET_GRASSY_TERRAIN"
+  }
 }

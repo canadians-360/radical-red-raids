@@ -1,17 +1,51 @@
 {
-    "pokemon": {
-        "species": "simipour",
-        "moves": [
-            "grassknot",
-            "hydropump",
-            "icebeam",
-            "focusblast"
-        ],
-        "ability": "sagepower"
+  "pokemon": {
+    "species": "simipour",
+    "moves": [
+      "grassknot",
+      "hydropump",
+      "icebeam",
+      "focusblast"
+    ],
+    "ability": "sagepower"
+  },
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
     },
-    "raid_tier": "TIER_FOUR",
-    "raid_type": "WATER",
-    "weight": 5.0,
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.simipour.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
+    }
+  ],
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "WATER",
+  "weight": 5.0,
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]

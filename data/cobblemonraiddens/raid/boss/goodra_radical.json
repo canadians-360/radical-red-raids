@@ -8,6 +8,40 @@
       "sludgebomb"
     ]
   },
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
+    },
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.goodra.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
+    }
+  ],
   "raid_tier": "TIER_FIVE",
   "raid_type": "DRAGON",
   "weight": 5.0,

@@ -9,12 +9,46 @@
     ],
     "ability": "ironfist",
     "custom_properties": [
-        {
-            "name": "radical",
-            "value": true
-        }
+      {
+        "name": "radical",
+        "value": true
+      }
     ]
   },
+  "boss_bar_text": [
+    {
+      "text": "★★",
+      "color": "gold"
+    },
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.ledian.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★★",
+      "color": "gold"
+    }
+  ],
   "raid_tier": "TIER_THREE",
   "raid_type": "BUG",
   "weight": 5.0,

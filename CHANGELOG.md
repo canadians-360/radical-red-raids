@@ -1,5 +1,10 @@
 # CHANGE LOG
 
+# v4.0.0 - Boss Bars for > 0.7.6
+
+* Added Language file supported boss bars to all radical boss fights
+* Radical regional forms given double gold stars in boss title for better differentiation
+
 # v3.1.0 - Fixes
 
 ## **New Radical Forms**

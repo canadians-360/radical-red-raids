@@ -1,17 +1,51 @@
 {
-    "pokemon": {
-        "species": "beheeyem",
-        "moves": [
-            "glitzyglow",
-            "nastyplot",
-            "recover",
-            "thunderbolt"
-        ]
-    },
-    "raid_tier": "TIER_FOUR",
-    "raid_type": "PSYCHIC",
-    "weight": 5.0,
-    "den": [
-        "cobblemonraiddens:raid_den/radical"
+  "pokemon": {
+    "species": "beheeyem",
+    "moves": [
+      "glitzyglow",
+      "nastyplot",
+      "recover",
+      "thunderbolt"
     ]
+  },
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
+    },
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.beheeyem.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
+    }
+  ],
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "PSYCHIC",
+  "weight": 5.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
 }

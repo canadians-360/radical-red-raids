@@ -9,12 +9,46 @@
     ],
     "ability": "serenegrace",
     "custom_properties": [
-        {
-            "name": "alolan",
-            "value": true
-        }
+      {
+        "name": "alolan",
+        "value": true
+      }
     ]
   },
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
+    },
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.ninetales.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
+    }
+  ],
   "raid_tier": "TIER_FOUR",
   "raid_type": "ICE",
   "weight": 5.0,
