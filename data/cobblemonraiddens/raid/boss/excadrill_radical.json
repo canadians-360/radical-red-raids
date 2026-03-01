@@ -1,0 +1,51 @@
+{
+  "pokemon": {
+    "species": "excadrill",
+    "moves": [
+      "icespinner",
+      "earthquake",
+      "swordsdance",
+      "ironhead"
+    ]
+  },
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
+    },
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.excadrill.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
+    }
+  ],
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "GROUND",
+  "weight": 5.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}

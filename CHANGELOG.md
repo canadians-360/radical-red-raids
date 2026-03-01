@@ -5,6 +5,7 @@
 ## **New Raids**
 * Swampert (**Regenerator**) Earthquake, Waterfall, Knockoff, Roar
 * Frosmoth () **Roost**, Quiver Dance, Giga Drain, Ice Beam
+* Excadrill () **Ice Spinner**, Earthquake, Swords Dance, Iron Head
 
 ## **Bugfixes**
 
