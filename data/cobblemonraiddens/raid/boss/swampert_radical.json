@@ -1,0 +1,52 @@
+{
+  "pokemon": {
+    "species": "swampert",
+    "moves": [
+      "earthquake",
+      "waterfall",
+      "knockoff",
+      "roar"
+    ],
+    "ability": "regenerator"
+  },
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
+    },
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.swampert.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
+    }
+  ],
+  "raid_tier": "TIER_FIVE",
+  "raid_type": "WATER",
+  "weight": 5.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}
