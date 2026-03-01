@@ -4,6 +4,11 @@
 
 ## **New Raids**
 * Swampert (**Regenerator**) Earthquake, Waterfall, Knockoff, Roar
+* Frosmoth () **Roost**, Quiver Dance, Giga Drain, Ice Beam
+
+## **Bugfixes**
+
+* None
 
 
 # v4.0.0 - Boss Bars for > 0.7.6
