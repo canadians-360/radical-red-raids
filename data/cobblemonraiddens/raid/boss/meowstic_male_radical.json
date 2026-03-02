@@ -1,6 +1,7 @@
 {
   "pokemon": {
     "species": "meowstic",
+    "gender": "MALE",
     "moves": [
       "mysticalfire",
       "psyshock",
@@ -45,7 +46,7 @@
   ],
   "raid_tier": "TIER_FOUR",
   "raid_type": "PSYCHIC",
-  "weight": 5.0,
+  "weight": 3.0,
   "den": [
     "cobblemonraiddens:raid_den/radical"
   ]

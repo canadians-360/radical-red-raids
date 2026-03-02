@@ -1,5 +1,17 @@
 # CHANGE LOG
 
+# v4.0.1
+
+## **New Raids**
+* Swampert (**Regenerator**) Earthquake, Waterfall, Knockoff, Roar
+* Frosmoth () **Roost**, Quiver Dance, Giga Drain, Ice Beam
+* Excadrill () **Ice Spinner**, Earthquake, Swords Dance, Iron Head
+
+## **Bugfixes**
+
+* Fixed meowstic only spawning as one gender, split into male/female boss fights
+
+
 # v4.0.0 - Boss Bars for > 0.7.6
 
 * Added Language file supported boss bars to all radical boss fights

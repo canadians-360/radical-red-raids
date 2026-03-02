@@ -1,0 +1,53 @@
+{
+  "pokemon": {
+    "species": "meowstic",
+    "gender": "FEMALE",
+    "moves": [
+      "mysticalfire",
+      "psyshock",
+      "signalbeam",
+      "calmmind"
+    ],
+    "ability": "felineprowess"
+  },
+  "boss_bar_text": [
+    {
+      "text": "★",
+      "color": "white"
+    },
+    {
+      "translate": "%s ",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "radicalredraids.ui.prefix",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "translate": "%s",
+      "type": "translatable",
+      "with": [
+        {
+          "translate": "cobblemon.species.meowstic.name",
+          "type": "translatable"
+        }
+      ],
+      "color": "red",
+      "bold": true
+    },
+    {
+      "text": "★",
+      "color": "white"
+    }
+  ],
+  "raid_tier": "TIER_FOUR",
+  "raid_type": "PSYCHIC",
+  "weight": 3.0,
+  "den": [
+    "cobblemonraiddens:raid_den/radical"
+  ]
+}
