@@ -9,7 +9,7 @@
 
 ## **Bugfixes**
 
-* None
+* Fixed meowstic only spawning as one gender, split into male/female boss fights
 
 
 # v4.0.0 - Boss Bars for > 0.7.6
